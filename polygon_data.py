@@ -11,8 +11,15 @@ contents = []
 links = []
 dates = []
 
-def save_to_csv(new_data: pd.DataFrame):
-    csv_file_path = 'polygon.csv'
+def load_existing_links(csv_file_path='polygon.csv'):
+    try:
+        news_data = pd.read_csv(csv_file_path)
+        existing_links = set(news_data['Link'].tolist())
+    except FileNotFoundError:
+        existing_links = set()
+    return existing_links
+
+def save_to_csv(new_data: pd.DataFrame, csv_file_path='polygon.csv'):
     try:
         news_data = pd.read_csv(csv_file_path)
     except FileNotFoundError:
@@ -28,7 +35,7 @@ def save_to_csv(new_data: pd.DataFrame):
     return updated_news_data
 
 # Define a function to scrape the content of an article
-def scrape_article_content(url):
+def scrape_article_content(url: str):
     response = requests.get(url)
     if response.status_code != 200:
         return None
@@ -42,7 +49,7 @@ def scrape_article_content(url):
     return None
 
 # Define a function to scrape articles from a given URL
-def scrape_articles(url):
+def scrape_articles(url: str, existing_links):
     response = requests.get(url)
     if response.status_code != 200:
         raise Exception(f'Failed to load page {url}')
@@ -55,6 +62,8 @@ def scrape_articles(url):
         if title_tag:
             title = title_tag.get_text()
             link = title_tag.find('a')['href']
+            if link in existing_links:
+                continue  # Skip already scraped links
             content = scrape_article_content(link)
         else:
             title = None
@@ -64,12 +73,16 @@ def scrape_articles(url):
         date_tag = article.find('time', class_='c-byline__item')
         date = date_tag['datetime'] if date_tag else None
 
-        titles.append(title)
-        contents.append(content)
-        links.append(link)
-        dates.append(date)
+        if title != None and content != None and link != None and date != None:
+            titles.append(title)
+            contents.append(content)
+            links.append(link)
+            dates.append(date)
 
 def get_news_data():
+    # Load existing links to avoid duplicates
+    existing_links = load_existing_links()
+
     # Loop to handle pagination
     page_number = 1
     while page_number <= 15:
@@ -77,7 +90,7 @@ def get_news_data():
             current_url = base_url
         else:
             current_url = f'{base_url}/{page_number}'
-        scrape_articles(current_url)
+        scrape_articles(current_url, existing_links)
         page_number += 1
 
     # Create a DataFrame using the extracted data
@@ -94,3 +107,4 @@ def get_news_data():
 
 if __name__ == '__main__':
     news_data = get_news_data()
+    print(news_data)

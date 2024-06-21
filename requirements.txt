@@ -8,3 +8,4 @@ trl==0.9.4
 setuptools==70.0.0
 Tensorboard
 TensorboardX
+spacy
