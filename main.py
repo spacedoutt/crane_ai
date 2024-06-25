@@ -14,7 +14,7 @@ from transformers import BitsAndBytesConfig, TrainingArguments
 from trl import SFTTrainer
 import matplotlib.pyplot as plt
 
-from polygon_data import get_news_data
+from polygon_news import get_news_data
 
 parser = argparse.ArgumentParser(description="Chat with the Phi-3-mini-4k-instruct model.")
 parser.add_argument("--type", type=str, default="train", help="Type of interaction with the model. Options: chat, train")

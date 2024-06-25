@@ -1,5 +1,5 @@
 import spacy
-from polygon_data import get_news_data
+from polygon_news import get_news_data
 
 # Load SpaCy's NER model and stop words
 nlp = spacy.load("en_core_web_sm")
@@ -13,14 +13,33 @@ def extract_entities(text):
     companies = []
     tickers = []
 
+    # Get false positive and remove it
+    false_company = []
+
     # Iterate over recognized entities
     for ent in doc.ents:
-        if ent.label_ == "ORG":
+        if ent.label_ == "ORG" and not is_person_name(ent, doc) and not false_company.__contains__(ent.text):
             companies.append(ent.text)
+        elif ent.label_ == "ORG" and is_person_name(ent, doc):
+            false_company.append(ent.text)
+            if ent.text in companies:
+                companies.remove(ent.text)
         elif ent.label_ == "MONEY":  # Assuming tickers are tagged with MONEY or other appropriate tag
             tickers.append(ent.text)
     
     return companies, tickers
+
+def is_person_name(ent, doc):
+    # Check if the entity is preceded by a title indicating a person
+    title_tokens = {"Mr.", "Ms.", "Mrs.", "Dr.", "Prof.", "Sir", "Madam"}
+    prev_token = doc[ent.start - 1] if ent.start > 0 else None
+    if prev_token and prev_token.text in title_tokens:
+        return True
+    # Check if the entity is labeled as a person elsewhere in the text
+    for e in doc.ents:
+        if e.text == ent.text and e.label_ == "PERSON":
+            return True
+    return False
 
 def clean_and_split_company_name(company):
     # Split the company name into words and remove stop words

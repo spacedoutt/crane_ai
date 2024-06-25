@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 
 # Define the base URL of Polygon's news section
 base_url = 'https://www.polygon.com/news/archives'
@@ -11,15 +12,23 @@ contents = []
 links = []
 dates = []
 
-def load_existing_links(csv_file_path='polygon.csv'):
+def load_existing_links(csv_file_path='polygon_news.csv'):
     try:
         news_data = pd.read_csv(csv_file_path)
-        existing_links = set(news_data['Link'].tolist())
+        i = 0
+        existing_links = set()
+        for link in news_data['Link']:
+            if news_data['Title'][i].startswith("2024"):
+                print(news_data['Title'][i])
+            if news_data['Content'][i] != None and news_data['Content'][i] != "" and news_data['Content'][i] != np.nan:
+                temp = news_data['Content'][i]
+                existing_links.add(link)
+            i += 1
     except FileNotFoundError:
         existing_links = set()
     return existing_links
 
-def save_to_csv(new_data: pd.DataFrame, csv_file_path='polygon.csv'):
+def save_to_csv(new_data: pd.DataFrame, csv_file_path='polygon_news.csv'):
     try:
         news_data = pd.read_csv(csv_file_path)
     except FileNotFoundError:
