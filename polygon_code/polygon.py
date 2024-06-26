@@ -20,6 +20,9 @@ def api_call(params, base_url):
     start_time = datetime.datetime.now().minute
 
     while next_url:
+        if datetime.datetime.now().minute != start_time:
+            calls = 0
+            start_time = datetime.datetime.now().minute
         if calls < max_calls:
             response = requests.get(next_url, params=params)
             calls += 1
@@ -33,9 +36,7 @@ def api_call(params, base_url):
             else:
                 print(f"Error fetching tickers: {response.status_code} - {response.text}")
                 break
-        elif datetime.datetime.now().minute != start_time:
-            calls = 0
-            start_time = datetime.datetime.now().minute
+        
     return result, calls
 
 def check_existing_data(filename, key):

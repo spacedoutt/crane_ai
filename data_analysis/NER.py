@@ -1,5 +1,6 @@
 import spacy
-from polygon_news import get_news_data
+from sort_csv import sort_csv
+from polygon_code.polygon_news import get_news_data
 
 # Load SpaCy's NER model and stop words
 nlp = spacy.load("en_core_web_sm")
@@ -59,6 +60,7 @@ def company_occurences(companies, content):
 def perform_ner():
     # Get news data
     news_data = get_news_data()
+    sort_csv("polygon_data/polygon_news.csv", "Date")
     i = 0
     while i < len(news_data):
         title = news_data["Title"][i]

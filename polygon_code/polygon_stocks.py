@@ -1,5 +1,6 @@
 import os
-from polygon import get_data, check_existing_data
+from polygon_code.polygon import get_data, check_existing_data
+from sort_csv import sort_csv
 import time
 
 import pandas as pd
@@ -21,7 +22,7 @@ date_range = pd.date_range(start=start_date, end=end_date, freq='B').strftime('%
 API_KEY = 'q42WQRfUjTeouBEoaCSC_LHNhDFhzIIb'
 BASE_URL = 'https://api.polygon.io/v1'
 
-def get_stocks(ticker, date):
+def get_stock(ticker, date):
     params = {
         'adjusted': 'true',
         'apiKey': API_KEY
@@ -31,21 +32,24 @@ def get_stocks(ticker, date):
     calls = get_data(params, url, file, t_o_s='s')
     return calls
 
-if __name__ == "__main__":
+def get_stocks():
     calls = 0
     start_time = datetime.now().minute
     for ticker in tickers:
-        existing_data = check_existing_data(os.path.join("polygon_data", "stocks", f"{ticker}.csv"), 'from')
+        file_name = os.path.join("polygon_data", "stocks", f"{ticker}.csv")
+        existing_data = check_existing_data(file_name, 'from')
         for date in date_range:
             if date not in existing_data:
                 if datetime.now().minute != start_time and calls == 5:
                     calls = 0
                     start_time = datetime.now().minute
                 elif calls < 5:
-                    num = get_stocks(ticker, date)
+                    num = get_stock(ticker, date)
                     calls += num
                 else:
                     while datetime.now().minute == start_time:
                         time.sleep(1)
+        sort_csv(file_name, 'from')
             
-    
+if __name__ == "__main__":
+    get_stocks()

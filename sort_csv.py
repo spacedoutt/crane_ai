@@ -28,8 +28,8 @@ def sort_polygon_data():
     # Sort the polygon_data/polygon_tickers.csv file by 'ticker' in ascending order
     sort_csv("polygon_data/polygon_tickers.csv", "ticker")
 
-    # Sort the polygon_data/polygon_news.csv file by 'Date' in descending order
-    sort_csv("polygon_data/polygon_news.csv", "Date", ascending=False)
+    # Sort the polygon_data/polygon_news.csv file by 'Date' in ascending order
+    sort_csv("polygon_data/polygon_news.csv", "Date")
 
     # For each stock in stocks sort by 'from' in ascending order
     stocks_folder = "polygon_data/stocks"

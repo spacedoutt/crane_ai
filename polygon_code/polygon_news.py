@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
+from sort_csv import sort_csv
+import os
+import chardet
 
 # Define the base URL of Polygon's news section
 base_url = 'https://www.polygon.com/news/archives'
@@ -12,7 +15,7 @@ contents = []
 links = []
 dates = []
 
-def load_existing_links(csv_file_path='polygon_news.csv'):
+def load_existing_links(csv_file_path=os.path.join('polygon_data', 'polygon_news.csv')):
     try:
         news_data = pd.read_csv(csv_file_path)
         i = 0
@@ -28,7 +31,7 @@ def load_existing_links(csv_file_path='polygon_news.csv'):
         existing_links = set()
     return existing_links
 
-def save_to_csv(new_data: pd.DataFrame, csv_file_path='polygon_news.csv'):
+def save_to_csv(new_data: pd.DataFrame, csv_file_path=os.path.join('polygon_data', 'polygon_news.csv')):
     try:
         news_data = pd.read_csv(csv_file_path)
     except FileNotFoundError:
@@ -49,6 +52,9 @@ def scrape_article_content(url: str):
     if response.status_code != 200:
         return None
     
+    encoding = chardet.detect(response.content)['encoding']
+    response.encoding = encoding
+
     soup = BeautifulSoup(response.content, 'html.parser')
     content_tag = soup.find('div', class_='l-col__main')
     if content_tag:
@@ -116,4 +122,4 @@ def get_news_data():
 
 if __name__ == '__main__':
     news_data = get_news_data()
-    print(news_data)
+    sort_csv(os.path.join('polygon_data', 'polygon_news.csv'), 'Date')
