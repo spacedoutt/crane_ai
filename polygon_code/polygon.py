@@ -1,43 +1,30 @@
 import os
 import csv
 import requests
-import datetime
 
 # Ensure the folder structure exists
 main_folder = 'polygon_data'
 os.makedirs(main_folder, exist_ok=True)
-
-max_calls = 5
-
 
 def api_call(params, base_url):
     """Fetch all available stock tickers from Polygon.io."""
     result = []
     next_url = base_url
 
-    calls = 0
-
-    start_time = datetime.datetime.now().minute
-
     while next_url:
-        if datetime.datetime.now().minute != start_time:
-            calls = 0
-            start_time = datetime.datetime.now().minute
-        if calls < max_calls:
-            response = requests.get(next_url, params=params)
-            calls += 1
-            if response.status_code == 200:
-                data = response.json()
-                if 'results' in data:
-                    result.extend(data['results'])
-                else:
-                    result.append(data)
-                next_url = data['next_url'] if 'next_url' in data else None
+        response = requests.get(next_url, params=params)
+        if response.status_code == 200:
+            data = response.json()
+            if 'results' in data:
+                result.extend(data['results'])
             else:
-                print(f"Error fetching tickers: {response.status_code} - {response.text}")
-                break
+                result.append(data)
+            next_url = data['next_url'] if 'next_url' in data else None
+        else:
+            print(f"Error fetching tickers: {response.status_code} - {response.text}")
+            break
         
-    return result, calls
+    return result
 
 def check_existing_data(filename, key):
     """Check and return existing data from a CSV file."""
@@ -67,8 +54,7 @@ def save_to_csv(data, filename, t_o_s):
             writer.writerows(new_data)
 
 def get_data(params, base_url, stored_filename, t_o_s='t'):
-    print("Fetching all available stock tickers...")
-    data, calls = api_call(params, base_url)
+    data = api_call(params, base_url)
 
     if data:
         print(f"Retrieved {len(data)} calls.")
@@ -78,5 +64,3 @@ def get_data(params, base_url, stored_filename, t_o_s='t'):
         
     else:
         print("No data retrieved.")
-    return calls
-
