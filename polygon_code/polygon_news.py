@@ -23,7 +23,7 @@ def load_existing_links(csv_file_path=os.path.join('polygon_data', 'polygon_news
         for link in news_data['Link']:
             if news_data['Title'][i].startswith("2024"):
                 print(news_data['Title'][i])
-            if news_data['Content'][i] != None and news_data['Content'][i] != "" and news_data['Content'][i] != np.nan:
+            if news_data['Content'][i] is not None and news_data['Content'][i] != "" and not pd.isna(news_data['Content'][i]):
                 temp = news_data['Content'][i]
                 existing_links.add(link)
             i += 1
@@ -51,11 +51,12 @@ def scrape_article_content(url: str):
     response = requests.get(url)
     if response.status_code != 200:
         return None
-    
+
+    # Detect the encoding of the response content
     encoding = chardet.detect(response.content)['encoding']
     response.encoding = encoding
 
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = BeautifulSoup(response.text, 'html.parser')
     content_tag = soup.find('div', class_='l-col__main')
     if content_tag:
         paragraphs = content_tag.find_all('p')
@@ -69,7 +70,11 @@ def scrape_articles(url: str, existing_links):
     if response.status_code != 200:
         raise Exception(f'Failed to load page {url}')
 
-    soup = BeautifulSoup(response.content, 'html.parser')
+    # Detect the encoding of the response content
+    encoding = chardet.detect(response.content)['encoding']
+    response.encoding = encoding
+
+    soup = BeautifulSoup(response.text, 'html.parser')
     articles = soup.find_all('div', class_='c-compact-river__entry')
 
     for article in articles:
@@ -88,7 +93,7 @@ def scrape_articles(url: str, existing_links):
         date_tag = article.find('time', class_='c-byline__item')
         date = date_tag['datetime'] if date_tag else None
 
-        if title != None and content != None and link != None and date != None:
+        if title is not None and content is not None and link is not None and date is not None:
             titles.append(title)
             contents.append(content)
             links.append(link)

@@ -159,6 +159,7 @@ AHR,"American Healthcare REIT, Inc.",stocks,us,XNYS,CS,True,usd,1632970.0,BBG01L
 AHS,AMN HEALTHCARE SERVICES,stocks,us,XNYS,CS,True,usd,,BBG000BCT197,BBG001S6Q193,2016-05-18T00:00:00Z
 AHT,"Ashford Hospitality Trust, Inc.",stocks,us,XNYS,CS,True,usd,1232582.0,BBG000PRZVD1,BBG001SLQ6G1,2024-06-21T00:00:00Z
 AI,"C3.ai, Inc.",stocks,us,XNYS,CS,True,usd,1577526.0,BBG00Y6G6X31,BBG00Y6G6Y84,2024-06-21T00:00:00Z
+AIEV,"Thunder Power Holdings, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,BBG016QY23N8,BBG016QY23W8,2024-06-24T00:00:00Z,
 AIG,"American International Group, Inc.",stocks,us,XNYS,CS,True,usd,5272.0,BBG000BBDZG3,BBG001S5NJG1,2024-06-21T00:00:00Z
 AIHS,Senmiao Technology Limited Common Stock,stocks,us,XNAS,CS,True,usd,1711012.0,BBG00J3Q25V9,BBG00J3Q26K9,2024-06-21T00:00:00Z
 AILE,"iLearningEngines, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1835972.0,BBG00Z9114K8,BBG00Z9115H9,2024-06-21T00:00:00Z
@@ -3997,8 +3998,8 @@ REYN,Reynolds Consumer Products Inc. Common Stock,stocks,us,XNAS,CS,True,usd,178
 REZI,"Resideo Technologies, Inc. Common Stock",stocks,us,XNYS,CS,True,usd,1740332.0,BBG00HY28K89,BBG00HY28L05,2024-06-21T00:00:00Z
 RF,Regions Financial Corp.,stocks,us,XNYS,CS,True,usd,1281761.0,BBG000Q3JN03,BBG001SM4KY2,2024-06-21T00:00:00Z
 RFAC,RF Acquisition Corp. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1847607.0,BBG0146Z8882,BBG0146Z8935,2024-06-21T00:00:00Z
-RFIL,RF Industries Ltd,stocks,us,XNAS,CS,True,usd,740664.0,BBG000C2J6S7,BBG001S6CQZ4,2024-05-17T00:00:00Z
 RFIL,RF Industries Ltd,stocks,us,XNAS,CS,True,usd,740664.0,BBG000C2J6S7,BBG001S6CQZ4,2024-06-21T00:00:00Z
+RFIL,RF Industries Ltd,stocks,us,XNAS,CS,True,usd,740664.0,BBG000C2J6S7,BBG001S6CQZ4,2024-05-17T00:00:00Z
 RFL,"Rafael Holdings, Inc. Class B Common Stock",stocks,us,XNYS,CS,True,usd,1713863.0,BBG00J3YYS92,BBG00J3YYSB9,2024-06-21T00:00:00Z
 RGA,"Reinsurance Group of America, Incorporated",stocks,us,XNYS,CS,True,usd,898174.0,BBG000BDLCQ0,BBG001S6P9Q8,2024-06-21T00:00:00Z
 RGC,Regencell Bioscience Holdings Limited Ordinary Shares,stocks,us,XNAS,CS,True,usd,1829667.0,,,2024-06-21T00:00:00Z
@@ -5279,5 +5280,8 @@ ZWS,Zurn Elkay Water Solutions Corporation,stocks,us,XNYS,CS,True,usd,1439288.0,
 ZYME,Zymeworks Inc.,stocks,us,XNAS,CS,True,usd,1937653.0,BBG019XSYC89,BBG019XSYC98,2024-06-21T00:00:00Z
 ZYXI,ZYNEX INC,stocks,us,XNAS,CS,True,usd,846475.0,BBG000BJBXZ2,BBG001S7T7V0,2024-06-21T00:00:00Z
 ,Nano Labs Ltd Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,1872302.0,,,2024-06-21T00:00:00Z
-AIEV,"Thunder Power Holdings, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,BBG016QY23N8,BBG016QY23W8,2024-06-24T00:00:00Z
-NA,Nano Labs Ltd Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001872302,2024-06-24T00:00:00Z
+,Nano Labs Ltd Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001872302,2024-06-24T00:00:00Z,,
+GRAL,"GRAIL, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001699031,BBG01N6CGW43,BBG01N6CGX05,2024-06-25T00:00:00Z
+NA,Nano Labs Ltd Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001872302,,,2024-06-25T00:00:00Z
+VSEE,"VSee Health, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,,BBG0130V90C0,BBG0130V91H3,2024-06-25T00:00:00Z
+WENA,"ANEW MEDICAL, INC. Common Stock",stocks,us,XNAS,CS,True,usd,,BBG015Z249H2,BBG015Z24BT4,2024-06-25T00:00:00Z
