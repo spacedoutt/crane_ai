@@ -1,6 +1,6 @@
 from polygon_code.polygon_news import get_news_data
 from polygon_code.polygon_tickers import get_tickers
-from polygon_code.polygon_stocks import thread_stocks
+from polygon_code.polygon_files import thread_stocks
 from sort_csv import sort_polygon_data
 import time
 

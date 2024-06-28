@@ -9,7 +9,6 @@ def get_tickers():
     params = {
         'apiKey': API_KEY,
         'limit': 1000,  # Maximum allowed limit per request
-        'type': 'CS',  # Only include common stocks
         'market': 'stocks',  # Only include stocks
     }
     base_url = 'https://api.polygon.io/v3/reference/tickers'

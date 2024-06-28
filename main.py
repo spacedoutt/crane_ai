@@ -6,6 +6,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 import json
 import re
 from pprint import pprint
+import os
 
 import pandas as pd
 from datasets import Dataset, load_dataset
@@ -14,12 +15,11 @@ from transformers import BitsAndBytesConfig, TrainingArguments
 from trl import SFTTrainer
 import matplotlib.pyplot as plt
 
-from polygon_news import get_news_data
-
 parser = argparse.ArgumentParser(description="Chat with the Phi-3-mini-4k-instruct model.")
-parser.add_argument("--type", type=str, default="train", help="Type of interaction with the model. Options: chat, train")
-parser.add_argument("--model_name", type=str, default="microsoft/Phi-3-mini-4k-instruct", help="Name of the model to use. Default: microsoft/Phi-3-mini-4k-instruct")
+parser.add_argument("--type", type=str, default="use", help="Type of interaction with the model. Options: use, train")
+parser.add_argument("--model_name", type=str, default="mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis", help="Name of the model to use. Default: microsoft/Phi-3-mini-4k-instruct")
 parser.add_argument("--compare-trained-model", type=bool, default=False, help="Compare the trained model with the original model. Default: False")
+parser.add_argument("--ai-type", type=str, default="sentiment", help="Type of AI to use. Options: chat, sentiment")
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
@@ -72,50 +72,80 @@ def create_mtl(model_name: str):
 
     return model, tokenizer, peft_config
 
-def chat(model_name: str, test_train: bool):
+def use_model(model_name: str, test_train: bool, ai_type: str = "chat"):
     torch.random.manual_seed(0)
-    model = None
-    tokenizer = None
     model, tokenizer, _ = create_mtl(model_name)
     trained_model = PeftModel.from_pretrained(model, "outputs") if test_train else None
-    messages = [
-        {"role": "system", "content": "You are an expert on sentiment analysis of company statistics. You will determine which company has negative sentiment and which company has positive sentiment. Print out the company name and the sentiment."},
-    ]
+    
+    if ai_type == "sentiment":
+        sentiment_pipe = pipeline("sentiment-analysis", model=model_name, tokenizer=tokenizer)
+        
+        # Read the CSV file
+        df = pd.read_csv(os.path.join('polygon_data', 'polygon_news.csv'))
+        
+        results = []
+        
+        # Perform sentiment analysis on each content
+        for index, row in df.iterrows():
+            content = row['Content']
+            title = row['Title']
+            link = row['Link']
+            
+            result = sentiment_pipe(content)
+            sentiment = result[0]['label']
+            
+            results.append({
+                "Title": title,
+                "Link": link,
+                "Sentiment": sentiment,
+                "Tickers": []
+            })
+        
+        # Create a new DataFrame
+        result_df = pd.DataFrame(results)
+        
+        # Save the result to a new CSV file
+        result_df.to_csv(os.path.join("polygon_data", "news_sentiment.csv"), index=False)
+        print("Sentiment analysis completed and saved to polygon_news_sentiment.csv")
 
-    pipe = pipeline(
-        "text-generation",
-        model=model,
-        tokenizer=tokenizer,
-    ) if not test_train else None
+    if ai_type == "chat":
+        messages = [
+            {"role": "system", "content": "You are an expert on sentiment analysis of company statistics. You will determine which company has negative sentiment and which company has positive sentiment. Print out the company name and the sentiment."},
+        ]
+        pipe = pipeline(
+            "text-generation",
+            model=model,
+            tokenizer=tokenizer,
+        ) if not test_train else None
 
-    generation_args = {
-        "max_new_tokens": 600,
-        "return_full_text": False,
-        "temperature": 0.3,
-        "do_sample": True,
-    }
-    user_input = ""
-    while user_input != "exit":
-        # Get user input
-        user_input = input("User: ")
-        if user_input == "exit":
-            break
-        # Append user message to messages list
-        messages.append({"role": "user", "content": user_input})
+        generation_args = {
+            "max_new_tokens": 600,
+            "return_full_text": False,
+            "temperature": 0.3,
+            "do_sample": True,
+        }
+        user_input = ""
+        while user_input != "exit":
+            # Get user input
+            user_input = input("User: ")
+            if user_input == "exit":
+                break
+            # Append user message to messages list
+            messages.append({"role": "user", "content": user_input})
 
-        # Generate a response
-        if test_train:
-            output = summarize(model, user_input, tokenizer)
-            train_output = summarize(trained_model, user_input, tokenizer)
-            pprint(f"Train model: {train_output}")
-            pprint(f"Original model: {output}")
-        else:
-            output = pipe(messages, **generation_args)
-            # Extract and print the generated text
-            response = output[0]['generated_text']
-            print(f"Chatbot: {response}")
-            # Append chatbot response to messages list
-            messages.append({"role": "assistant", "content": response})
+            # Generate a response
+            if test_train:
+                output = summarize(model, user_input, tokenizer)
+                train_output = summarize(trained_model, user_input, tokenizer)
+                pprint(f"Train model: {train_output}")
+                pprint(f"Original model: {output}")
+            else:
+                output = pipe(messages, **generation_args)
+                # Extract and print the generated text
+                response = output[0]['generated_text']
+                print(f"Chatbot: {response}")
+                # Append chatbot response to messages list
+                messages.append({"role": "assistant", "content": response})
 
 def train(model_name: str):
     dataset = load_dataset("Salesforce/wikitext", "wikitext-2-v1", split=["train[:10%]", "validation[:10%]", "test[:10%]"])
@@ -202,8 +232,9 @@ if __name__ == "__main__":
     args = parser.parse_args()
     model_name = args.model_name
     test_train = args.compare_trained_model
-    if args.type == "chat":
-        chat(model_name, test_train)
+    ai_type = args.ai_type
+    if args.type == "use":
+        use_model(model_name, test_train, ai_type)
     elif args.type == "train":
         train(model_name)
         plot_metrics()

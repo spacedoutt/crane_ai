@@ -9,3 +9,5 @@ setuptools==70.0.0
 Tensorboard
 TensorboardX
 spacy
+chardet
+boto3
