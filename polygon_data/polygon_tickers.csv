@@ -30,8 +30,8 @@ AAPU,Direxion Shares ETF Trust Direxion Daily AAPL Bull 2X Shares,stocks,us,XNAS
 AAPX,T-Rex 2X Long Apple Daily Target ETF,stocks,us,BATS,ETS,True,usd,,BBG01KY72SD3,BBG01KY72T78,2024-06-26T00:00:00Z
 AAPY,Kurv Yield Premium Strategy Apple (AAPL) ETF,stocks,us,BATS,ETS,True,usd,,BBG01JXKG7J3,BBG01JXKG8C8,2024-06-26T00:00:00Z
 AAT,"AMERICAN ASSETS TRUST, INC.",stocks,us,XNYS,CS,True,usd,1500217.0,BBG00161BCR0,BBG001TCBJS5,2024-06-21T00:00:00Z
-AAXJ,iShares MSCI All Country Asia ex Japan ETF,stocks,us,XNAS,ETF,True,usd,,BBG000G6GXC5,BBG001T2V2D8,2024-06-26T00:00:00Z
 AAXJ,iShares MSCI All Country Asia ex Japan ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000G6GXC5,BBG001T2V2D8,2024-05-17T00:00:00Z
+AAXJ,iShares MSCI All Country Asia ex Japan ETF,stocks,us,XNAS,ETF,True,usd,,BBG000G6GXC5,BBG001T2V2D8,2024-06-26T00:00:00Z
 AAXN,"Axon Enterprise, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1069183.0,BBG000BHJWG1,BBG001SB2HG5,2019-01-03T00:00:00Z
 AB,"AllianceBernstein Holding, L.P.",stocks,us,XNYS,CS,True,usd,825313.0,BBG000B9WM03,BBG001S5N9S0,2024-06-21T00:00:00Z
 ABAT,American Battery Technology Company Common Stock,stocks,us,XNAS,CS,True,usd,1576873.0,BBG004M1KJN5,BBG004M1KJP3,2024-06-21T00:00:00Z
@@ -63,6 +63,8 @@ ABT,Abbott Laboratories,stocks,us,XNYS,CS,True,usd,1800.0,BBG000B9ZXB4,BBG001S5N
 ABTS,Abits Group Inc Ordinary Shares,stocks,us,XNAS,CS,True,usd,1864055.0,,,2024-06-21T00:00:00Z
 ABUS,Arbutus Biopharma Corporation Common Stock,stocks,us,XNAS,CS,True,usd,1447028.0,BBG000RR8V85,BBG001S6RSK0,2024-05-17T00:00:00Z
 ABVC,"ABVC BioPharma, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1173313.0,BBG000Q844Z2,BBG001SMCS49,2024-06-21T00:00:00Z
+ABVE,Above Food Ingredients Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001979484,BBG01NGG37N1,BBG01NGG37P9,2024-07-15T00:00:00Z
+ABVEW,Above Food Ingredients Inc. Warrants,stocks,us,XNAS,WARRANT,True,usd,0001979484,BBG01NKYQFV5,,2024-07-15T00:00:00Z
 ABVX,Abivax SA American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001956827,BBG01JLQNZ03,BBG01JLQNZV9,2024-06-26T00:00:00Z
 ABX,BARRICK GOLD CORP,stocks,us,XNYS,CS,True,usd,743872.0,BBG000BB07P9,BBG001S5N9P3,2016-05-18T00:00:00Z
 AC,"Associated Capital Group, Inc.",stocks,us,XNYS,CS,True,usd,1642122.0,BBG008NZ8QC0,BBG008NZ8QB1,2024-05-17T00:00:00Z
@@ -124,8 +126,8 @@ ACVF,American Conservative Values ETF,stocks,us,ARCX,ETF,True,usd,,BBG00Y04Q9T7,
 ACWF,ISHRES TR EDGE MSCI MULTIFACTOR GLOBAL ETF,stocks,us,ARCX,INDEX,True,usd,0001100663,BBG008LNZHV8,BBG008LNZHW7,2016-05-18T00:00:00Z
 ACWI,iShares MSCI ACWI ETF,stocks,us,XNAS,ETF,True,usd,,BBG000TH6VB3,BBG001S56QV7,2024-06-26T00:00:00Z
 ACWI,iShares MSCI ACWI ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000TH6VB3,BBG001S56QV7,2024-05-17T00:00:00Z
-ACWV,iShares MSCI Global Min Vol Factor ETF,stocks,us,BATS,ETF,True,usd,,BBG0025X38X0,BBG0025X39Q6,2024-06-26T00:00:00Z
 ACWV,iShares MSCI Global Min Vol Factor ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG0025X38X0,BBG0025X39Q6,2024-05-17T00:00:00Z
+ACWV,iShares MSCI Global Min Vol Factor ETF,stocks,us,BATS,ETF,True,usd,,BBG0025X38X0,BBG0025X39Q6,2024-06-26T00:00:00Z
 ACWX,iShares MSCI ACWI ex US ETF,stocks,us,XNAS,ETF,True,usd,,BBG000TH7DF8,BBG001S56R18,2024-06-26T00:00:00Z
 ACXP,"Acurx Pharmaceuticals, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1736243.0,BBG01184DNJ4,BBG01184DNK2,2024-06-21T00:00:00Z
 ACY,AEROCENTURY CORP,stocks,us,XASE,CS,True,usd,,BBG000B9WP24,BBG001S5NCK1,2016-05-18T00:00:00Z
@@ -258,8 +260,8 @@ AGNCM,AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Float
 AGNCN,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7 percent Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",stocks,us,XNAS,PFD,True,usd,0001423689,,,2024-06-26T00:00:00Z
 AGNCO,"AGNC Investment Corp. Depositary Shares, each representing a 1/1,000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock",stocks,us,XNAS,CS,True,usd,1423689.0,,,2024-06-21T00:00:00Z
 AGNCP,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",stocks,us,XNAS,PFD,True,usd,0001423689,,,2024-06-26T00:00:00Z
-AGNG,Global X Funds Global X Aging Population ETF,stocks,us,XNAS,ETF,True,usd,,BBG00CVW2JC1,BBG00CVW2JD0,2024-06-26T00:00:00Z
 AGNG,Global X Funds Global X Aging Population ETF,stocks,us,XNAS,ETF,True,usd,0001432353,BBG00CVW2JC1,BBG00CVW2JD0,2024-05-17T00:00:00Z
+AGNG,Global X Funds Global X Aging Population ETF,stocks,us,XNAS,ETF,True,usd,,BBG00CVW2JC1,BBG00CVW2JD0,2024-06-26T00:00:00Z
 AGO,"Assured Guaranty, LTD",stocks,us,XNYS,CS,True,usd,1273813.0,,,2024-05-17T00:00:00Z
 AGOX,Adaptive Alpha Opportunities ETF,stocks,us,ARCX,ETF,True,usd,,BBG010WX25M2,BBG010WX26H6,2024-06-26T00:00:00Z
 AGQ,ProShares Ultra Silver,stocks,us,ARCX,ETV,True,usd,0001415311,BBG000F7KQG0,BBG001T2GCT6,2024-06-26T00:00:00Z
@@ -314,6 +316,7 @@ AIMDW,"Ainos, Inc. Warrants",stocks,us,XNAS,WARRANT,True,usd,0001014763,BBG01923
 AIN,Albany International Corp Class A,stocks,us,XNYS,CS,True,usd,819793.0,BBG000BRWWH3,BBG001S5VKN1,2024-05-24T00:00:00Z
 AINC,Ashford Inc.,stocks,us,XASE,CS,True,usd,1604738.0,BBG0069GSFN2,BBG0069GSFP0,2024-06-21T00:00:00Z
 AIO,Virtus Artificial Intelligence & Technology Opportunities Fund,stocks,us,XNYS,FUND,True,usd,0001778114,BBG00Q7474K8,BBG00Q7474L7,2024-06-26T00:00:00Z
+AIOT,"PowerFleet, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001774170,BBG00PG3JNL6,BBG00PG3JNM5,2024-07-15T00:00:00Z
 AIP,"Arteris, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1667011.0,BBG000QMLTK3,BBG001T7VHG1,2024-06-21T00:00:00Z
 AIPI,REX AI Equity Premium Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG01N48YNC5,BBG01N48YPF7,2024-06-26T00:00:00Z
 AIQ,Global X Funds Global X Artificial Intelligence & Technology ETF,stocks,us,XNAS,ETF,True,usd,,BBG00KX8KG94,BBG00KX8KH01,2024-06-26T00:00:00Z
@@ -325,8 +328,8 @@ AIRI,Air Industries Group,stocks,us,XASE,CS,True,usd,1009891.0,BBG000C8XXR0,BBG0
 AIRJ,Montana Technologies Corporation Class A Common Stock,stocks,us,XNAS,CS,True,usd,1855474.0,BBG014FPNGK5,BBG014FPNHD1,2024-06-21T00:00:00Z
 AIRJW,Montana Technologies Corporation Warrant,stocks,us,XNAS,WARRANT,True,usd,0001855474,BBG014XDH6X7,,2024-06-26T00:00:00Z
 AIRL,Themes Airlines ETF,stocks,us,XNAS,ETF,True,usd,,BBG01KG3SJX2,BBG01KG3SL67,2024-06-26T00:00:00Z
-AIRR,First Trust RBA American Industrial Renaissance ETF,stocks,us,XNAS,ETF,True,usd,,BBG0063G4FW4,BBG0063G4FX3,2024-06-26T00:00:00Z
 AIRR,First Trust RBA American Industrial Renaissance ETF,stocks,us,XNAS,ETF,True,usd,0001552740,BBG0063G4FW4,BBG0063G4FX3,2024-05-17T00:00:00Z
+AIRR,First Trust RBA American Industrial Renaissance ETF,stocks,us,XNAS,ETF,True,usd,,BBG0063G4FW4,BBG0063G4FX3,2024-06-26T00:00:00Z
 AIRS,"AirSculpt Technologies, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1870940.0,BBG012V27C29,BBG012V27CX5,2024-06-21T00:00:00Z
 AIRT,Air T Inc,stocks,us,XNAS,CS,True,usd,353184.0,BBG000BBH316,BBG001S5NJZ0,2024-06-21T00:00:00Z
 AIRTP,"Air T, Inc. Air T Funding Alpha Income Trust Preferred Securities",stocks,us,XNAS,PFD,True,usd,0000353184,,,2024-06-26T00:00:00Z
@@ -348,6 +351,7 @@ AIZ,"Assurant, Inc.",stocks,us,XNYS,CS,True,usd,1267238.0,BBG000BZX1N5,BBG001SD9
 AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061",stocks,us,XNYS,SP,True,usd,0001267238,,,2024-06-26T00:00:00Z
 AJAN,Innovator Equity Defined Protection ETF - 2 Yr to January 2026,stocks,us,BATS,ETF,True,usd,,BBG01KTTT4N4,BBG01KTTT5K4,2024-06-26T00:00:00Z
 AJG,Arthur J. Gallagher & Co.,stocks,us,XNYS,CS,True,usd,354190.0,BBG000BBHXQ3,BBG001S5NKC2,2024-05-17T00:00:00Z
+AJUL,Innovator Equity Defined Protection ETF - 2 Yr to July 2026,stocks,us,BATS,ETF,True,usd,,BBG01NJ0PGC1,BBG01NJ0PH66,2024-07-15T00:00:00Z
 AJX,Great Ajax Corp.,stocks,us,XNYS,CS,True,usd,1614806.0,BBG008200KW9,BBG008200KY7,2024-06-21T00:00:00Z
 AKA,a.k.a. Brands Holding Corp.,stocks,us,XNYS,CS,True,usd,1865107.0,BBG0129CWQ14,BBG0129CWQ23,2024-06-21T00:00:00Z
 AKAM,Akamai Technologies Inc,stocks,us,XNAS,CS,True,usd,1086222.0,BBG000BJQWD2,BBG001S7YHX0,2024-06-21T00:00:00Z
@@ -402,6 +406,7 @@ ALLpB,The Allstate Corporation 5.100%  Fixed-To-Floating Rate Subordinated Deben
 ALLpH,The Allstate Corporation,stocks,us,XNYS,PFD,True,usd,0000899051,,,2024-06-26T00:00:00Z
 ALLpI,The Allstate Corporation,stocks,us,XNYS,PFD,True,usd,0000899051,,,2024-06-26T00:00:00Z
 ALLpJ,"The Allstate Corporation Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series J",stocks,us,XNYS,PFD,True,usd,0000899051,,,2024-06-26T00:00:00Z
+ALMS,Alumis Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001847367,BBG01J7X4PN2,BBG01J7X4PP0,2024-07-15T00:00:00Z
 ALNT,Allient Inc. Common Stock,stocks,us,XNAS,CS,True,usd,46129.0,BBG000BKVYJ3,BBG001S5RST3,2024-05-17T00:00:00Z
 ALNY,"Alnylam Pharmaceuticals, Inc.",stocks,us,XNAS,CS,True,usd,1178670.0,BBG000BFGNJ5,BBG001S7FTC8,2024-06-21T00:00:00Z
 ALOT,"AstroNova, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,8146.0,BBG000BBMCY4,BBG001S5NLS3,2024-06-21T00:00:00Z
@@ -422,6 +427,7 @@ ALTL,Pacer Lunt Large Cap Alternator ETF,stocks,us,ARCX,ETF,True,usd,,BBG00VP22T
 ALTM,Arcadium Lithium plc,stocks,us,XNYS,CS,True,usd,1977303.0,,,2024-06-21T00:00:00Z
 ALTO,"Alto Ingredients, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,778164.0,BBG000K4WSD7,BBG001SCBYZ5,2024-06-21T00:00:00Z
 ALTR,Altair Engineering Inc. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1701732.0,BBG000PN9NB9,BBG001SR65P2,2024-06-21T00:00:00Z
+ALTS,ALT5 Sigma Corporation Common Stock,stocks,us,XNAS,CS,True,usd,,BBG000CKLRH0,BBG001S6Y4N2,2024-07-15T00:00:00Z
 ALTY,Global X Funds Global X Alternative Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG009L6H4R7,BBG009L6H4S6,2024-06-26T00:00:00Z
 ALUM,USCF Aluminum Strategy Fund,stocks,us,ARCX,ETF,True,usd,,BBG01JLXL310,BBG01JLXL3W6,2024-06-26T00:00:00Z
 ALUR,"Allurion Technologies, Inc.",stocks,us,XNYS,CS,True,usd,1964979.0,BBG01HPVRLS9,BBG01HPVRLV5,2024-06-21T00:00:00Z
@@ -518,8 +524,8 @@ ANF,Abercrombie & Fitch Co.,stocks,us,XNYS,CS,True,usd,1018840.0,BBG000H9G7X2,BB
 ANGH,Anghami Inc. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1871983.0,,,2024-06-21T00:00:00Z
 ANGHW,Anghami Inc. Warrants,stocks,us,XNAS,WARRANT,True,usd,0001871983,,,2024-06-26T00:00:00Z
 ANGI,Angi Inc. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1705110.0,BBG00HVKH3Q0,BBG00HVKH4F0,2024-06-21T00:00:00Z
-ANGL,VanEck Fallen Angel High Yield Bond ETF,stocks,us,XNAS,ETF,True,usd,0001137360,BBG002VZY764,BBG002VZY7Y3,2024-06-06T00:00:00Z
 ANGL,VanEck Fallen Angel High Yield Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG002VZY764,BBG002VZY7Y3,2024-06-26T00:00:00Z
+ANGL,VanEck Fallen Angel High Yield Bond ETF,stocks,us,XNAS,ETF,True,usd,0001137360,BBG002VZY764,BBG002VZY7Y3,2024-06-06T00:00:00Z
 ANGO,"AngioDynamics, Inc.",stocks,us,XNAS,CS,True,usd,1275187.0,BBG000BB5621,BBG001S5RPY3,2024-05-17T00:00:00Z
 ANGpA,"American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",stocks,us,XNYS,PFD,True,usd,0001039828,,,2024-06-26T00:00:00Z
 ANGpB,"American National Group Inc.  Depositary Shares, each representing a 1/1, 000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",stocks,us,XNYS,PFD,True,usd,0001039828,,,2024-06-26T00:00:00Z
@@ -544,8 +550,8 @@ AOGO,Arogo Capital Acquisition Corp. Class A Common Stock,stocks,us,XNAS,CS,True
 AOGOU,Arogo Capital Acquisition Corp. Unit,stocks,us,XNAS,UNIT,True,usd,0001881741,BBG012DX37Q0,BBG012DX38K4,2024-06-26T00:00:00Z
 AOGOW,Arogo Capital Acquisition Corp. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001881741,BBG0159G87P1,,2024-06-26T00:00:00Z
 AOHY,Angel Oak High Yield  Opportunities ETF,stocks,us,ARCX,ETF,True,usd,,BBG01LCCJ3D1,BBG01LCCJ476,2024-06-26T00:00:00Z
-AOK,iShares Core Conservative Allocation ETF,stocks,us,ARCX,ETF,True,usd,,BBG000KD2X85,BBG001T3YTX2,2024-06-26T00:00:00Z
 AOK,iShares Core Conservative Allocation ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000KD2X85,BBG001T3YTX2,2024-04-01T00:00:00Z
+AOK,iShares Core Conservative Allocation ETF,stocks,us,ARCX,ETF,True,usd,,BBG000KD2X85,BBG001T3YTX2,2024-06-26T00:00:00Z
 AOM,iShares Core Moderate Allocation ETF,stocks,us,ARCX,ETF,True,usd,,BBG000KD5M13,BBG001T3YV21,2024-06-26T00:00:00Z
 AOMR,"Angel Oak Mortgage REIT, Inc.",stocks,us,XNYS,CS,True,usd,1766478.0,BBG0113S8MK2,BBG0113S8ND8,2024-06-21T00:00:00Z
 AON,Aon plc Class A,stocks,us,XNYS,CS,True,usd,315293.0,,,2024-06-21T00:00:00Z
@@ -1193,8 +1199,8 @@ BHVN,Biohaven Ltd.,stocks,us,XNYS,CS,True,usd,1935979.0,,,2024-06-21T00:00:00Z
 BHYB,Xtrackers USD High Yield BB-B ex Financials ETF,stocks,us,BATS,ETF,True,usd,,BBG01JTRL253,BBG01JTRLM68,2024-06-26T00:00:00Z
 BIAF,"bioAffinity Technologies, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1712762.0,BBG00H69JDX1,BBG00H69JDY0,2024-06-21T00:00:00Z
 BIAFW,"bioAffinity Technologies, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001712762,BBG018DZJPN8,,2024-06-26T00:00:00Z
-BIB,ProShares Ultra NASDAQ Biotechnology,stocks,us,XNAS,ETF,True,usd,,BBG000QMBZX6,BBG001T7V4Q9,2024-06-26T00:00:00Z
 BIB,ProShares Ultra NASDAQ Biotechnology,stocks,us,XNAS,ETF,True,usd,0000810972,BBG000QMBZX6,BBG001T7V4Q9,2024-05-17T00:00:00Z
+BIB,ProShares Ultra NASDAQ Biotechnology,stocks,us,XNAS,ETF,True,usd,,BBG000QMBZX6,BBG001T7V4Q9,2024-06-26T00:00:00Z
 BIBL,Inspire 100 ETF,stocks,us,ARCX,ETF,True,usd,,BBG00J3H9QW5,BBG00J3H9RL5,2024-06-26T00:00:00Z
 BIDU,"Baidu, Inc.",stocks,us,XNAS,ADRC,True,usd,0001329099,BBG000QXWHD1,BBG001SNBKD5,2024-06-26T00:00:00Z
 BIF,BOULDER GROWTH & INCOME FUND INC,stocks,us,XNYS,CS,True,usd,102426.0,BBG000KHJ5H9,BBG001SKK3J3,2016-05-18T00:00:00Z
@@ -1240,8 +1246,8 @@ BITU,ProShares Ultra Bitcoin ETF,stocks,us,ARCX,ETF,True,usd,,BBG01M79Z7R0,BBG01
 BITX,2x Bitcoin Strategy ETF,stocks,us,BATS,ETF,True,usd,,BBG01GXLYLP9,BBG01GXLYNB0,2024-06-26T00:00:00Z
 BIV,Vanguard Intermediate-Term Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000R44SW0,BBG001ST39R1,2024-06-26T00:00:00Z
 BIVI,"BioVie, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1580149.0,BBG00548BTD6,BBG00548BTF4,2024-06-21T00:00:00Z
-BIZD,VanEck BDC Income ETF,stocks,us,ARCX,ETF,True,usd,0001137360,BBG00440GKJ4,BBG00440GL84,2024-06-10T00:00:00Z
 BIZD,VanEck BDC Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG00440GKJ4,BBG00440GL84,2024-06-26T00:00:00Z
+BIZD,VanEck BDC Income ETF,stocks,us,ARCX,ETF,True,usd,0001137360,BBG00440GKJ4,BBG00440GL84,2024-06-10T00:00:00Z
 BJ,"BJs Wholesale Club Holdings, Inc. Common Stock",stocks,us,XNYS,CS,True,usd,1531152.0,BBG00FQ8T4G3,BBG00FQ8T4M6,2024-06-21T00:00:00Z
 BJAN,Innovator U.S. Equity Buffer ETF - January,stocks,us,BATS,ETF,True,usd,,BBG00MYXK749,BBG00MYXK7W8,2024-06-26T00:00:00Z
 BJDX,"Bluejay Diagnostics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1704287.0,BBG012TKJCJ1,BBG012TKJDC6,2024-06-21T00:00:00Z
@@ -1355,8 +1361,8 @@ BMY,Bristol-Myers Squibb Co.,stocks,us,XNYS,CS,True,usd,14272.0,BBG000DQLV23,BBG
 BN,Brookfield Corporation,stocks,us,XNYS,CS,True,usd,1001085.0,BBG000C9KL89,BBG001SF86D7,2024-06-21T00:00:00Z
 BNAI,Brand Engagement Network Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1838163.0,BBG00Z83ZBN9,BBG00Z83ZBP7,2024-06-21T00:00:00Z
 BNAIW,Brand Engagement Network Inc. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001838163,BBG00ZQZ11K0,,2024-06-26T00:00:00Z
-BND,Vanguard Total Bond Market,stocks,us,XNAS,ETF,True,usd,0000794105,BBG000BZZS63,BBG001SK7DK4,2024-05-21T00:00:00Z
 BND,Vanguard Total Bond Market,stocks,us,XNAS,ETF,True,usd,,BBG000BZZS63,BBG001SK7DK4,2024-06-26T00:00:00Z
+BND,Vanguard Total Bond Market,stocks,us,XNAS,ETF,True,usd,0000794105,BBG000BZZS63,BBG001SK7DK4,2024-05-21T00:00:00Z
 BNDC,FlexShares Core Select Bond Fund,stocks,us,ARCX,ETF,True,usd,,BBG00F9ZDXS2,BBG00F9ZDYJ0,2024-06-26T00:00:00Z
 BNDD,Quadratic Deflation ETF,stocks,us,ARCX,ETF,True,usd,,BBG012N0P9Z3,BBG012N0PBT5,2024-06-26T00:00:00Z
 BNDI,NEOS Enhanced Income Aggregate Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG019CHMSZ4,BBG019CHMV14,2024-06-26T00:00:00Z
@@ -1540,6 +1546,7 @@ BTAL,AGF U.S. Market Neutral Anti-Beta Fund,stocks,us,ARCX,ETF,True,usd,,BBG0021
 BTBD,"BT Brands, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1718224.0,BBG00PZ5P5N0,BBG00PZ5P6L0,2024-06-21T00:00:00Z
 BTBDW,"BT Brands, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001718224,BBG013GN9R23,,2024-06-26T00:00:00Z
 BTBT,"Bit Digital, Inc. Ordinary Shares",stocks,us,XNAS,CS,True,usd,1710350.0,,,2024-06-21T00:00:00Z
+BTCL,T-Rex 2X Long Bitcoin Daily Target ETF,stocks,us,BATS,ETF,True,usd,,BBG01MPCZB94,BBG01MPCZCH3,2024-07-15T00:00:00Z
 BTCM,BIT Mining Limited,stocks,us,XNYS,ADRC,True,usd,0001517496,BBG005GRZWJ2,BBG005GRZWH4,2024-06-26T00:00:00Z
 BTCO,Invesco Galaxy Bitcoin ETF,stocks,us,BATS,ETF,True,usd,0001855781,BBG01KY66GF5,BBG01KY66H90,2024-06-26T00:00:00Z
 BTCS,BTCS Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1436229.0,BBG000HN50C1,BBG001T3BGY4,2024-06-21T00:00:00Z
@@ -1547,6 +1554,7 @@ BTCT,BTC Digital Ltd. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1796514.0,,,202
 BTCTW,BTC Digital Ltd. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001796514,,,2024-06-26T00:00:00Z
 BTCW,WisdomTree Bitcoin Fund,stocks,us,BATS,ETF,True,usd,0001850391,BBG01KY5LQM0,BBG01KY5LRG5,2024-06-26T00:00:00Z
 BTCY,"Biotricity, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1630113.0,BBG0080Q4W27,BBG0080Q4W36,2024-06-21T00:00:00Z
+BTCZ,T-Rex 2X Inverse Bitcoin Daily Target ETF,stocks,us,BATS,ETF,True,usd,,BBG01MP1JSY1,BBG01MP1JTS6,2024-07-15T00:00:00Z
 BTDR,Bitdeer Technologies Group Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,1899123.0,,,2024-06-21T00:00:00Z
 BTE,Baytex Energy Corp.,stocks,us,XNYS,CS,True,usd,1279495.0,BBG000BW3M86,BBG001S998N5,2024-05-29T00:00:00Z
 BTEC,Principal Exchange-Traded Funds Principal Healthcare Innovators ETF,stocks,us,XNAS,ETF,True,usd,,BBG00DM1BCP8,BBG00DM1BCQ7,2024-06-26T00:00:00Z
@@ -1640,8 +1648,8 @@ BXSL,Blackstone Secured Lending Fund,stocks,us,XNYS,CS,True,usd,1736035.0,BBG00M
 BY,"Byline Bancorp, Inc. Common Stock",stocks,us,XNYS,CS,True,usd,1702750.0,BBG000G2ZJ98,BBG001SMZRV6,2024-06-21T00:00:00Z
 BYD,Boyd Gaming Corporation,stocks,us,XNYS,CS,True,usd,906553.0,BBG000BHX9P6,BBG001S7DMW3,2024-05-17T00:00:00Z
 BYFC,Broadway Financial Corp/Del,stocks,us,XNAS,CS,True,usd,1001171.0,BBG000BD6V58,BBG001S5WLL0,2024-06-21T00:00:00Z
-BYLD,iShares Yield Optimized Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG006C0Q450,BBG006C0Q441,2024-05-17T00:00:00Z
 BYLD,iShares Yield Optimized Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG006C0Q450,BBG006C0Q441,2024-06-26T00:00:00Z
+BYLD,iShares Yield Optimized Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG006C0Q450,BBG006C0Q441,2024-05-17T00:00:00Z
 BYM,BLACKROCK MUNICIPAL INCOME QUALITY TRUST,stocks,us,XNYS,FUND,True,usd,0001181187,BBG000BLWDZ8,BBG001S99KD9,2024-06-26T00:00:00Z
 BYND,"Beyond Meat, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1655210.0,BBG003CVJP50,BBG003CVJP69,2024-06-21T00:00:00Z
 BYNO,byNordic Acquisition Corporation Class A Common Stock,stocks,us,XNAS,CS,True,usd,1801417.0,BBG011XR7413,BBG011XR7422,2024-06-21T00:00:00Z
@@ -1778,6 +1786,7 @@ CCM,Concord Medical Services Holding Limited,stocks,us,XNYS,ADRC,True,usd,000147
 CCMG,CCM Global Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01KYRHRB7,BBG01KYRHS52,2024-06-26T00:00:00Z
 CCNE,CNB Financial Corp/PA,stocks,us,XNAS,CS,True,usd,736772.0,BBG000BKPZC4,BBG001S80QZ3,2024-05-17T00:00:00Z
 CCNEP,"CNB Financial Corporation Depositary Shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",stocks,us,XNAS,PFD,True,usd,0000736772,,,2024-06-26T00:00:00Z
+CCNR,Financial Investors Trust ALPS/CoreCommodity Natural Resources ETF,stocks,us,XNAS,ETF,True,usd,,BBG01NPDHFB8,BBG01NPDHG62,2024-07-15T00:00:00Z
 CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock",stocks,us,XNYS,CS,True,usd,1334978.0,BBG000SSC5C9,BBG001SY0WV7,2024-06-21T00:00:00Z
 CCOI,"Cogent Communications Holdings, Inc.",stocks,us,XNAS,CS,True,usd,1158324.0,BBG000D0SMY8,BBG001SC5GP2,2024-05-17T00:00:00Z
 CCOR,Core Alternative Capital,stocks,us,ARCX,ETF,True,usd,,BBG00R486HJ4,BBG00R486J91,2024-06-26T00:00:00Z
@@ -1884,8 +1893,8 @@ CFGpE,"Citizens Financial Group, Inc.Depositary Shares Each Representing 1/40th 
 CFGpH,"Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series H",stocks,us,XNYS,PFD,True,usd,0000759944,,,2024-06-26T00:00:00Z
 CFI,CULP INC.,stocks,us,XNYS,CS,True,usd,,BBG000BFF550,BBG001S5PPQ4,2016-05-18T00:00:00Z
 CFLT,"Confluent, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1699838.0,BBG007HWGYQ5,BBG007HWGYS3,2024-06-21T00:00:00Z
-CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,,BBG006QSNBW1,BBG006QSNBX0,2024-06-26T00:00:00Z
 CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,0001547580,BBG006QSNBW1,BBG006QSNBX0,2024-06-21T00:00:00Z
+CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,,BBG006QSNBW1,BBG006QSNBX0,2024-06-26T00:00:00Z
 CFR,Cullen/Frost Bankers Inc.,stocks,us,XNYS,CS,True,usd,39263.0,BBG000C2PL98,BBG001S6D2D0,2024-06-21T00:00:00Z
 CFRpB,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",stocks,us,XNYS,PFD,True,usd,0000039263,,,2024-06-26T00:00:00Z
 CFSB,"CFSB Bancorp, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1879103.0,BBG014H7HX32,BBG014H7HXZ7,2024-06-21T00:00:00Z
@@ -1896,18 +1905,26 @@ CGAU,Centerra Gold Inc.,stocks,us,XNYS,CS,True,usd,1854640.0,BBG000QWM2M7,BBG001
 CGBD,"Carlyle Secured Lending, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1544206.0,BBG00GQVWWP4,BBG00GQVWWQ3,2024-06-21T00:00:00Z
 CGBDL,"Carlyle Secured Lending, Inc. 8.20% Notes due 2028",stocks,us,XNAS,ETF,True,usd,0001544206,,,2024-06-26T00:00:00Z
 CGBL,Capital Group Core Balanced ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J9W1JF8,BBG01J9W1K83,2024-06-26T00:00:00Z
+CGBS,Crown LNG Holdings Limited Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001991946,,,2024-07-15T00:00:00Z
+CGBSW,Crown LNG Holdings Limited Warrants,stocks,us,XNAS,WARRANT,True,usd,0001991946,,,2024-07-15T00:00:00Z
 CGC,Canopy Growth Corporation Common Shares,stocks,us,XNAS,CS,True,usd,1737927.0,BBG0069FB082,BBG001T6MH82,2024-06-21T00:00:00Z
 CGCB,Capital Group Core Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J5S7M86,BBG01J5S7N48,2024-06-26T00:00:00Z
 CGCP,Capital Group Core Plus Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG014YZRQW3,BBG014YZRRT5,2024-06-26T00:00:00Z
+CGCV,Capital Group Conservative Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01N7RN8J8,BBG01N7RN9W1,2024-07-15T00:00:00Z
 CGDG,Capital Group Dividend Growers ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J9W2K55,BBG01J9W2L17,2024-06-26T00:00:00Z
 CGDV,Capital Group Dividend Value ETF,stocks,us,ARCX,ETF,True,usd,,BBG015H8BWY1,BBG015H8BXT5,2024-06-26T00:00:00Z
 CGEM,"Cullinan Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1789972.0,BBG00HW2DGQ4,BBG00HW2DGR3,2024-06-21T00:00:00Z
 CGEN,Compugen Ltd,stocks,us,XNAS,CS,True,usd,1119774.0,,,2024-05-17T00:00:00Z
+CGGE,Capital Group Global Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01N7SMLH0,BBG01N7SMMC3,2024-07-15T00:00:00Z
 CGGO,Capital Group Global Growth Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG015DN3FW0,BBG015DN3GR4,2024-06-26T00:00:00Z
 CGGR,Capital Group Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG015DMY4V4,BBG015DMY5P8,2024-06-26T00:00:00Z
+CGHM,Capital Group Municipal High-Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG01N7T4G98,BBG01N7T4H50,2024-07-15T00:00:00Z
+CGIB,Capital Group International Bond ETF (USD-Hedged),stocks,us,ARCX,ETF,True,usd,,BBG01N7Q8Z34,BBG01N7Q9067,2024-07-15T00:00:00Z
+CGIC,Capital Group International Core Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01N7S4184,BBG01N7S4291,2024-07-15T00:00:00Z
 CGIE,Capital Group International Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J9W3CF1,BBG01J9W3D87,2024-06-26T00:00:00Z
 CGMS,Capital Group U.S. Multi-Sector Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG019XS8MX8,BBG019XS8NR3,2024-06-26T00:00:00Z
 CGMU,Capital Group Municipal Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG019XRCL67,BBG019XRCM29,2024-06-26T00:00:00Z
+CGNG,Capital Group New Geography Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01N7SVCX2,BBG01N7SVDT5,2024-07-15T00:00:00Z
 CGNT,Cognyte Software Ltd. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1824814.0,,,2024-06-21T00:00:00Z
 CGNX,Cognex Corp,stocks,us,XNAS,CS,True,usd,851205.0,BBG000BPBVW5,BBG001S5TC16,2024-06-21T00:00:00Z
 CGO,Calamos Global Total Return Fund,stocks,us,XNAS,CS,True,usd,1285650.0,BBG000NPGLP7,BBG001SKVJY9,2024-05-17T00:00:00Z
@@ -1916,6 +1933,7 @@ CGRO,CoreValues Alpha Greater China Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG0
 CGSD,Capital Group Short Duration Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG019XFYR75,BBG019XFYS46,2024-06-26T00:00:00Z
 CGSM,Capital Group Short Duration Municipal Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J5S8MY6,BBG01J5S8NT0,2024-06-26T00:00:00Z
 CGTX,"Cognition Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1455365.0,BBG001J2P8S7,BBG001V0GFB9,2024-06-21T00:00:00Z
+CGUI,Capital Group Ultra Short Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG01N7Q8JK1,BBG01N7Q8KK8,2024-07-15T00:00:00Z
 CGUS,Capital Group Core Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG015D25XY3,BBG015D25YS8,2024-06-26T00:00:00Z
 CGV,Conductor Global Equity Value ETF,stocks,us,XNYS,ETF,True,usd,,BBG0190B0V14,BBG0190B0VX9,2024-06-26T00:00:00Z
 CGW,Invesco S&P Global Water Index ETF,stocks,us,ARCX,ETF,True,usd,,BBG00KJR2226,BBG00KJR22S8,2024-06-26T00:00:00Z
@@ -1972,8 +1990,8 @@ CHY,Calamos Convertible and High Income Fund,stocks,us,XNAS,CS,True,usd,1222719.
 CI,The Cigna Group,stocks,us,XNYS,CS,True,usd,1739940.0,BBG00KXRCDP0,BBG00KXRCDQ9,2024-06-21T00:00:00Z
 CIA,"Citizens, Inc.",stocks,us,XNYS,CS,True,usd,24090.0,BBG000DJ3D29,BBG001S81V90,2024-06-21T00:00:00Z
 CIB,Bancolombia S.A.,stocks,us,XNYS,ADRC,True,usd,0001071371,BBG000FCN5H1,BBG001S8JWT7,2024-06-26T00:00:00Z
-CIBR,First Trust Exchange-Traded Fund II First Trust NASDAQ Cybersecurity ETF,stocks,us,XNAS,ETF,True,usd,,BBG009K1H2V8,BBG009K1H2W7,2024-06-26T00:00:00Z
 CIBR,First Trust Exchange-Traded Fund II First Trust NASDAQ Cybersecurity ETF,stocks,us,XNAS,ETF,True,usd,0001383496,BBG009K1H2V8,BBG009K1H2W7,2024-06-13T00:00:00Z
+CIBR,First Trust Exchange-Traded Fund II First Trust NASDAQ Cybersecurity ETF,stocks,us,XNAS,ETF,True,usd,,BBG009K1H2V8,BBG009K1H2W7,2024-06-26T00:00:00Z
 CID,VictoryShares International High Div Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,0001547580,BBG009QTFHS4,BBG009QTFHT3,2024-05-17T00:00:00Z
 CID,VictoryShares International High Div Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,,BBG009QTFHS4,BBG009QTFHT3,2024-06-26T00:00:00Z
 CIEN,Ciena Corporation,stocks,us,XNYS,CS,True,usd,936395.0,BBG000BP1152,BBG001S61J73,2024-06-21T00:00:00Z
@@ -2008,8 +2026,8 @@ CIU,ISHARES TR  INTERMEDIATE CR BD ETF,stocks,us,ARCX,INDEX,True,usd,0000930667,
 CIVB,"Civista Bancshares, Inc.",stocks,us,XNAS,CS,True,usd,944745.0,BBG000DWZWT4,BBG001S91FV8,2024-05-17T00:00:00Z
 CIVI,"Civitas Resources, Inc.",stocks,us,XNYS,CS,True,usd,1509589.0,BBG00GLNJ018,BBG00GLNJ0R0,2024-06-21T00:00:00Z
 CIX,Comp X International Inc.,stocks,us,XASE,CS,True,usd,1049606.0,BBG000BCGY99,BBG001S643N7,2024-05-17T00:00:00Z
-CIZ,VictoryShares Developed Enhanced Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,,BBG0077STSZ4,BBG0077STT00,2024-06-26T00:00:00Z
 CIZ,VictoryShares Developed Enhanced Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,0001547580,BBG0077STSZ4,BBG0077STT00,2024-06-25T00:00:00Z
+CIZ,VictoryShares Developed Enhanced Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,,BBG0077STSZ4,BBG0077STT00,2024-06-26T00:00:00Z
 CJET,"Chijet Motor Company, Inc. Ordinary Shares",stocks,us,XNAS,CS,True,usd,1957413.0,,,2024-06-21T00:00:00Z
 CJJD,"China Jo-Jo Drugstores, Inc. (Cayman Islands) Ordinary Shares",stocks,us,XNAS,CS,True,usd,1856084.0,,,2024-06-21T00:00:00Z
 CJNK,SPDR SER TR BOFA M.L. CROSSOVER CORP BD ETF,stocks,us,ARCX,INDEX,True,usd,,BBG0034VNB73,BBG0034VNBZ2,2016-05-18T00:00:00Z
@@ -2085,8 +2103,9 @@ CMA,Comerica Incorporated,stocks,us,XNYS,CS,True,usd,28412.0,BBG000C75N77,BBG001
 CMAX,"CareMax, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1813914.0,BBG00VWC4RP8,BBG00VWC4RQ7,2024-06-21T00:00:00Z
 CMAXW,"CareMax, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001813914,BBG00XD2Y8V9,,2024-06-26T00:00:00Z
 CMBM,Cambium Networks Corporation Ordinary Shares,stocks,us,XNAS,CS,True,usd,1738177.0,,,2024-06-21T00:00:00Z
-CMBS,iShares CMBS ETF,stocks,us,ARCX,ETF,True,usd,,BBG002NCLSR9,BBG002NCLTH8,2024-06-26T00:00:00Z
 CMBS,iShares CMBS ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG002NCLSR9,BBG002NCLTH8,2024-05-17T00:00:00Z
+CMBS,iShares CMBS ETF,stocks,us,ARCX,ETF,True,usd,,BBG002NCLSR9,BBG002NCLTH8,2024-06-26T00:00:00Z
+CMBT,EURONAV NV,stocks,us,XNYS,CS,True,usd,,,,2024-07-15T00:00:00Z
 CMC,Commercial Metals Company,stocks,us,XNYS,CS,True,usd,22444.0,BBG000BFSND8,BBG001S5PXG8,2024-06-21T00:00:00Z
 CMCI,VanEck CMCI Commodity Strategy ETF,stocks,us,BATS,ETF,True,usd,,BBG01J1GXTN5,BBG01J1GXVH7,2024-06-26T00:00:00Z
 CMCL,Caledonia Mining Corporation Plc,stocks,us,XASE,CS,True,usd,766011.0,,,2024-06-21T00:00:00Z
@@ -2098,8 +2117,8 @@ CMCT,Creative Media & Community Trust Corporation Common stock,stocks,us,XNAS,CS
 CMDT,PIMCO Commodity Strategy Active Exchange-Traded Fund,stocks,us,ARCX,ETF,True,usd,,BBG01G446S02,BBG01G446SV8,2024-06-26T00:00:00Z
 CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,stocks,us,ARCX,ETF,True,usd,,BBG00KHT03W1,BBG00KHT04L1,2024-06-26T00:00:00Z
 CME,CME Group Inc.,stocks,us,XNAS,CS,True,usd,1156375.0,BBG000BHLYP4,BBG001S86547,2024-05-17T00:00:00Z
-CMF,iShares California Muni Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000TGH441,BBG001T03XM5,2024-05-17T00:00:00Z
 CMF,iShares California Muni Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000TGH441,BBG001T03XM5,2024-06-26T00:00:00Z
+CMF,iShares California Muni Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000TGH441,BBG001T03XM5,2024-05-17T00:00:00Z
 CMG,"Chipotle Mexican Grill, Inc.",stocks,us,XNYS,CS,True,usd,1058090.0,BBG000QX74T1,BBG001SP50B3,2024-06-21T00:00:00Z
 CMI,Cummins Inc.,stocks,us,XNYS,CS,True,usd,26172.0,BBG000BGPTV6,BBG001S5Q9M3,2024-05-17T00:00:00Z
 CMLS,Cumulus Media Inc. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1058623.0,BBG00L2X8XM3,BBG00L2X8YN0,2024-06-21T00:00:00Z
@@ -2131,8 +2150,8 @@ CMU,MFS High Yield Municipal Trust,stocks,us,XNYS,FUND,True,usd,0000809844,BBG00
 CNA,CNA Financial Corporation,stocks,us,XNYS,CS,True,usd,21175.0,BBG000BFYB47,BBG001S5PYX7,2024-05-17T00:00:00Z
 CNBS,Amplify Seymour Cannabis ETF,stocks,us,ARCX,ETF,True,usd,,BBG00PSSPB28,BBG00PSSPBT9,2024-06-26T00:00:00Z
 CNC,Centene Corporation,stocks,us,XNYS,CS,True,usd,1071739.0,BBG000BDXCJ5,BBG001S6T7Q8,2024-06-21T00:00:00Z
-CNCR,ETF Series Solutions Trust Range Cancer Therapeutics ETF,stocks,us,XNAS,ETF,True,usd,,BBG00B55D0W8,BBG00B55D0V9,2024-06-26T00:00:00Z
 CNCR,ETF Series Solutions Trust Range Cancer Therapeutics ETF,stocks,us,XNAS,ETF,True,usd,0001753220,BBG00B55D0W8,BBG00B55D0V9,2024-05-09T00:00:00Z
+CNCR,ETF Series Solutions Trust Range Cancer Therapeutics ETF,stocks,us,XNAS,ETF,True,usd,,BBG00B55D0W8,BBG00B55D0V9,2024-06-26T00:00:00Z
 CNDA,Concord Acquisition Corp II,stocks,us,XASE,CS,True,usd,1851959.0,BBG00ZVTY6M9,BBG00ZVTY6P6,2024-06-21T00:00:00Z
 CNDA.U,"Concord Acquisition Corp II Units, each consisting of one share of Class A Common Stock and one-third of one Warrant",stocks,us,XASE,UNIT,True,usd,0001851959,BBG00ZV1VHR4,BBG00ZV1VJP2,2024-06-26T00:00:00Z
 CNDA.WS,"Concord Acquisition Corp II Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",stocks,us,XASE,WARRANT,True,usd,0001851959,BBG00ZYWTVP7,,2024-06-26T00:00:00Z
@@ -2165,6 +2184,7 @@ CNSP,"CNS Pharmaceuticals, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1729427
 CNTA,Centessa Pharmaceuticals plc American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001847903,BBG01081FC59,BBG01081FC68,2024-06-26T00:00:00Z
 CNTB,Connect Biopharma Holdings Limited American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001835268,BBG00ZGYNJ49,BBG00ZGYNJZ5,2024-06-26T00:00:00Z
 CNTG,Centogene N.V. Common Shares,stocks,us,XNAS,CS,True,usd,1757097.0,,,2024-06-21T00:00:00Z
+CNTM,"ConnectM Technology Solutions, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,,BBG01710KY40,BBG01710KZH3,2024-07-15T00:00:00Z
 CNTX,Context Therapeutics Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1842952.0,BBG011YW6H86,BBG011YW6J46,2024-06-21T00:00:00Z
 CNTY,Century Casinos Inc,stocks,us,XNAS,CS,True,usd,911147.0,BBG000BMXYT6,BBG001S6MDN5,2024-06-21T00:00:00Z
 CNVS,Cineverse Corp. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1173204.0,BBG000BRSS32,BBG001SBM4H1,2024-06-21T00:00:00Z
@@ -2260,11 +2280,13 @@ CPNG,"Coupang, Inc.",stocks,us,XNYS,CS,True,usd,1834584.0,BBG00XMJRPQ8,BBG00XMJR
 CPNJ,Calamos Nasdaq-100 Structured Alt Protection ETF - June,stocks,us,ARCX,ETF,True,usd,,BBG01N4DHQV5,BBG01N4DHRQ9,2024-06-26T00:00:00Z
 CPOP,"Pop Culture Group Co., Ltd Class A Ordinary Shares",stocks,us,XNAS,CS,True,usd,1807389.0,,,2024-06-21T00:00:00Z
 CPRI,Capri Holdings Limited,stocks,us,XNYS,CS,True,usd,1530721.0,,,2024-06-21T00:00:00Z
+CPRJ,Calamos Russell 2000 Structured Alt Protection ETF - July,stocks,us,ARCX,ETF,True,usd,,BBG01NKVXTB5,BBG01NKVXVH4,2024-07-15T00:00:00Z
 CPRT,Copart Inc,stocks,us,XNAS,CS,True,usd,900075.0,BBG000BM9RH1,BBG001S7MTB1,2024-05-24T00:00:00Z
 CPRX,Catalyst Pharmaceutical  Inc.,stocks,us,XNAS,CS,True,usd,1369568.0,BBG000GZDC67,BBG001SRHS16,2024-06-21T00:00:00Z
 CPS,Cooper-Standard Automotive Inc.,stocks,us,XNYS,CS,True,usd,1320461.0,BBG000PSXT64,BBG001SRCY63,2024-06-21T00:00:00Z
 CPSH,CPS Technologies Corp. Common Stock,stocks,us,XNAS,CS,True,usd,814676.0,BBG000BG6NH6,BBG001S5Q3F4,2024-05-17T00:00:00Z
 CPSI,COMPUTER PROGRAMS & SYSTEMS INC,stocks,us,XNAS,,True,usd,,BBG000BHY9T1,BBG001S7FQ16,2016-05-18T00:00:00Z
+CPSJ,Calamos S&P 500 Structured Alt Protection ETF - July,stocks,us,ARCX,ETF,True,usd,,BBG01NKVYSV4,BBG01NKVYTS6,2024-07-15T00:00:00Z
 CPSM,Calamos S&P 500 Structured Alt Protection ETF - May,stocks,us,ARCX,ETF,True,usd,,BBG01MNWFXN0,BBG01MNWFYK1,2024-06-26T00:00:00Z
 CPSS,Consumer Portfolio Services,stocks,us,XNAS,CS,True,usd,889609.0,BBG000BGHGF1,BBG001S74NB4,2024-06-21T00:00:00Z
 CPT,Camden Property Trust,stocks,us,XNYS,CS,True,usd,906345.0,BBG000BB0V03,BBG001S5Q6V9,2024-06-21T00:00:00Z
@@ -2334,8 +2356,8 @@ CRVO,CervoMed Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1053691.0,BBG000N6JH4
 CRVS,"Corvus Pharmaceuticals, Inc.",stocks,us,XNAS,CS,True,usd,1626971.0,BBG009F0TGH8,BBG009F0TGJ6,2024-05-17T00:00:00Z
 CRWD,"CrowdStrike Holdings, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1535527.0,BBG00BLYKS03,BBG00BLYKRZ7,2024-06-21T00:00:00Z
 CRWS,Crown Crafts Inc,stocks,us,XNAS,CS,True,usd,25895.0,BBG000HHH6J1,BBG001SF22H8,2024-06-21T00:00:00Z
-CSA,VictoryShares US Small Cap Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,0001547580,BBG009K7KXC4,BBG009K7KXD3,2024-05-17T00:00:00Z
 CSA,VictoryShares US Small Cap Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,,BBG009K7KXC4,BBG009K7KXD3,2024-06-26T00:00:00Z
+CSA,VictoryShares US Small Cap Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,0001547580,BBG009K7KXC4,BBG009K7KXD3,2024-05-17T00:00:00Z
 CSAN,Cosan S.A. American Depositary Shares (each representing four Common Shares),stocks,us,XNYS,ADRC,True,usd,0001430162,BBG00YPGPCF2,BBG00YPGPD88,2024-06-26T00:00:00Z
 CSB,VictoryShares US Small Cap High Div Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,0001547580,BBG009K7L981,BBG009K7L972,2024-05-17T00:00:00Z
 CSB,VictoryShares US Small Cap High Div Volatility Wtd ETF,stocks,us,XNAS,ETF,True,usd,,BBG009K7L981,BBG009K7L972,2024-06-26T00:00:00Z
@@ -2355,8 +2377,8 @@ CSLMU,CSLM Acquisition Corp. Unit,stocks,us,XNAS,UNIT,True,usd,0001875493,,,2024
 CSLMW,CSLM Acquisition Corp. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001875493,,,2024-06-26T00:00:00Z
 CSLR,"Complete Solaria, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1838987.0,BBG00ZCW2DK5,BBG00ZCW2FF6,2024-06-21T00:00:00Z
 CSLRW,"Complete Solaria, Inc. Warrants",stocks,us,XNAS,WARRANT,True,usd,0001838987,BBG00ZCW8YD1,,2024-06-26T00:00:00Z
-CSM,ProShares Large Cap Core Plus,stocks,us,BATS,ETF,True,usd,0001174610,BBG000NDJYJ0,BBG001T551S6,2024-05-06T00:00:00Z
 CSM,ProShares Large Cap Core Plus,stocks,us,BATS,ETF,True,usd,,BBG000NDJYJ0,BBG001T551S6,2024-06-26T00:00:00Z
+CSM,ProShares Large Cap Core Plus,stocks,us,BATS,ETF,True,usd,0001174610,BBG000NDJYJ0,BBG001T551S6,2024-05-06T00:00:00Z
 CSMD,Congress SMid Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J1GV3T8,BBG01J1GV4N2,2024-06-26T00:00:00Z
 CSPI,CSP Inc.,stocks,us,XNAS,CS,True,usd,356037.0,BBG000BGH994,BBG001S5Q756,2024-05-17T00:00:00Z
 CSQ,Calamos Strategic Total Return Fund,stocks,us,XNAS,CS,True,usd,1275214.0,BBG000BT4RM5,BBG001SC0HR3,2024-06-21T00:00:00Z
@@ -2536,8 +2558,8 @@ DAY,"Dayforce, Inc.",stocks,us,XNYS,CS,True,usd,1725057.0,BBG005D7PF34,BBG005D7P
 DB,Deutsche Bank Aktiengesellschaft,stocks,us,XNYS,CS,True,usd,1159508.0,,,2024-05-17T00:00:00Z
 DBA,Invesco DB Agriculture Fund,stocks,us,ARCX,ETV,True,usd,0001383082,BBG000QNKPC9,BBG001SSDLZ6,2024-06-26T00:00:00Z
 DBAP,DEUTSCHE X-TRACKERS MSCI ASIA PAC EX JAPAN HEDGED EQTY ETF,stocks,us,ARCX,INDEX,True,usd,0001503123,BBG005BJ0T82,BBG005BJ0T91,2016-05-18T00:00:00Z
-DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,0001503123,BBG005TJ1X47,BBG005TJ1X56,2024-06-25T00:00:00Z
 DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG005TJ1X47,BBG005TJ1X56,2024-06-26T00:00:00Z
+DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,0001503123,BBG005TJ1X47,BBG005TJ1X56,2024-06-25T00:00:00Z
 DBB,Invesco DB Base Metals Fund,stocks,us,ARCX,ETV,True,usd,0001383084,BBG000QNK9K6,BBG001SSDLT3,2024-06-26T00:00:00Z
 DBC,Invesco DB Commodity Index Tracking Fund,stocks,us,ARCX,ETV,True,usd,0001328237,BBG000GPM6Y1,BBG001SNZTS4,2024-06-26T00:00:00Z
 DBD,"Diebold Nixdorf, Incorporated",stocks,us,XNYS,CS,True,usd,28823.0,BBG01HVHYBT6,BBG01HVHYCP8,2024-06-21T00:00:00Z
@@ -2547,8 +2569,8 @@ DBEH,iMGP DBi Hedge Strategy ETF,stocks,us,ARCX,ETF,True,usd,,BBG00R3MSRW3,BBG00
 DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,0001503123,BBG001QWQCK1,BBG001V1QT71,2024-04-24T00:00:00Z
 DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG001QWQCK1,BBG001V1QT71,2024-06-26T00:00:00Z
 DBEU,Xtrackers MSCI Europe Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG005BHZSM4,BBG005BHZSN3,2024-06-26T00:00:00Z
-DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,0001503123,BBG007PNQYZ5,BBG007PNQYY6,2024-06-25T00:00:00Z
 DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG007PNQYZ5,BBG007PNQYY6,2024-06-26T00:00:00Z
+DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,stocks,us,ARCX,ETF,True,usd,0001503123,BBG007PNQYZ5,BBG007PNQYY6,2024-06-25T00:00:00Z
 DBGI,"Digital Brands Group, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1668010.0,BBG00S90Q1M3,BBG00S90Q1N2,2024-06-21T00:00:00Z
 DBGIW,"Digital Brands Group, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001668010,BBG0112KDZ07,,2024-06-26T00:00:00Z
 DBI,Designer Brands Inc.,stocks,us,XNYS,CS,True,usd,1319947.0,BBG000CF8227,BBG001SLWM79,2024-06-21T00:00:00Z
@@ -2573,6 +2595,7 @@ DCI,"Donaldson Company, Inc.",stocks,us,XNYS,CS,True,usd,29644.0,BBG000BGZP70,BB
 DCMT,DoubleLine Commodity Strategy ETF,stocks,us,ARCX,ETF,True,usd,,BBG01L55T281,BBG01L55T343,2024-06-26T00:00:00Z
 DCO,Ducommun Incorporated,stocks,us,XNYS,CS,True,usd,30305.0,BBG000BH02M0,BBG001S5QDZ0,2024-05-17T00:00:00Z
 DCOM,"Dime Community Bancshares, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,846617.0,BBG000BGD220,BBG001S7NTQ4,2024-06-21T00:00:00Z
+DCOMG,"Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",stocks,us,XNAS,ETF,True,usd,0000846617,,,2024-07-15T00:00:00Z
 DCOMP,"Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",stocks,us,XNAS,PFD,True,usd,0000846617,,,2024-06-26T00:00:00Z
 DCOR,Dimensional US Core Equity 1 ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J6LT967,BBG01J6LTBL5,2024-06-26T00:00:00Z
 DCRE,DoubleLine Commercial Real Estate ETF,stocks,us,ARCX,ETF,True,usd,,BBG01G091DL0,BBG01G091FF2,2024-06-26T00:00:00Z
@@ -2604,8 +2627,8 @@ DECW,AllianzIM U.S. Large Cap Buffer20 Dec ETF,stocks,us,ARCX,ETS,True,usd,,BBG0
 DECZ,TrueShares Structured Outcome (December) ETF,stocks,us,BATS,ETF,True,usd,,BBG00YC5V8L5,BBG00YC5V9F0,2024-06-26T00:00:00Z
 DEED,First Trust TCW Securitized Plus ETF,stocks,us,ARCX,ETF,True,usd,,BBG00TDPP142,BBG00TDPP1W1,2024-06-26T00:00:00Z
 DEEF,Xtrackers FTSE Developed ex US Multifactor ETF,stocks,us,ARCX,ETF,True,usd,,BBG00BFJ9KT2,BBG00BFJ9KV9,2024-06-26T00:00:00Z
-DEEP,Roundhill Acquirers Deep Value ETF,stocks,us,ARCX,ETF,True,usd,0001753220,BBG0074VLYQ5,BBG0074VLYR4,2024-03-19T00:00:00Z
 DEEP,Roundhill Acquirers Deep Value ETF,stocks,us,ARCX,ETF,True,usd,,BBG0074VLYQ5,BBG0074VLYR4,2024-06-26T00:00:00Z
+DEEP,Roundhill Acquirers Deep Value ETF,stocks,us,ARCX,ETF,True,usd,0001753220,BBG0074VLYQ5,BBG0074VLYR4,2024-03-19T00:00:00Z
 DEF,Invesco Defensive Equity ETF,stocks,us,ARCX,ETF,True,usd,0001657201,BBG00KJR1KP2,BBG00KJR1LH9,2019-01-03T00:00:00Z
 DEFI,Hashdex Bitcoin ETF,stocks,us,ARCX,ETF,True,usd,0001985840,BBG01KTWD6D0,BBG01KTWD775,2024-06-26T00:00:00Z
 DEHP,Dimensional Emerging Markets High Profitability ETF,stocks,us,ARCX,ETF,True,usd,,BBG017156CY0,BBG017156DS5,2024-06-26T00:00:00Z
@@ -2634,8 +2657,8 @@ DFAW,Dimensional World Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J9W23X2,BBG0
 DFAX,Dimensional World ex U.S. Core Equity 2 ETF,stocks,us,ARCX,ETF,True,usd,,BBG012G2PC71,BBG012G2PD33,2024-06-26T00:00:00Z
 DFCA,Dimensional California Municipal Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG01H4ZQZ30,BBG01H4ZQZZ5,2024-06-26T00:00:00Z
 DFCF,Dimensional Core Fixed Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG01254CK66,BBG01254CL28,2024-06-26T00:00:00Z
-DFE,WisdomTree Europe SmallCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,,BBG000BT0PS7,BBG001SHL425,2024-06-26T00:00:00Z
 DFE,WisdomTree Europe SmallCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG000BT0PS7,BBG001SHL425,2024-06-14T00:00:00Z
+DFE,WisdomTree Europe SmallCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,,BBG000BT0PS7,BBG001SHL425,2024-06-26T00:00:00Z
 DFEB,FT Vest U.S. Equity Deep Buffer ETF - February,stocks,us,BATS,ETF,True,usd,,BBG00RPLC422,BBG00RPLC4T3,2024-06-26T00:00:00Z
 DFEM,Dimensional Emerging Markets Core Equity 2 ETF,stocks,us,ARCX,ETF,True,usd,,BBG017159LH6,BBG017159MD8,2024-06-26T00:00:00Z
 DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,stocks,us,ARCX,ETF,True,usd,,BBG00GM464T5,BBG00GM465J3,2024-06-26T00:00:00Z
@@ -2686,10 +2709,10 @@ DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,s
 DGRO,iShares Core Dividend Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG006MJFZJ6,BBG006MJFZK4,2024-06-26T00:00:00Z
 DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,stocks,us,XNAS,ETF,True,usd,,BBG004WG0DR2,BBG004WG0DQ3,2024-06-26T00:00:00Z
 DGRW,WisdomTree Trust WisdomTree U.S. Quality Dividend Growth Fund,stocks,us,XNAS,ETF,True,usd,,BBG004LMH377,BBG004LMH3Z6,2024-06-26T00:00:00Z
-DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,0001021249,BBG000Q3FFR5,BBG001SRPT24,2024-05-17T00:00:00Z
 DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,,BBG000Q3FFR5,BBG001SRPT24,2024-06-26T00:00:00Z
-DGT,SPDR Global Dow ETF (based on The Global Dow),stocks,us,ARCX,ETF,True,usd,0001064642,BBG000C9KLL4,BBG001SG4257,2024-05-17T00:00:00Z
+DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,0001021249,BBG000Q3FFR5,BBG001SRPT24,2024-05-17T00:00:00Z
 DGT,SPDR Global Dow ETF (based on The Global Dow),stocks,us,ARCX,ETF,True,usd,,BBG000C9KLL4,BBG001SG4257,2024-06-26T00:00:00Z
+DGT,SPDR Global Dow ETF (based on The Global Dow),stocks,us,ARCX,ETF,True,usd,0001064642,BBG000C9KLL4,BBG001SG4257,2024-05-17T00:00:00Z
 DGX,Quest Diagnostics Inc.,stocks,us,XNYS,CS,True,usd,1022079.0,BBG000BN84F3,BBG001S9GX43,2024-06-21T00:00:00Z
 DGZ,"DB Gold Short ETN due February 15, 2038",stocks,us,ARCX,ETN,True,usd,0001159508,BBG000BW0YK9,BBG001SJ3M58,2024-06-26T00:00:00Z
 DH,Definitive Healthcare Corp. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1861795.0,BBG01282ZJM7,BBG01282ZKG1,2024-06-21T00:00:00Z
@@ -2714,8 +2737,8 @@ DIBS,"1stdibs.com, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1600641.0,BBG00
 DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,stocks,us,ARCX,ETF,True,usd,,BBG00D0YKT46,BBG00D0YKT55,2024-06-26T00:00:00Z
 DIG,ProShares Ultra Energy,stocks,us,ARCX,ETF,True,usd,,BBG000QXFNY4,BBG001SSTCM3,2024-06-26T00:00:00Z
 DIHP,Dimensional International High Profitability ETF,stocks,us,BATS,ETF,True,usd,,BBG01636J249,BBG01636J356,2024-06-26T00:00:00Z
-DIM,WisdomTree International MidCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG000BT3Z93,BBG001SHL8G1,2024-06-25T00:00:00Z
 DIM,WisdomTree International MidCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,,BBG000BT3Z93,BBG001SHL8G1,2024-06-26T00:00:00Z
+DIM,WisdomTree International MidCap Dividend Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG000BT3Z93,BBG001SHL8G1,2024-06-25T00:00:00Z
 DIN,"Dine Brands Global, Inc.",stocks,us,XNYS,CS,True,usd,49754.0,BBG000GZ9406,BBG001SD46L7,2024-06-21T00:00:00Z
 DINO,HF Sinclair Corporation,stocks,us,XNYS,CS,True,usd,1915657.0,BBG0135B2214,BBG0135B2269,2024-06-21T00:00:00Z
 DINT,Davis Select International ETF,stocks,us,BATS,ETF,True,usd,,BBG00K6R6182,BBG00K6R6208,2024-06-26T00:00:00Z
@@ -2835,6 +2858,7 @@ DPSI,"DecisionPoint Systems, Inc.",stocks,us,XASE,CS,True,usd,1505611.0,BBG000F7
 DPST,Direxion Daily Regional Banks Bull 3X Shares,stocks,us,ARCX,ETF,True,usd,,BBG009T0QND5,BBG009T0QNF3,2024-06-26T00:00:00Z
 DPZ,Domino's Pizza Inc.,stocks,us,XNYS,CS,True,usd,1286681.0,BBG000P458P3,BBG001SL3ZH1,2024-05-17T00:00:00Z
 DQ,Daqo New Energy Corp. American Depositary Shares (each representing 5 Ordinary Shares),stocks,us,XNYS,ADRC,True,usd,0001477641,BBG000Q5T9W3,BBG001T6LDF4,2024-06-26T00:00:00Z
+DRAI,Draco Evolution AI ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NLLVM87,BBG01NLLVN30,2024-07-15T00:00:00Z
 DRCT,"Direct Digital Holdings, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1880613.0,BBG013JR1M57,BBG013JR1M75,2024-06-21T00:00:00Z
 DRD,DRDGOLD Ltd.,stocks,us,XNYS,ADRC,True,usd,0001023512,BBG000BX8QF2,BBG001S96F70,2024-06-26T00:00:00Z
 DRH,DiamondRock Hospitality Company,stocks,us,XNYS,CS,True,usd,1298946.0,BBG000JKHFP5,BBG001SJ63M8,2024-06-21T00:00:00Z
@@ -2846,8 +2870,8 @@ DRIV,Global X Autonomous & Electric Vehicles ETF,stocks,us,XNAS,ETF,True,usd,,BB
 DRLL,Strive U.S. Energy ETF,stocks,us,XNYS,ETF,True,usd,,BBG0190VW6M7,BBG0190VW7P2,2024-06-26T00:00:00Z
 DRMA,"Dermata Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1853816.0,BBG011DJT0X2,BBG011DJT0Y1,2024-06-21T00:00:00Z
 DRMAW,"Dermata Therapeutics, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001853816,BBG01248ZHS6,,2024-06-26T00:00:00Z
-DRN,Direxion Daily Real Estate Bull 3X Shares,stocks,us,ARCX,ETF,True,usd,,BBG000J9G9N7,BBG001T3KCM6,2024-06-26T00:00:00Z
 DRN,Direxion Daily Real Estate Bull 3X Shares,stocks,us,ARCX,ETF,True,usd,0001040587,BBG000J9G9N7,BBG001T3KCM6,2024-05-20T00:00:00Z
+DRN,Direxion Daily Real Estate Bull 3X Shares,stocks,us,ARCX,ETF,True,usd,,BBG000J9G9N7,BBG001T3KCM6,2024-06-26T00:00:00Z
 DRQ,"Dril-Quip, Inc.",stocks,us,XNYS,CS,True,usd,1042893.0,BBG000BVDBY2,BBG001SB9LK4,2024-05-17T00:00:00Z
 DRRX,Durect Corp,stocks,us,XNAS,CS,True,usd,1082038.0,BBG000D2WP45,BBG001SG3GG5,2024-06-21T00:00:00Z
 DRS,"Leonardo DRS, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1833756.0,BBG00ZSB4TS9,BBG00ZSB4TT8,2024-06-21T00:00:00Z
@@ -2909,6 +2933,10 @@ DUG,ProShares UltraShort Energy,stocks,us,ARCX,ETF,True,usd,,BBG000QXHGG7,BBG001
 DUHP,Dimensional US High Profitability ETF,stocks,us,ARCX,ETF,True,usd,,BBG015DLMKV3,BBG015DLMLQ7,2024-06-26T00:00:00Z
 DUK,Duke Energy Corporation,stocks,us,XNYS,CS,True,usd,1326160.0,BBG000BHGDH5,BBG001S5QNR7,2024-06-21T00:00:00Z
 DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,stocks,us,XNYS,SP,True,usd,0001326160,,,2024-06-26T00:00:00Z
+DUKH,Ocean Park High Income ETF,stocks,us,XNAS,ETF,True,usd,0001326160,BBG01NMSV8K8,BBG01NMSV9J8,2024-07-15T00:00:00Z
+DUKQ,Ocean Park Domestic ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NMSH744,BBG01NMSH7Z0,2024-07-15T00:00:00Z
+DUKX,Ocean Park International ETF,stocks,us,XNAS,ETF,True,usd,,BBG01NMSLYH6,BBG01NMSLZV7,2024-07-15T00:00:00Z
+DUKZ,Ocean Park Diversified Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NMST420,BBG01NMST518,2024-07-15T00:00:00Z
 DUKpA,"Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001326160,,,2024-06-26T00:00:00Z
 DULL,MicroSectors Gold -3x Inverse Leveraged ETN,stocks,us,ARCX,ETS,True,usd,0000927971,BBG01F7836Q5,BBG01F7837L8,2024-06-26T00:00:00Z
 DUO,Fangdd Network Group Ltd. American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001750593,BBG00QJ90L78,BBG00QJ90M85,2024-06-26T00:00:00Z
@@ -2998,6 +3026,7 @@ EB,"Eventbrite, Inc. Class A Common Stock",stocks,us,XNYS,CS,True,usd,1475115.0,
 EBAY,eBay Inc,stocks,us,XNAS,CS,True,usd,1065088.0,BBG000C43RR5,BBG001S9B9J5,2024-06-21T00:00:00Z
 EBC,"Eastern Bankshares, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1810546.0,BBG00W9KWXC4,BBG00W9KWY41,2024-06-21T00:00:00Z
 EBF,"Ennis, Inc.",stocks,us,XNYS,CS,True,usd,33002.0,BBG000BHJZF5,BBG001S5QQS9,2024-06-03T00:00:00Z
+EBIT,Harbor AlphaEdge Small Cap Earners ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NL7SDD6,BBG01NL7SFG8,2024-07-15T00:00:00Z
 EBIZ,Global X E-commerce ETF,stocks,us,XNAS,ETF,True,usd,,BBG00MNPXTL7,BBG00MNPXVB3,2024-06-26T00:00:00Z
 EBLU,Ecofin Global Water ESG Fund,stocks,us,ARCX,ETF,True,usd,,BBG00FYJCH33,BBG00FYJCHW1,2024-06-26T00:00:00Z
 EBMT,"Eagle Bancorp Montana, Inc",stocks,us,XNAS,CS,True,usd,1478454.0,BBG000BSHXP7,BBG001SF3Q66,2024-05-17T00:00:00Z
@@ -3008,6 +3037,7 @@ EBR,Centrais Elétricas Brasileiras S.A.- Eletrobrás American Depositary Shares
 EBR.B,Centrais Elétricas Brasileiras S.A.- Eletrobrás American Depositary Shares (Each representing one Preferred Share),stocks,us,XNYS,ADRC,True,usd,0001439124,BBG000BL63W2,BBG001S8FGV3,2024-06-26T00:00:00Z
 EBS,"Emergent Biosolutions, Inc.",stocks,us,XNYS,CS,True,usd,1367644.0,BBG000GW06J7,BBG001SP1G40,2024-05-17T00:00:00Z
 EBTC,Enterprise Bancorp Inc.,stocks,us,XNAS,CS,True,usd,1018399.0,BBG000BLT2T3,BBG001SB6470,2024-06-21T00:00:00Z
+EBUF,Innovator Emerging Markets 10 Buffer ETF - Quarterly,stocks,us,ARCX,ETF,True,usd,,BBG01NJ23S53,BBG01NJ23T15,2024-07-15T00:00:00Z
 EC,Ecopetrol S.A,stocks,us,XNYS,ADRC,True,usd,0001444406,BBG000RJ1Y75,BBG001T3G3D1,2024-06-26T00:00:00Z
 ECAT,BlackRock ESG Capital Allocation Term Trust,stocks,us,XNYS,FUND,True,usd,0001864843,BBG012Q6JDC0,BBG012Q6JF99,2024-06-26T00:00:00Z
 ECBK,"ECB Bancorp, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1914605.0,BBG0175VKH09,BBG0175VKJ23,2024-06-21T00:00:00Z
@@ -3066,15 +3096,15 @@ EEFT,Euronet Worldwide Inc,stocks,us,XNAS,CS,True,usd,1029199.0,BBG000BMNBY1,BBG
 EEIQ,EpicQuest Education Group International Limited Common Stock,stocks,us,XNAS,CS,True,usd,1781397.0,,,2024-06-21T00:00:00Z
 EELV,Invesco S&P Emerging Markets Low Volatility ETF,stocks,us,ARCX,ETF,True,usd,,BBG002DJ8GK3,BBG002DJ8H94,2024-06-26T00:00:00Z
 EEM,iShares MSCI Emerging Markets ETF,stocks,us,ARCX,ETF,True,usd,,BBG000M0P5L2,BBG001SK77D5,2024-06-26T00:00:00Z
-EEMA,iShares MSCI Emerging Markets Asia ETF,stocks,us,XNAS,ETF,True,usd,0000930667,BBG002MYG8C8,BBG002MYG936,2024-05-17T00:00:00Z
 EEMA,iShares MSCI Emerging Markets Asia ETF,stocks,us,XNAS,ETF,True,usd,,BBG002MYG8C8,BBG002MYG936,2024-06-26T00:00:00Z
+EEMA,iShares MSCI Emerging Markets Asia ETF,stocks,us,XNAS,ETF,True,usd,0000930667,BBG002MYG8C8,BBG002MYG936,2024-05-17T00:00:00Z
 EEMD,AAM S&P Emerging Markets High Dividend Value ETF,stocks,us,ARCX,ETF,True,usd,,BBG00JC12QF6,BBG00JC12R46,2024-06-26T00:00:00Z
 EEMO,Invesco S&P Emerging Markets Momentum ETF,stocks,us,ARCX,ETF,True,usd,,BBG002PL3XQ7,BBG002PL3YG6,2024-06-26T00:00:00Z
 EEMS,iShares MSCI Emerging Markets Small-Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000G4SNJ2,BBG001T2TH39,2024-06-26T00:00:00Z
 EEMV,iShares MSCI Emerging Markets Min Vol Factor ETF,stocks,us,BATS,ETF,True,usd,,BBG0025X3F19,BBG0025X3FS0,2024-06-26T00:00:00Z
 EEMX,SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF,stocks,us,ARCX,ETF,True,usd,,BBG00F161LM9,BBG00F161LN8,2024-06-26T00:00:00Z
-EES,WisdomTree U.S. SmallCap Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R1R061,BBG001SSZBC9,2024-06-26T00:00:00Z
 EES,WisdomTree U.S. SmallCap Fund,stocks,us,ARCX,ETF,True,usd,0001409832,BBG000R1R061,BBG001SSZBC9,2024-05-14T00:00:00Z
+EES,WisdomTree U.S. SmallCap Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R1R061,BBG001SSZBC9,2024-06-26T00:00:00Z
 EET,ProShares Ultra MSCI Emerging Markets,stocks,us,ARCX,ETF,True,usd,,BBG000JYPCT9,BBG001T3T6V0,2024-06-26T00:00:00Z
 EETH,ProShares Ether Strategy ETF,stocks,us,ARCX,ETF,True,usd,,BBG01JLGM0D9,BBG01JLGM174,2024-06-26T00:00:00Z
 EEV,ProShares Trust UltraShort MSCI Emerging Markets,stocks,us,ARCX,ETF,True,usd,,BBG000TSCZZ7,BBG001T0H195,2024-06-26T00:00:00Z
@@ -3127,6 +3157,7 @@ EGY,"Vaalco Energy, Inc.",stocks,us,XNYS,CS,True,usd,894627.0,BBG000BTBH21,BBG00
 EH,EHang Holdings Limited ADS,stocks,us,XNAS,ADRC,True,usd,0001759783,BBG00QRFRQC9,BBG00QRFRR37,2024-06-26T00:00:00Z
 EHAB,"Enhabit, Inc.",stocks,us,XNYS,CS,True,usd,1803737.0,BBG014QJ5BV6,BBG014QJ5CJ8,2024-06-21T00:00:00Z
 EHC,Encompass Health Corporation Common Stock,stocks,us,XNYS,CS,True,usd,785161.0,BBG000BGBRG2,BBG001S5Q5B3,2024-06-21T00:00:00Z
+EHGO,Eshallgo Inc. Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001879754,,,2024-07-15T00:00:00Z
 EHI,"Western Asset Global High Income Fund, Inc",stocks,us,XNYS,FUND,True,usd,0001228509,BBG000PQ4YV1,BBG001SLMLM5,2024-05-17T00:00:00Z
 EHLS,Even Herd Long Short ETF,stocks,us,XNAS,ETF,True,usd,,BBG01M2SMGD2,BBG01M2SMHB2,2024-06-26T00:00:00Z
 EHTH,"eHealth, Inc.",stocks,us,XNAS,CS,True,usd,1333493.0,BBG000P5JQX6,BBG001SQX565,2024-05-17T00:00:00Z
@@ -3176,8 +3207,8 @@ ELWS,"Earlyworks Co., Ltd. American Depositary Shares",stocks,us,XNAS,ADRC,True,
 ELY,CALLAWAY GOLF CO,stocks,us,XNYS,CS,True,usd,,BBG000CPCVY1,BBG001S70DV8,2016-05-18T00:00:00Z
 ELYM,"Eliem Therapeutics, Inc Common Stock",stocks,us,XNAS,CS,True,usd,1768446.0,BBG00ZNKL0K6,BBG00ZNKL0L5,2024-06-21T00:00:00Z
 EM,Smart Share Global Limited American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001834253,BBG00ZMZ5175,BBG00ZMZ5228,2024-06-26T00:00:00Z
-EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG000NXKWH0,BBG001SQS9Y2,2024-06-26T00:00:00Z
 EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000NXKWH0,BBG001SQS9Y2,2024-06-24T00:00:00Z
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG000NXKWH0,BBG001SQS9Y2,2024-06-26T00:00:00Z
 EMBC,Embecta Corp. Common Stock,stocks,us,XNAS,CS,True,usd,1872789.0,BBG014L7D4G1,BBG014L7D4H0,2024-06-21T00:00:00Z
 EMBD,Global X Emerging Markets Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00V6QGVM7,BBG00V6QGWD5,2024-06-26T00:00:00Z
 EMC,Global X Emerging Markets Great Consumer ETF,stocks,us,ARCX,ETF,True,usd,,BBG01GJX6FP3,BBG01GJX6GJ8,2024-06-26T00:00:00Z
@@ -3194,12 +3225,12 @@ EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,stocks,us,BATS,ETF,Tru
 EME,"EMCOR Group, Inc.",stocks,us,XNYS,CS,True,usd,105634.0,BBG000BBRPL4,BBG001S5QVG1,2024-05-17T00:00:00Z
 EMF,Templeton Emerging Markets Fund,stocks,us,XNYS,FUND,True,usd,0000809708,BBG000BHWFQ2,BBG001S5QVH0,2024-06-26T00:00:00Z
 EMFQ,Amplify Emerging Markets FinTech ETF,stocks,us,ARCX,ETF,True,usd,,BBG00N6WGH16,BBG00N6WGHS7,2024-06-26T00:00:00Z
-EMGF,iShares Emerging Markets Equity Factor ETF,stocks,us,BATS,ETF,True,usd,0000930667,BBG00BM64QM1,BBG00BM64QL2,2024-05-17T00:00:00Z
 EMGF,iShares Emerging Markets Equity Factor ETF,stocks,us,BATS,ETF,True,usd,,BBG00BM64QM1,BBG00BM64QL2,2024-06-26T00:00:00Z
+EMGF,iShares Emerging Markets Equity Factor ETF,stocks,us,BATS,ETF,True,usd,0000930667,BBG00BM64QM1,BBG00BM64QL2,2024-05-17T00:00:00Z
 EMHC,SPDR Bloomberg Emerging Markets USD Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00ZXP9PZ7,BBG00ZXP9R74,2024-06-26T00:00:00Z
 EMHY,iShares J.P. Morgan EM High Yield Bond ETF,stocks,us,BATS,ETF,True,usd,,BBG002VCZQ17,BBG002VCZQS8,2024-06-26T00:00:00Z
-EMIF,iShares Emerging Markets Infrastructure ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000G4XV35,BBG001T2TH75,2024-05-17T00:00:00Z
 EMIF,iShares Emerging Markets Infrastructure ETF,stocks,us,XNAS,ETF,True,usd,,BBG000G4XV35,BBG001T2TH75,2024-06-26T00:00:00Z
+EMIF,iShares Emerging Markets Infrastructure ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000G4XV35,BBG001T2TH75,2024-05-17T00:00:00Z
 EMKR,Emcore Corp,stocks,us,XNAS,CS,True,usd,808326.0,BBG000BMQS80,BBG001S9F019,2024-06-21T00:00:00Z
 EML,Eastern Company,stocks,us,XNAS,CS,True,usd,31107.0,BBG000BHWVB3,BBG001S5QVP1,2024-05-17T00:00:00Z
 EMLC,VanEck J. P. Morgan EM Local Currency Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BF8YP3,BBG001T9BPT7,2024-06-26T00:00:00Z
@@ -3212,6 +3243,7 @@ EMMF,WisdomTree Emerging Markets Multifactor Fund,stocks,us,ARCX,ETF,True,usd,,B
 EMN,Eastman Chemical Company,stocks,us,XNYS,CS,True,usd,915389.0,BBG000BLW530,BBG001S7JNP3,2024-06-18T00:00:00Z
 EMNT,PIMCO Enhanced Short Maturity Active ESG ETF,stocks,us,ARCX,ETF,True,usd,,BBG00QQFDT39,BBG00QQFDTV8,2024-06-26T00:00:00Z
 EMO,ClearBridge Energy Midstream Opportunity Fund Inc.,stocks,us,XNYS,FUND,True,usd,0001517518,BBG001M6WF64,BBG001V10LQ5,2024-06-26T00:00:00Z
+EMOT,First Trust S&P 500 Economic Moat ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NG4D178,BBG01NG4D221,2024-07-15T00:00:00Z
 EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series due October 1, 2066",stocks,us,XNYS,CS,True,usd,66901.0,,,2024-06-21T00:00:00Z
 EMQQ,EMQQ The Emerging Markets Internet & Ecommerce ETF,stocks,us,ARCX,ETF,True,usd,,BBG007J2YCX9,BBG007J2YCW0,2024-06-26T00:00:00Z
 EMR,Emerson Electric Co.,stocks,us,XNYS,CS,True,usd,32604.0,BBG000BHX7N2,BBG001S5QVT7,2024-05-17T00:00:00Z
@@ -3269,8 +3301,8 @@ EPAC,Enerpac Tool Group Corp.,stocks,us,XNYS,CS,True,usd,6955.0,BBG000B9WX45,BBG
 EPAM,"EPAM SYSTEMS, INC.",stocks,us,XNYS,CS,True,usd,1352010.0,BBG000MHTV89,BBG001SKDJH8,2024-06-21T00:00:00Z
 EPC,Edgewell Personal Care Company,stocks,us,XNYS,CS,True,usd,1096752.0,BBG000BRW644,BBG001SF1XY2,2024-05-17T00:00:00Z
 EPD,Enterprise Products Partners L.P.,stocks,us,XNYS,CS,True,usd,1061219.0,BBG000BR3012,BBG001S9P0Z1,2024-05-17T00:00:00Z
-EPHE,iShares MSCI Philippines ETF,stocks,us,ARCX,ETF,True,usd,,BBG0016RN6D8,BBG001TCKW33,2024-06-26T00:00:00Z
 EPHE,iShares MSCI Philippines ETF,stocks,us,ARCX,ETF,True,usd,0000930667,BBG0016RN6D8,BBG001TCKW33,2024-06-06T00:00:00Z
+EPHE,iShares MSCI Philippines ETF,stocks,us,ARCX,ETF,True,usd,,BBG0016RN6D8,BBG001TCKW33,2024-06-26T00:00:00Z
 EPI,WisdomTree India Earnings Fund ETF,stocks,us,ARCX,ETF,True,usd,,BBG000VC1C55,BBG001T21LV9,2024-06-26T00:00:00Z
 EPIX,ESSA Pharma Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1633932.0,BBG0088NJ8D1,BBG0080GLFK7,2024-06-21T00:00:00Z
 EPM,Evolution Petroleum Corporation,stocks,us,XASE,CS,True,usd,1006655.0,BBG000C15T59,BBG001S7PJP5,2024-05-17T00:00:00Z
@@ -3285,8 +3317,8 @@ EPRX,Eupraxia Pharmaceuticals Inc. Common Stock,stocks,us,XNAS,CS,True,usd,15811
 EPRpC,EPR Properties 5.75% Series C Cumulative Convertible Preferred Shares,stocks,us,XNYS,PFD,True,usd,0001045450,,,2024-06-26T00:00:00Z
 EPRpE,EPR Properties 9.00% Series E Cumulative Convertible Preferred Shares,stocks,us,XNYS,PFD,True,usd,0001045450,,,2024-06-25T00:00:00Z
 EPRpG,EPR Properties 5.750% Series G Cumulative Redeemable Preferred Shares,stocks,us,XNYS,PFD,True,usd,0001045450,,,2024-06-26T00:00:00Z
-EPS,WisdomTree U.S. LargeCap Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG000R1PCX7,BBG001SSZB57,2024-05-29T00:00:00Z
 EPS,WisdomTree U.S. LargeCap Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R1PCX7,BBG001SSZB57,2024-06-26T00:00:00Z
+EPS,WisdomTree U.S. LargeCap Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG000R1PCX7,BBG001SSZB57,2024-05-29T00:00:00Z
 EPSN,Epsilon Energy Ltd.,stocks,us,XNAS,CS,True,usd,1726126.0,BBG000BHJM37,BBG001SBVQH2,2024-06-21T00:00:00Z
 EPU,iShares MSCI Peru and Global Exposure ETF,stocks,us,ARCX,ETF,True,usd,,BBG000MF3YP6,BBG001T4R2P6,2024-06-26T00:00:00Z
 EPV,ProShares UltraShort FTSE Europe,stocks,us,ARCX,ETF,True,usd,0001174610,BBG000MKHDC0,BBG001T4SGB9,2024-05-17T00:00:00Z
@@ -3406,6 +3438,7 @@ EUFN,iShares MSCI Europe Financials ETF,stocks,us,XNAS,ETF,True,usd,0001100663,B
 EUM,ProShares Trust Short MSCI Emerging Markets,stocks,us,ARCX,ETF,True,usd,0000810972,BBG000TSD7D2,BBG001T0H1G7,2024-03-18T00:00:00Z
 EUM,ProShares Trust Short MSCI Emerging Markets,stocks,us,ARCX,ETF,True,usd,,BBG000TSD7D2,BBG001T0H1G7,2024-06-26T00:00:00Z
 EUO,ProShares UltraShort Euro,stocks,us,ARCX,ETV,True,usd,0001415311,BBG000CT5J69,BBG001S7Y600,2024-05-23T00:00:00Z
+EURKU,Eureka Acquisition Corp Unit,stocks,us,XNAS,UNIT,True,usd,0002000410,,,2024-07-15T00:00:00Z
 EURL,Direxion Daily FTSE Europe Bull 3x Shares,stocks,us,ARCX,ETF,True,usd,,BBG005VPQG31,BBG005VPQG40,2024-06-26T00:00:00Z
 EURN,EURONAV NV,stocks,us,XNYS,CS,True,usd,1604481.0,,,2024-06-21T00:00:00Z
 EUSA,iShares MSCI USA Equal Weighted ETF,stocks,us,ARCX,ETF,True,usd,,BBG000QVM891,BBG001T8MYT8,2024-06-26T00:00:00Z
@@ -3461,8 +3494,8 @@ EVTR,Eaton Vance Total Return Bond ETF,stocks,us,XNYS,ETF,True,usd,,BBG01LTGRNY8
 EVTV,"Envirotech Vehicles, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1563568.0,BBG007J7HYT4,BBG007J7HYV1,2024-06-21T00:00:00Z
 EVUS,iShares ESG Aware MSCI USA Value ETF,stocks,us,BATS,ETF,True,usd,,BBG01DJPZTK0,BBG01DJPZVG0,2024-06-26T00:00:00Z
 EVV,Eaton Vance Limited Duration Income Fund,stocks,us,XASE,FUND,True,usd,0001222922,BBG000BLYM40,BBG001S9B8R8,2024-06-26T00:00:00Z
-EVX,VanEck Environmental Services ETF,stocks,us,ARCX,ETF,True,usd,,BBG000Q55682,BBG001SRRWS7,2024-06-26T00:00:00Z
 EVX,VanEck Environmental Services ETF,stocks,us,ARCX,ETF,True,usd,0001137360,BBG000Q55682,BBG001SRRWS7,2024-05-17T00:00:00Z
+EVX,VanEck Environmental Services ETF,stocks,us,ARCX,ETF,True,usd,,BBG000Q55682,BBG001SRRWS7,2024-06-26T00:00:00Z
 EW,Edwards Lifesciences Corp,stocks,us,XNYS,CS,True,usd,1099800.0,BBG000BRXP69,BBG001SF2288,2024-06-21T00:00:00Z
 EWA,iShares MSCI Australia ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BDNJ29,BBG001S6ZW40,2024-06-26T00:00:00Z
 EWBC,East-West Bancorp Inc,stocks,us,XNAS,CS,True,usd,1069157.0,BBG000CR20B1,BBG001SCC7R2,2024-05-17T00:00:00Z
@@ -3489,15 +3522,15 @@ EWS,iShares MSCI Singapore ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BK4VM5,BBG001S
 EWT,iShares MSCI Taiwan ETF,stocks,us,ARCX,ETF,True,usd,,BBG000CJLQ12,BBG001SFGL81,2024-06-26T00:00:00Z
 EWTX,"Edgewise Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1710072.0,BBG00K4Y2H24,BBG00K4Y2H33,2024-06-21T00:00:00Z
 EWU,iShares MSCI United Kingdom ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BK6997,BBG001S8SYX8,2024-06-26T00:00:00Z
-EWUS,iShares MSCI United Kingdom Small-Cap ETF,stocks,us,BATS,ETF,True,usd,,BBG002DMMNJ7,BBG002DMMP84,2024-06-26T00:00:00Z
 EWUS,iShares MSCI United Kingdom Small-Cap ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG002DMMNJ7,BBG002DMMP84,2024-05-17T00:00:00Z
-EWV,ProShares Trust UltraShort MSCI Japan,stocks,us,ARCX,ETF,True,usd,0001174610,BBG000TVXRN8,BBG001T0LD58,2024-05-17T00:00:00Z
+EWUS,iShares MSCI United Kingdom Small-Cap ETF,stocks,us,BATS,ETF,True,usd,,BBG002DMMNJ7,BBG002DMMP84,2024-06-26T00:00:00Z
 EWV,ProShares Trust UltraShort MSCI Japan,stocks,us,ARCX,ETF,True,usd,,BBG000TVXRN8,BBG001T0LD58,2024-06-26T00:00:00Z
+EWV,ProShares Trust UltraShort MSCI Japan,stocks,us,ARCX,ETF,True,usd,0001174610,BBG000TVXRN8,BBG001T0LD58,2024-05-17T00:00:00Z
 EWW,iShares MSCI Mexico ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BK42M9,BBG001S8SYQ6,2024-06-26T00:00:00Z
 EWX,SPDR S&P Emerging Markets Small Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000FT16M0,BBG001T2PHC3,2024-06-26T00:00:00Z
 EWY,iShares MSCI South Korea ETF,stocks,us,ARCX,ETF,True,usd,,BBG000CDKWX8,BBG001SF9FC7,2024-06-26T00:00:00Z
-EWZ,iShares MSCI Brazil ETF,stocks,us,ARCX,ETF,True,usd,0000930667,BBG000CPLR52,BBG001SFN5N1,2024-06-25T00:00:00Z
 EWZ,iShares MSCI Brazil ETF,stocks,us,ARCX,ETF,True,usd,,BBG000CPLR52,BBG001SFN5N1,2024-06-26T00:00:00Z
+EWZ,iShares MSCI Brazil ETF,stocks,us,ARCX,ETF,True,usd,0000930667,BBG000CPLR52,BBG001SFN5N1,2024-06-25T00:00:00Z
 EWZS,iShares MSCI Brazil Small-Cap ETF,stocks,us,XNAS,ETF,True,usd,,BBG0016RKFL2,BBG001S56JK5,2024-06-26T00:00:00Z
 EXAI,Exscientia Plc American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001865408,BBG012GMTXM0,BBG012GMTYJ2,2024-06-26T00:00:00Z
 EXAS,Exact Sciences Corp,stocks,us,XNAS,CS,True,usd,1124140.0,BBG000CWL0F5,BBG001SGCLB9,2024-05-17T00:00:00Z
@@ -3590,8 +3623,8 @@ FBUF,Fidelity Dynamic Buffered Equity ETF,stocks,us,BATS,ETF,True,usd,,BBG01M5HJ
 FBY,YieldMax META Option Income Strategy ETF,stocks,us,ARCX,ETS,True,usd,,BBG01HP1P343,BBG01HP1P405,2024-06-26T00:00:00Z
 FBYD,"Falcon's Beyond Global, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1937987.0,BBG019953JT2,BBG019953JW8,2024-06-21T00:00:00Z
 FBYDW,"Falcon's Beyond Global, Inc. Warrants",stocks,us,XNAS,WARRANT,True,usd,0001937987,BBG019WPZMJ1,,2024-06-26T00:00:00Z
-FBZ,First Trust Brazil AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001510337,BBG001MKPV20,BBG001V11WQ0,2024-06-25T00:00:00Z
 FBZ,First Trust Brazil AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,,BBG001MKPV20,BBG001V11WQ0,2024-06-26T00:00:00Z
+FBZ,First Trust Brazil AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001510337,BBG001MKPV20,BBG001V11WQ0,2024-06-25T00:00:00Z
 FC,Franklin Covey Company,stocks,us,XNYS,CS,True,usd,886206.0,BBG000FCZM90,BBG001SB0L96,2024-05-17T00:00:00Z
 FCA,First Trust China AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,,BBG001MKPW19,BBG001V11WR9,2024-06-26T00:00:00Z
 FCA,First Trust China AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001510337,BBG001MKPW19,BBG001V11WR9,2024-05-17T00:00:00Z
@@ -3620,6 +3653,7 @@ FCPT,"Four Corners Property Trust, Inc.",stocks,us,XNYS,CS,True,usd,1650132.0,BB
 FCRX,"Crescent Capital BDC, Inc. 5.00% Notes due 2026",stocks,us,XNYS,SP,True,usd,0001633336,,,2024-06-26T00:00:00Z
 FCSH,Federated Hermes Short Duration Corporate ETF,stocks,us,ARCX,ETF,True,usd,,BBG013BTHNB5,BBG013BTHP57,2024-06-26T00:00:00Z
 FCT,First Trust Senior Floating Rate Income Fund II,stocks,us,XNYS,FUND,True,usd,0001282850,BBG000PP5PY8,BBG001SLKS51,2024-06-26T00:00:00Z
+FCTE,SMI 3Fourteen Full-Cycle Trend ETF,stocks,us,XNAS,ETF,True,usd,,BBG01NKCT953,BBG01NKCTB21,2024-07-15T00:00:00Z
 FCTR,First Trust Lunt U.S. Factor Rotation ETF,stocks,us,BATS,ETF,True,usd,,BBG00LGR5QR4,BBG00LGR5RH3,2024-06-26T00:00:00Z
 FCUS,Pinnacle Focused Opportunities ETF,stocks,us,ARCX,ETF,True,usd,,BBG01C5GRBL4,BBG01C5GRCF9,2024-06-26T00:00:00Z
 FCUV,Focus Universal Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1590418.0,BBG005S5X7Z6,BBG005S5X802,2024-06-21T00:00:00Z
@@ -3630,8 +3664,8 @@ FDAT,Tactical Advantage ETF,stocks,us,ARCX,ETF,True,usd,,BBG01G6XDGC1,BBG01G6XDH
 FDBC,"Fidelity D & D Bancorp, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1098151.0,BBG000M814N2,BBG001SFN3T0,2024-06-21T00:00:00Z
 FDCE,Foundations Dynamic Core ETF,stocks,us,BATS,ETF,True,usd,,BBG01HSD2BM1,BBG01HSD2CG6,2024-06-26T00:00:00Z
 FDCF,Fidelity Disruptive Communications ETF,stocks,us,XNAS,ETF,True,usd,,BBG01GXLY5L8,BBG01GXLY6F3,2024-06-26T00:00:00Z
-FDD,First Trust STOXX European Select Dividend Income Fund,stocks,us,ARCX,ETF,True,usd,,BBG000SQ99D8,BBG001SXT9D9,2024-06-26T00:00:00Z
 FDD,First Trust STOXX European Select Dividend Income Fund,stocks,us,ARCX,ETF,True,usd,0001364608,BBG000SQ99D8,BBG001SXT9D9,2024-04-05T00:00:00Z
+FDD,First Trust STOXX European Select Dividend Income Fund,stocks,us,ARCX,ETF,True,usd,,BBG000SQ99D8,BBG001SXT9D9,2024-06-26T00:00:00Z
 FDEC,FT Vest U.S. Equity Buffer ETF - December,stocks,us,BATS,ETF,True,usd,,BBG00YGC7TG3,BBG00YGC7V96,2024-06-26T00:00:00Z
 FDEM,Fidelity Emerging Markets Multifactor ETF,stocks,us,BATS,ETF,True,usd,,BBG00NFRH7V5,BBG00NFRH8L4,2024-06-26T00:00:00Z
 FDEV,Fidelity International Multifactor ETF,stocks,us,BATS,ETF,True,usd,,BBG00NFRLXW2,BBG00NFRLYM1,2024-06-26T00:00:00Z
@@ -3759,6 +3793,7 @@ FI,"Fiserv, Inc.",stocks,us,XNYS,CS,True,usd,798354.0,BBG000BJKPG0,BBG001S5R6Q4,
 FIAC,Focus Impact Acquisition Corp. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1854480.0,BBG010WX54Z8,BBG010WX5503,2024-06-21T00:00:00Z
 FIACU,Focus Impact Acquisition Corp. Unit,stocks,us,XNAS,UNIT,True,usd,0001854480,BBG010BZRBM0,BBG010BZRBP7,2024-06-26T00:00:00Z
 FIACW,Focus Impact Acquisition Corp. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001854480,BBG0145JYBV7,,2024-06-26T00:00:00Z
+FIAT,YieldMax Short COIN Option Income Strategy ETF,stocks,us,ARCX,ETS,True,usd,,BBG01NP80C42,BBG01NP80D31,2024-07-15T00:00:00Z
 FIAX,Nicholas Fixed Income Alternative ETF,stocks,us,ARCX,ETF,True,usd,,BBG01BTRTQK2,BBG01BTRTRF6,2024-06-26T00:00:00Z
 FIBK,"First Interstate BancSystem, Inc. Common Stock (DE)",stocks,us,XNAS,CS,True,usd,860413.0,BBG000BMSC38,BBG001S9F1B6,2024-05-17T00:00:00Z
 FIBR,iShares U.S. Fixed Income Balanced Risk Systematic ETF,stocks,us,BATS,ETF,True,usd,,BBG00864VXT9,BBG00864VXV6,2024-06-26T00:00:00Z
@@ -3766,8 +3801,8 @@ FICO,Fair Isaac Corporation,stocks,us,XNYS,CS,True,usd,814547.0,BBG000DW76Y6,BBG
 FICS,First Trust International Developed Capital Strength ETF,stocks,us,XNAS,ETF,True,usd,,BBG00YGCBLZ4,BBG00YGCBMV6,2024-06-26T00:00:00Z
 FID,First Trust Exchange-Traded Fund VI First Trust S&P International Dividend Aristocrats ETF,stocks,us,XNAS,ETF,True,usd,,BBG0055FL7F4,BBG0055FL7G3,2024-06-26T00:00:00Z
 FIDI,Fidelity International High Dividend ETF,stocks,us,ARCX,ETF,True,usd,,BBG00JRH22Y7,BBG00JRH23N7,2024-06-26T00:00:00Z
-FIDU,Fidelity MSCI Industrials Index ETF,stocks,us,ARCX,ETF,True,usd,0000945908,BBG005FHVVY4,BBG005FHVVZ3,2024-05-17T00:00:00Z
 FIDU,Fidelity MSCI Industrials Index ETF,stocks,us,ARCX,ETF,True,usd,,BBG005FHVVY4,BBG005FHVVZ3,2024-06-26T00:00:00Z
+FIDU,Fidelity MSCI Industrials Index ETF,stocks,us,ARCX,ETF,True,usd,0000945908,BBG005FHVVY4,BBG005FHVVZ3,2024-05-17T00:00:00Z
 FIG,Simplify Macro Strategy ETF,stocks,us,ARCX,ETF,True,usd,,BBG017H2K4B7,BBG017H2K588,2024-06-26T00:00:00Z
 FIGB,Fidelity Investment Grade Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00ZGX8833,BBG00ZGX8904,2024-06-26T00:00:00Z
 FIGS,"FIGS, Inc.",stocks,us,XNYS,CS,True,usd,1846576.0,BBG004SK5VL9,BBG004SK5VM8,2024-06-21T00:00:00Z
@@ -3800,8 +3835,8 @@ FIXD,First Trust TCW Opportunistic Fixed Income ETF,stocks,us,XNAS,ETF,True,usd,
 FIXT,Procure Disaster Recovery Strategy ETF,stocks,us,XNAS,ETF,True,usd,,BBG017SJJJ54,BBG017SJJK06,2024-06-26T00:00:00Z
 FIZZ,National Beverage Corp.,stocks,us,XNAS,CS,True,usd,69891.0,BBG000BF8CB6,BBG001S5PM18,2024-05-17T00:00:00Z
 FJAN,FT Vest U.S. Equity Buffer ETF - January,stocks,us,BATS,ETF,True,usd,,BBG00YXMPKQ0,BBG00YXMPLL3,2024-06-26T00:00:00Z
-FJP,First Trust Japan AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001510337,BBG001MKPY33,BBG001V11WW3,2024-03-19T00:00:00Z
 FJP,First Trust Japan AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,,BBG001MKPY33,BBG001V11WW3,2024-06-26T00:00:00Z
+FJP,First Trust Japan AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001510337,BBG001MKPY33,BBG001V11WW3,2024-03-19T00:00:00Z
 FJUL,FT Vest U.S. Equity Buffer ETF - July,stocks,us,BATS,ETF,True,usd,,BBG00VZR6JH7,BBG00VZR6K84,2024-06-26T00:00:00Z
 FJUN,FT Vest U.S. Equity Buffer ETF - June,stocks,us,BATS,ETF,True,usd,,BBG00VC9S427,BBG00VC9S4V5,2024-06-26T00:00:00Z
 FKU,First Trust United Kingdom AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,,BBG002N8TF98,BBG002N8TG14,2024-06-26T00:00:00Z
@@ -3845,14 +3880,14 @@ FLM,FIRST TRUST ISE GLOBAL ENGINEERING & CONSTRUCTION INDEX FUND,stocks,us,ARCX,
 FLMB,Franklin Municipal Green Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00HLJ9XK3,BBG00HLJ9Y85,2024-06-26T00:00:00Z
 FLMI,Franklin Dynamic Municipal Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00HLJ4L24,BBG00HLJ4LS6,2024-06-26T00:00:00Z
 FLMX,Franklin FTSE Mexico ETF,stocks,us,ARCX,ETF,True,usd,,BBG00J3MSMP0,BBG00J3MSND1,2024-06-26T00:00:00Z
-FLN,First Trust Latin America AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001510337,BBG001MKNCN1,BBG001V11WB6,2024-05-17T00:00:00Z
 FLN,First Trust Latin America AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,,BBG001MKNCN1,BBG001V11WB6,2024-06-26T00:00:00Z
+FLN,First Trust Latin America AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001510337,BBG001MKNCN1,BBG001V11WB6,2024-05-17T00:00:00Z
 FLNC,"Fluence Energy, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1868941.0,BBG012QSDSK6,BBG012QSDTD2,2024-06-21T00:00:00Z
 FLNG,FLEX LNG Ltd. Ordinary Shares,stocks,us,XNYS,CS,True,usd,1772253.0,,,2024-06-21T00:00:00Z
 FLNT,"Fluent, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1460329.0,BBG000TWSVB6,BBG001T0NKV1,2024-06-21T00:00:00Z
 FLO,"Flowers Foods, Inc.",stocks,us,XNYS,CS,True,usd,1128928.0,BBG000BB4D72,BBG001S5R7L7,2024-05-17T00:00:00Z
-FLOT,iShares Floating Rate Bond ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG001QWVB81,BBG001V1QYX1,2024-06-25T00:00:00Z
 FLOT,iShares Floating Rate Bond ETF,stocks,us,BATS,ETF,True,usd,,BBG001QWVB81,BBG001V1QYX1,2024-06-26T00:00:00Z
+FLOT,iShares Floating Rate Bond ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG001QWVB81,BBG001V1QYX1,2024-06-25T00:00:00Z
 FLOW,Global X U.S. Cash Flow Kings 100 ETF,stocks,us,ARCX,ETF,True,usd,,BBG01H7RNK95,BBG01H7RNL57,2024-06-26T00:00:00Z
 FLQL,Franklin U.S. Large Cap Multifactor Index ETF,stocks,us,BATS,ETF,True,usd,,BBG00GKQZDZ9,BBG00GKQZFP5,2024-06-26T00:00:00Z
 FLQM,Franklin U.S. Mid Cap Multifactor Index ETF,stocks,us,BATS,ETF,True,usd,,BBG00GKQZHB6,BBG00GKQZJ13,2024-06-26T00:00:00Z
@@ -3924,8 +3959,8 @@ FNDC,Schwab Fundamental International Small Company Index ETF,stocks,us,ARCX,ETF
 FNDC,Schwab Fundamental International Small Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG0051QD585,BBG0051QD594,2024-06-26T00:00:00Z
 FNDE,Schwab Fundamental Emerging Markets Equity ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG0051QPC78,BBG0051QPC87,2024-06-25T00:00:00Z
 FNDE,Schwab Fundamental Emerging Markets Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG0051QPC78,BBG0051QPC87,2024-06-26T00:00:00Z
-FNDF,Schwab Fundamental International Equity ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG0051K49H0,BBG0051K49J8,2024-06-25T00:00:00Z
 FNDF,Schwab Fundamental International Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG0051K49H0,BBG0051K49J8,2024-06-26T00:00:00Z
+FNDF,Schwab Fundamental International Equity ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG0051K49H0,BBG0051K49J8,2024-06-25T00:00:00Z
 FNDX,Schwab Fundamental U.S. Large Company ETF,stocks,us,ARCX,ETF,True,usd,,BBG0051J0PH1,BBG0051J0PJ9,2024-06-26T00:00:00Z
 FNF,"Fidelity National Financial, Inc.",stocks,us,XNYS,CS,True,usd,1331875.0,BBG006N7S6K9,BBG006N7S6J1,2024-05-17T00:00:00Z
 FNGD,"MicroSectors FANG+ Index -3X Inverse Leveraged ETNs due January 8, 2038",stocks,us,ARCX,ETN,True,usd,0000927971,BBG00JSLPJL9,BBG00JSLPK90,2024-06-26T00:00:00Z
@@ -4004,8 +4039,8 @@ FREY.WS,"FREYR Battery, Inc. Warrants, each whole warrant exercisable to purchas
 FRGE,"Forge Global Holdings, Inc.",stocks,us,XNYS,CS,True,usd,1827821.0,BBG00YDFZ7Q5,BBG00YGCJL77,2024-06-21T00:00:00Z
 FRGT,"Freight Technologies, Inc. Ordinary Shares",stocks,us,XNAS,CS,True,usd,1687542.0,,,2024-06-21T00:00:00Z
 FRHC,Freedom Holding Corp.,stocks,us,XNAS,CS,True,usd,924805.0,BBG000N625H8,BBG001SGRW38,2024-06-21T00:00:00Z
-FRI,First Trust S&P REIT Index Fund,stocks,us,ARCX,ETF,True,usd,0001329377,BBG000R6DCB3,BBG001ST68Z1,2024-06-25T00:00:00Z
 FRI,First Trust S&P REIT Index Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6DCB3,BBG001ST68Z1,2024-06-26T00:00:00Z
+FRI,First Trust S&P REIT Index Fund,stocks,us,ARCX,ETF,True,usd,0001329377,BBG000R6DCB3,BBG001ST68Z1,2024-06-25T00:00:00Z
 FRLA,Fortune Rise Acquisition Corporation Class A Common Stock,stocks,us,XNAS,CS,True,usd,1849294.0,BBG011XR74K2,BBG011XR74L1,2024-06-21T00:00:00Z
 FRLAU,Fortune Rise Acquisition Corporation Units,stocks,us,XNAS,UNIT,True,usd,0001849294,BBG0117690X9,BBG0117691T2,2024-06-26T00:00:00Z
 FRLAW,Fortune Rise Acquisition Corporation Warrant,stocks,us,XNAS,WARRANT,True,usd,0001849294,BBG0147PFTD3,,2024-06-26T00:00:00Z
@@ -4048,6 +4083,7 @@ FSS,Federal Signal Corp.,stocks,us,XNYS,CS,True,usd,277509.0,BBG000BJXWX2,BBG001
 FSST,Fidelity Sustainable U.S. Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG011FRKF77,BBG011FRKG20,2024-06-26T00:00:00Z
 FSTA,Fidelity MSCI Consumer Staples Index ETF,stocks,us,ARCX,ETF,True,usd,,BBG005FHW231,BBG005FHW240,2024-06-26T00:00:00Z
 FSTR,Foster (Lb) Co,stocks,us,XNAS,CS,True,usd,352825.0,BBG000D5LK23,BBG001S7HS29,2024-06-21T00:00:00Z
+FSUN,FirstSun Capital Bancorp Common Stock,stocks,us,XNAS,CS,True,usd,0001709442,BBG000QJGX36,BBG001SMZWH1,2024-07-15T00:00:00Z
 FSV,FirstService Corporation Common Shares,stocks,us,XNAS,CS,True,usd,1637810.0,BBG0093MWSL8,BBG0093LLBP5,2024-06-21T00:00:00Z
 FSYD,Fidelity Sustainable High Yield ETF,stocks,us,ARCX,ETF,True,usd,,BBG015C9HVZ9,BBG015C9HWX9,2024-06-26T00:00:00Z
 FSZ,First Trust Switzerland AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001510337,BBG002N8WLL7,BBG002N8WMD4,2024-06-25T00:00:00Z
@@ -4061,8 +4097,8 @@ FTAIN,FTAI Aviation Ltd. 8.25% Fixed - Rate Reset Series C Cumulative Perpetual 
 FTAIO,FTAI Aviation Ltd. 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares,stocks,us,XNAS,PFD,True,usd,0001590364,,,2024-06-26T00:00:00Z
 FTAIP,FTAI Aviation Ltd. 8.25% Fixed to Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares,stocks,us,XNAS,PFD,True,usd,0001590364,,,2024-06-26T00:00:00Z
 FTBD,Fidelity Tactical Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG01CHYWN94,BBG01CHYWP53,2024-06-26T00:00:00Z
-FTC,First Trust Large Cap Growth AlphaDEX Fund (based on the Defined Large Cap Growth Index--symbol DEFILGOI),stocks,us,XNAS,ETF,True,usd,0001383496,BBG000R6FR55,BBG001ST6961,2024-05-21T00:00:00Z
 FTC,First Trust Large Cap Growth AlphaDEX Fund (based on the Defined Large Cap Growth Index--symbol DEFILGOI),stocks,us,XNAS,ETF,True,usd,,BBG000R6FR55,BBG001ST6961,2024-06-26T00:00:00Z
+FTC,First Trust Large Cap Growth AlphaDEX Fund (based on the Defined Large Cap Growth Index--symbol DEFILGOI),stocks,us,XNAS,ETF,True,usd,0001383496,BBG000R6FR55,BBG001ST6961,2024-05-21T00:00:00Z
 FTCB,First Trust Core Investment Grade ETF,stocks,us,ARCX,ETF,True,usd,,BBG01K0TZ9L9,BBG01K0TZBY0,2024-06-26T00:00:00Z
 FTCI,"FTC Solar, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1828161.0,BBG00ZV1WWB7,BBG00ZV1WX52,2024-06-21T00:00:00Z
 FTCS,First Trust Capital Strength ETF,stocks,us,XNAS,ETF,True,usd,,BBG000LGL532,BBG001SQ1882,2024-06-26T00:00:00Z
@@ -4129,8 +4165,8 @@ FUTY,Fidelity MSCI Utilities Index ETF,stocks,us,ARCX,ETF,True,usd,,BBG005FHVX98
 FV,First Trust Dorsey Wright Focus 5 ETF,stocks,us,XNAS,ETF,True,usd,0001552740,BBG005YW3DP1,BBG005YW3DQ0,2024-06-10T00:00:00Z
 FV,First Trust Dorsey Wright Focus 5 ETF,stocks,us,XNAS,ETF,True,usd,,BBG005YW3DP1,BBG005YW3DQ0,2024-06-26T00:00:00Z
 FVAL,Fidelity Value Factor ETF,stocks,us,ARCX,ETF,True,usd,,BBG00DRGLK44,BBG00DRGLK53,2024-06-26T00:00:00Z
-FVC,First Trust Dorsey Wright Dynamic Focus 5 ETF,stocks,us,XNAS,ETF,True,usd,,BBG00CDYRGJ9,BBG00CDYRGK7,2024-06-26T00:00:00Z
 FVC,First Trust Dorsey Wright Dynamic Focus 5 ETF,stocks,us,XNAS,ETF,True,usd,0001552740,BBG00CDYRGJ9,BBG00CDYRGK7,2024-03-28T00:00:00Z
+FVC,First Trust Dorsey Wright Dynamic Focus 5 ETF,stocks,us,XNAS,ETF,True,usd,,BBG00CDYRGJ9,BBG00CDYRGK7,2024-06-26T00:00:00Z
 FVCB,"FVCBankcorp, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1675644.0,BBG000DS5RF2,BBG001T1Y6C9,2024-06-21T00:00:00Z
 FVD,First Trust Value Line Dividend Fund,stocks,us,ARCX,ETF,True,usd,,BBG000PX7V21,BBG001SLWD88,2024-04-16T00:00:00Z
 FVRR,Fiverr International Ltd.,stocks,us,XNYS,CS,True,usd,1762301.0,,,2024-06-21T00:00:00Z
@@ -4146,15 +4182,15 @@ FXD,First Trust Consumer Discretionary AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd
 FXE,Invesco CurrencyShares Euro Currency Trust,stocks,us,ARCX,ETV,True,usd,0001328598,BBG000HDFTG5,BBG001SP5TS2,2024-06-26T00:00:00Z
 FXED,Sound Enhanced Fixed Income ETF,stocks,us,XNYS,ETF,True,usd,,BBG00YQ1FJK4,BBG00YQ1FKF7,2024-06-26T00:00:00Z
 FXF,Invesco CurrencyShares Swiss Franc Trust,stocks,us,ARCX,ETV,True,usd,0001353615,BBG000PPY0V4,BBG001SR8G12,2024-06-26T00:00:00Z
-FXG,First Trust Consumer Staples AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6G1G9,BBG001ST6970,2024-06-26T00:00:00Z
 FXG,First Trust Consumer Staples AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,0001125816,BBG000R6G1G9,BBG001ST6970,2024-05-17T00:00:00Z
-FXH,First Trust Health Care AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,0001383496,BBG000R6BWD9,BBG001ST68R0,2024-04-12T00:00:00Z
+FXG,First Trust Consumer Staples AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6G1G9,BBG001ST6970,2024-06-26T00:00:00Z
 FXH,First Trust Health Care AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6BWD9,BBG001ST68R0,2024-06-26T00:00:00Z
+FXH,First Trust Health Care AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,0001383496,BBG000R6BWD9,BBG001ST68R0,2024-04-12T00:00:00Z
 FXI,iShares China Large-Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000Q8RVM1,BBG001SMDNB1,2024-06-26T00:00:00Z
-FXL,First Trust Technology AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6BJ93,BBG001ST68Q1,2024-06-26T00:00:00Z
 FXL,First Trust Technology AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,0001383496,BBG000R6BJ93,BBG001ST68Q1,2024-06-25T00:00:00Z
-FXN,First Trust Energy AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6GG30,BBG001ST6998,2024-06-26T00:00:00Z
+FXL,First Trust Technology AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6BJ93,BBG001ST68Q1,2024-06-26T00:00:00Z
 FXN,First Trust Energy AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,0001383496,BBG000R6GG30,BBG001ST6998,2024-05-14T00:00:00Z
+FXN,First Trust Energy AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6GG30,BBG001ST6998,2024-06-26T00:00:00Z
 FXNC,FIRST NATL CORP STRASBURG VA,stocks,us,XNAS,CS,True,usd,719402.0,BBG000GMKH30,BBG001S8X9X7,2024-06-21T00:00:00Z
 FXO,First Trust Financials AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6CDJ4,BBG001ST68V5,2024-06-26T00:00:00Z
 FXO,First Trust Financials AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,0001383496,BBG000R6CDJ4,BBG001ST68V5,2024-05-17T00:00:00Z
@@ -4167,8 +4203,8 @@ FXZ,First Trust Materials AlphaDEX Fund,stocks,us,ARCX,ETF,True,usd,,BBG000R6B0D
 FYBR,"Frontier Communications Parent, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,20520.0,BBG010MVVVW7,BBG010MVVVX6,2024-06-21T00:00:00Z
 FYC,First Trust Small Cap Growth AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,,BBG001MKQHF6,BBG001V11YV0,2024-06-26T00:00:00Z
 FYEE,Fidelity Yield Enhanced Equity ETF,stocks,us,BATS,ETF,True,usd,,BBG01M5L0YZ5,BBG01M5L0ZZ2,2024-06-26T00:00:00Z
-FYLD,Cambria Foreign Shareholder Yield ETF,stocks,us,BATS,ETF,True,usd,,BBG005NDJ0T2,BBG005NDJ0V9,2024-06-26T00:00:00Z
 FYLD,Cambria Foreign Shareholder Yield ETF,stocks,us,BATS,ETF,True,usd,0001529390,BBG005NDJ0T2,BBG005NDJ0V9,2024-05-17T00:00:00Z
+FYLD,Cambria Foreign Shareholder Yield ETF,stocks,us,BATS,ETF,True,usd,,BBG005NDJ0T2,BBG005NDJ0V9,2024-06-26T00:00:00Z
 FYLG,Global X Financials Covered Call & Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG01BM2D6P0,BBG01BM2D7K3,2024-06-26T00:00:00Z
 FYT,First Trust Small Cap Value AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,0001383496,BBG001MKMN21,BBG001V11W71,2024-05-17T00:00:00Z
 FYT,First Trust Small Cap Value AlphaDEX Fund,stocks,us,XNAS,ETF,True,usd,,BBG001MKMN21,BBG001V11W71,2024-06-26T00:00:00Z
@@ -4190,8 +4226,8 @@ GAIN,Gladstone Investment Corporation,stocks,us,XNAS,CS,True,usd,1321741.0,BBG00
 GAINL,Gladstone Investment Corporation 8.00% Notes due 2028,stocks,us,XNAS,CS,True,usd,1321741.0,,,2024-06-21T00:00:00Z
 GAINN,Gladstone Investment Corporation 5.00% Notes Due 2026,stocks,us,XNAS,ETF,True,usd,0001321741,,,2024-06-26T00:00:00Z
 GAINZ,Gladstone Investment Corporation 4.875% Notes due 2028,stocks,us,XNAS,CS,True,usd,1321741.0,,,2024-06-21T00:00:00Z
-GAL,SPDR SSgA Global Allocation ETF of SSgA Active Trust,stocks,us,ARCX,ETF,True,usd,0001516212,BBG002XY8BW6,BBG002XY8CM5,2024-05-13T00:00:00Z
 GAL,SPDR SSgA Global Allocation ETF of SSgA Active Trust,stocks,us,ARCX,ETF,True,usd,,BBG002XY8BW6,BBG002XY8CM5,2024-06-26T00:00:00Z
+GAL,SPDR SSgA Global Allocation ETF of SSgA Active Trust,stocks,us,ARCX,ETF,True,usd,0001516212,BBG002XY8BW6,BBG002XY8CM5,2024-05-13T00:00:00Z
 GALT,Galectin Therapeutics Inc.,stocks,us,XNAS,CS,True,usd,1133416.0,BBG000BK6FP5,BBG001S9NYW2,2024-05-17T00:00:00Z
 GAM,"General American Investors Company, Inc.",stocks,us,XNYS,FUND,True,usd,0000040417,BBG000BK3384,BBG001S5RG46,2024-06-26T00:00:00Z
 GAMB,Gambling.com Group Limited Ordinary Shares,stocks,us,XNAS,CS,True,usd,1839799.0,,,2024-06-21T00:00:00Z
@@ -4344,6 +4380,7 @@ GGRW,Gabelli Growth Innovators ETF,stocks,us,ARCX,ETF,True,usd,,BBG00Z8M8R70,BBG
 GGT,THE GABELLI MULTIMEDIA TRUST INC.,stocks,us,XNYS,FUND,True,usd,0000921671,BBG000BZNBL6,BBG001S7K7J3,2024-05-17T00:00:00Z
 GGTpE,The Gabelli Multimedia Trust Inc. 5.125 Percent Series E Cumulative Preferred Stock,stocks,us,XNYS,PFD,True,usd,0000921671,,,2024-06-26T00:00:00Z
 GGTpG,The Gabelli Multimedia Trust Inc. 5.125% Series G Cumulative Preferred Shares,stocks,us,XNYS,PFD,True,usd,0000921671,,,2024-06-26T00:00:00Z
+GGTr,"The Gabelli Multimedia Trust Inc. Rights (expiring July 22, 2024)",stocks,us,XNYS,RIGHT,True,usd,0000921671,BBG01NCLDVH7,BBG01NCLDWB1,2024-07-15T00:00:00Z
 GGUS,Goldman Sachs MarketBeta Russell 1000 Growth Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01KBSDNS5,BBG01KBSDPM6,2024-06-26T00:00:00Z
 GGZ,The Gabelli Global Small and Mid Cap Value Trust,stocks,us,XNYS,FUND,True,usd,0001585855,BBG00562K7K7,BBG00562K7L6,2024-06-25T00:00:00Z
 GH,"Guardant Health, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1576280.0,BBG006D97VY9,BBG006D97VZ8,2024-06-21T00:00:00Z
@@ -4476,8 +4513,8 @@ GNMA,iShares GNMA Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG002N8KLH5,BBG002N8KM7
 GNOM,Global X Genomics & Biotechnology ETF,stocks,us,XNAS,ETF,True,usd,,BBG00NTYZ9R6,BBG00NTYZBH2,2024-06-26T00:00:00Z
 GNOV,FT Vest U.S. Equity Moderate Buffer ETF - November,stocks,us,BATS,ETF,True,usd,,BBG01K55JJ96,BBG01K55JKF6,2024-06-26T00:00:00Z
 GNPX,"Genprex, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1595248.0,BBG00F7T0157,BBG00F7T0166,2024-06-21T00:00:00Z
-GNR,SPDR S&P Global Natural Resources ETF,stocks,us,ARCX,ETF,True,usd,,BBG0015XSHT0,BBG001TC9HP5,2024-06-26T00:00:00Z
 GNR,SPDR S&P Global Natural Resources ETF,stocks,us,ARCX,ETF,True,usd,0001168164,BBG0015XSHT0,BBG001TC9HP5,2024-04-16T00:00:00Z
+GNR,SPDR S&P Global Natural Resources ETF,stocks,us,ARCX,ETF,True,usd,,BBG0015XSHT0,BBG001TC9HP5,2024-06-26T00:00:00Z
 GNRC,GENERAC HOLDINGS INC,stocks,us,XNYS,CS,True,usd,1474735.0,BBG000PQ4W72,BBG001T5VGH6,2024-06-21T00:00:00Z
 GNS,Genius Group Limited,stocks,us,XASE,CS,True,usd,1847806.0,,,2024-06-21T00:00:00Z
 GNSS,Genasys Inc. Common Stock,stocks,us,XNAS,CS,True,usd,924383.0,BBG000CV6M39,BBG001S72TP8,2024-06-21T00:00:00Z
@@ -4526,7 +4563,9 @@ GPAC,Global Partner Acquisition Corp II Class A Ordinary Share,stocks,us,XNAS,CS
 GPACU,Global Partner Acquisition Corp II Unit,stocks,us,XNAS,UNIT,True,usd,0001831979,,,2024-06-26T00:00:00Z
 GPACW,Global Partner Acquisition Corp II Warrant,stocks,us,XNAS,WARRANT,True,usd,0001831979,,,2024-06-26T00:00:00Z
 GPAK,Gamer Pakistan Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1948884.0,BBG01HF0Q6V8,BBG01HF0Q6W7,2024-06-21T00:00:00Z
+GPAT,GP-Act III Acquisition Corp. Class A Ordinary Share,stocks,us,XNAS,CS,True,usd,0001834526,,,2024-07-15T00:00:00Z
 GPATU,GP-Act III Acquisition Corp. Units,stocks,us,XNAS,UNIT,True,usd,0001834526,,,2024-06-26T00:00:00Z
+GPATW,GP-Act III Acquisition Corp. Warrants,stocks,us,XNAS,WARRANT,True,usd,0001834526,,,2024-07-15T00:00:00Z
 GPC,Genuine Parts Company,stocks,us,XNYS,CS,True,usd,40987.0,BBG000BKL348,BBG001S5RNH7,2024-06-21T00:00:00Z
 GPCR,Structure Therapeutics Inc. American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001888886,BBG01CBVHLW1,BBG01CBVHMQ6,2024-06-26T00:00:00Z
 GPI,"Group 1 Automotive, Inc.",stocks,us,XNYS,CS,True,usd,1031203.0,BBG000BB88K4,BBG001S5RNK3,2024-06-21T00:00:00Z
@@ -4544,8 +4583,8 @@ GPRK,GEOPARK LIMITED,stocks,us,XNYS,CS,True,usd,1464591.0,,,2024-06-21T00:00:00Z
 GPRO,"GoPro, Inc.",stocks,us,XNAS,CS,True,usd,1500435.0,BBG001LWHLJ8,BBG001V0YJ76,2024-05-17T00:00:00Z
 GPS,"The Gap, Inc.",stocks,us,XNYS,CS,True,usd,39911.0,BBG000BKLH74,BBG001S5RNN0,2024-05-31T00:00:00Z
 GQI,Natixis Gateway Quality Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG01KD6JCG2,BBG01KD6JD98,2024-06-26T00:00:00Z
-GQRE,FlexShares Global Quality Real Estate Index Fund,stocks,us,ARCX,ETF,True,usd,,BBG005JYLGR5,BBG005JYLGS4,2024-06-26T00:00:00Z
 GQRE,FlexShares Global Quality Real Estate Index Fund,stocks,us,ARCX,ETF,True,usd,0001491978,BBG005JYLGR5,BBG005JYLGS4,2024-05-17T00:00:00Z
+GQRE,FlexShares Global Quality Real Estate Index Fund,stocks,us,ARCX,ETF,True,usd,,BBG005JYLGR5,BBG005JYLGS4,2024-06-26T00:00:00Z
 GRAB,Grab Holdings Limited Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,1855612.0,,,2024-06-21T00:00:00Z
 GRABW,Grab Holdings Limited Warrant,stocks,us,XNAS,WARRANT,True,usd,0001855612,,,2024-06-26T00:00:00Z
 GRAF.U,"Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",stocks,us,XASE,UNIT,True,usd,0001897463,,,2024-06-26T00:00:00Z
@@ -4605,17 +4644,17 @@ GSG,iShares S&P  GSCI Commodity-Indexed Trust,stocks,us,ARCX,ETV,True,usd,000133
 GSHD,"Goosehead Insurance, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1726978.0,BBG00KHHBMC5,BBG00KHHBMD4,2024-06-21T00:00:00Z
 GSIB,Themes Global Systemically Important Banks ETF,stocks,us,XNAS,ETF,True,usd,,BBG01KMFNXD4,BBG01KMFNY79,2024-06-26T00:00:00Z
 GSID,Goldman Sachs MarketBeta International Equity ETF,stocks,us,BATS,ETF,True,usd,,BBG00TSY6WW9,BBG00TSY6XN7,2024-06-26T00:00:00Z
-GSIE,Goldman Sachs ActiveBeta International Equity ETF,stocks,us,ARCX,ETF,True,usd,0001479026,BBG00BDMWQD5,BBG00BDMWQF3,2024-05-17T00:00:00Z
 GSIE,Goldman Sachs ActiveBeta International Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG00BDMWQD5,BBG00BDMWQF3,2024-06-26T00:00:00Z
+GSIE,Goldman Sachs ActiveBeta International Equity ETF,stocks,us,ARCX,ETF,True,usd,0001479026,BBG00BDMWQD5,BBG00BDMWQF3,2024-05-17T00:00:00Z
 GSIG,Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00VY18832,BBG00VY188X9,2024-06-26T00:00:00Z
 GSIT,GSI Technology,stocks,us,XNAS,CS,True,usd,1126741.0,BBG000D0BQK2,BBG001SFY3K7,2024-06-14T00:00:00Z
 GSIW,Garden Stage Limited Ordinary Shares,stocks,us,XNAS,CS,True,usd,1954269.0,,,2024-06-21T00:00:00Z
-GSJY,Goldman Sachs ActiveBeta Japan Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG00CCP69T7,BBG00CCP69V4,2024-06-26T00:00:00Z
 GSJY,Goldman Sachs ActiveBeta Japan Equity ETF,stocks,us,ARCX,ETF,True,usd,0001479026,BBG00CCP69T7,BBG00CCP69V4,2024-05-17T00:00:00Z
+GSJY,Goldman Sachs ActiveBeta Japan Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG00CCP69T7,BBG00CCP69V4,2024-06-26T00:00:00Z
 GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),stocks,us,XNYS,ADRC,True,usd,0001131399,BBG000BLB481,BBG001SD6SM6,2024-06-26T00:00:00Z
 GSL,"Global Ship Lease, Inc.",stocks,us,XNYS,CS,True,usd,1430725.0,,,2024-06-21T00:00:00Z
-GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,stocks,us,ARCX,ETF,True,usd,0001479026,BBG00B0SKXX2,BBG00B0SKXY1,2024-04-26T00:00:00Z
 GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG00B0SKXX2,BBG00B0SKXY1,2024-06-26T00:00:00Z
+GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,stocks,us,ARCX,ETF,True,usd,0001479026,BBG00B0SKXX2,BBG00B0SKXY1,2024-04-26T00:00:00Z
 GSLpB,"GLOBAL SHIP LEASE, INC. 8.75%  SER B",stocks,us,XNYS,PFD,True,usd,0001430725,,,2024-06-26T00:00:00Z
 GSM,Ferroglobe PLC Ordinary Shares,stocks,us,XNAS,CS,True,usd,1639877.0,,,2024-05-17T00:00:00Z
 GSMGW,"Cheer Holding, Inc. Warrant expiring 2/13/2025",stocks,us,XNAS,WARRANT,True,usd,,,,2024-06-26T00:00:00Z
@@ -4773,6 +4812,7 @@ HEFA,iShares Currency Hedged MSCI EAFE ETF,stocks,us,BATS,ETF,True,usd,000110066
 HEGD,Swan Hedged Equity US Large Cap ETF,stocks,us,BATS,ETF,True,usd,,BBG00YN70X92,BBG00YN70Y45,2024-06-26T00:00:00Z
 HEI,HEICO Corporation,stocks,us,XNYS,CS,True,usd,46619.0,BBG000BL16Q7,BBG001S5RVC4,2024-05-17T00:00:00Z
 HEI.A,HEICO CORP CL A,stocks,us,XNYS,CS,True,usd,46619.0,BBG000F0CD91,BBG001S96YM2,2024-05-17T00:00:00Z
+HEJD,VictoryShares Hedged Equity Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG01MY4CT16,BBG01MY4CTW2,2024-07-15T00:00:00Z
 HELE,Helen Of Troy Ltd,stocks,us,XNAS,CS,True,usd,916789.0,,,2024-06-21T00:00:00Z
 HELO,JPMorgan Hedged Equity Laddered Overlay ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J345H02,BBG01J345HV8,2024-06-26T00:00:00Z
 HELX,Franklin Genomic Advancements ETF,stocks,us,BATS,ETF,True,usd,,BBG00RRGPCJ1,BBG00RRGPD90,2024-06-26T00:00:00Z
@@ -4785,8 +4825,8 @@ HERO,Global X Video Games & Esports ETF,stocks,us,XNAS,ETF,True,usd,,BBG00QNKPFD
 HES,Hess Corporation,stocks,us,XNYS,CS,True,usd,4447.0,BBG000BBD070,BBG001S5NHS2,2024-06-21T00:00:00Z
 HESM,Hess Midstream LP Class A Share representing a limited partner Interest,stocks,us,XNYS,CS,True,usd,1789832.0,BBG00R02H8D5,BBG00R02H8F3,2024-06-21T00:00:00Z
 HEWG,iShares Currency Hedged MSCI Germany ETF,stocks,us,XNAS,ETF,True,usd,,BBG005XKSS23,BBG005XKSRY0,2024-06-26T00:00:00Z
-HEWJ,iShares Currency Hedged MSCI Japan ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG005XKRJK4,BBG005XKRJL3,2024-05-20T00:00:00Z
 HEWJ,iShares Currency Hedged MSCI Japan ETF,stocks,us,ARCX,ETF,True,usd,,BBG005XKRJK4,BBG005XKRJL3,2024-06-26T00:00:00Z
+HEWJ,iShares Currency Hedged MSCI Japan ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG005XKRJK4,BBG005XKRJL3,2024-05-20T00:00:00Z
 HEZU,iShares Currency Hedged MSCI Eurozone ETF of ISHARES TRUST,stocks,us,ARCX,ETF,True,usd,,BBG006S5D508,BBG006S5D517,2024-06-26T00:00:00Z
 HF,DGA Absolute Return ETF,stocks,us,ARCX,ETF,True,usd,,BBG01GKCTGD3,BBG01GKCTH87,2024-06-26T00:00:00Z
 HFBL,"Home Federal Bancorp, Inc. of Louisiana",stocks,us,XNAS,CS,True,usd,1500375.0,BBG000QSM8F1,BBG001SNM403,2024-06-21T00:00:00Z
@@ -4839,6 +4879,7 @@ HIX,"Western Asset High Income Fund II, Inc.",stocks,us,XNYS,FUND,True,usd,00010
 HIYS,Invesco High Yield Select ETF,stocks,us,BATS,ETF,True,usd,,BBG01BTSPGR9,BBG01BTSPHM2,2024-06-26T00:00:00Z
 HJAN,Innovator Premium Income 9 Buffer ETF - January,stocks,us,BATS,ETF,True,usd,,BBG01KTV6LY4,BBG01KTV6MT8,2024-06-26T00:00:00Z
 HJEN,Direxion Hydrogen ETF,stocks,us,ARCX,ETF,True,usd,,BBG00ZSMJ7H9,BBG00ZSMJ8B3,2024-06-26T00:00:00Z
+HJUL,Innovator Premium Income 9 Buffer ETF - July,stocks,us,BATS,ETF,True,usd,,BBG01NJ14DG5,BBG01NJ14FN2,2024-07-15T00:00:00Z
 HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),stocks,us,XNYS,ADRC,True,usd,0001809691,BBG0115RG361,BBG0115RG414,2024-06-26T00:00:00Z
 HKIT,Hitek Global Inc. Class A Ordinary Share,stocks,us,XNAS,CS,True,usd,1742341.0,,,2024-06-21T00:00:00Z
 HKND,Humankind US Stock ETF,stocks,us,ARCX,ETF,True,usd,,BBG00ZF383S4,BBG00ZF384M8,2024-06-26T00:00:00Z
@@ -5085,8 +5126,8 @@ IBBQ,Invesco Nasdaq Biotechnology ETF,stocks,us,XNAS,ETF,True,usd,,BBG011B9TYG1,
 IBCP,Independent Bank Corp.,stocks,us,XNAS,CS,True,usd,39311.0,BBG000BLN9N0,BBG001S5S335,2024-06-21T00:00:00Z
 IBD,Inspire Corporate Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00H3TKKC5,BBG00H3TKL24,2024-06-26T00:00:00Z
 IBDP,iShares iBonds Dec 2024 Term Corporate ETF,stocks,us,ARCX,ETF,True,usd,,BBG0088JX096,BBG0088JX0B3,2024-06-26T00:00:00Z
-IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG0088JX9G9,BBG0088JX9H8,2024-05-20T00:00:00Z
 IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,stocks,us,ARCX,ETF,True,usd,,BBG0088JX9G9,BBG0088JX9H8,2024-06-26T00:00:00Z
+IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG0088JX9G9,BBG0088JX9H8,2024-05-20T00:00:00Z
 IBDR,iShares iBonds Dec 2026 Term Corporate ETF,stocks,us,ARCX,ETF,True,usd,,BBG00DST7FC3,BBG00DST7FD2,2024-06-26T00:00:00Z
 IBDS,iShares iBonds Dec 2027 Term Corporate ETF,stocks,us,ARCX,ETF,True,usd,,BBG00HPLJN98,BBG00HPLJP02,2024-06-26T00:00:00Z
 IBDT,iShares iBonds Dec 2028 Term Corporate ETF,stocks,us,ARCX,ETF,True,usd,,BBG00M0P3RM8,BBG00M0P3SC7,2024-06-26T00:00:00Z
@@ -5150,6 +5191,7 @@ IBTM,iShares iBonds Dec 2032 Term Treasury ETF,stocks,us,XNAS,ETF,True,usd,,BBG0
 IBTO,iShares iBonds Dec 2033 Term Treasury ETF,stocks,us,XNAS,ETF,True,usd,,BBG01H7B1DG2,BBG01H7B1FH6,2024-06-26T00:00:00Z
 IBTP,iShares iBonds Dec 2034 Term Treasury ETF,stocks,us,XNAS,ETF,True,usd,,BBG01N8HN970,BBG01N8HNC91,2024-06-26T00:00:00Z
 IBTX,"Independent Bank Group, Inc.",stocks,us,XNAS,CS,True,usd,1564618.0,BBG003981NS4,BBG003981NT3,2024-04-23T00:00:00Z
+IBUF,Innovator International Developed 10 Buffer ETF - Quarterly,stocks,us,ARCX,ETF,True,usd,,BBG01NJ1P4G2,BBG01NJ1P5C3,2024-07-15T00:00:00Z
 IBUY,Amplify Online Retail ETF,stocks,us,ARCX,ETF,True,usd,,BBG00CRCD208,BBG00CRCD217,2024-06-26T00:00:00Z
 ICAD,Icad Inc,stocks,us,XNAS,CS,True,usd,749660.0,BBG000KM7J81,BBG001SF11H1,2024-06-21T00:00:00Z
 ICAP,InfraCap Equity Income Fund ETF,stocks,us,ARCX,ETF,True,usd,,BBG0149J15X0,BBG0149J16R5,2024-06-26T00:00:00Z
@@ -5159,8 +5201,8 @@ ICCM,IceCure Medical Ltd. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1584371.0,,
 ICCT,iCoreConnect Inc. Common stock,stocks,us,XNAS,CS,True,usd,1906133.0,BBG01J3FSV92,BBG01J3FSW45,2024-06-21T00:00:00Z
 ICD,"Independence Contract Drilling, Inc.",stocks,us,XNYS,CS,True,usd,1537028.0,BBG006PWRK77,BBG006PWRKZ6,2024-06-21T00:00:00Z
 ICE,Intercontinental Exchange  Inc.,stocks,us,XNYS,CS,True,usd,1571949.0,BBG000C1FB75,BBG001SDJ4R0,2024-05-17T00:00:00Z
-ICF,iShares Cohen & Steers REIT ETF,stocks,us,BATS,ETF,True,usd,,BBG000C3Z0X4,BBG001SDX760,2024-06-26T00:00:00Z
 ICF,iShares Cohen & Steers REIT ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG000C3Z0X4,BBG001SDX760,2024-06-25T00:00:00Z
+ICF,iShares Cohen & Steers REIT ETF,stocks,us,BATS,ETF,True,usd,,BBG000C3Z0X4,BBG001SDX760,2024-06-26T00:00:00Z
 ICFI,"ICF International, Inc.",stocks,us,XNAS,CS,True,usd,1362004.0,BBG000BBXVK5,BBG001S6L7P7,2024-05-17T00:00:00Z
 ICG,Intchains Group Limited American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001895597,BBG018DNR863,BBG018DNR9Y0,2024-06-26T00:00:00Z
 ICHR,Ichor Holdings,stocks,us,XNAS,CS,True,usd,1652535.0,,,2024-06-21T00:00:00Z
@@ -5170,11 +5212,12 @@ ICLN,iShares Global Clean Energy ETF,stocks,us,XNAS,ETF,True,usd,,BBG000BBM0N2,B
 ICLO,Invesco AAA CLO Floating Rate Note ETF,stocks,us,BATS,ETF,True,usd,,BBG01BTTD004,BBG01BTTD0X8,2024-06-26T00:00:00Z
 ICLR,Icon Plc,stocks,us,XNAS,CS,True,usd,1060955.0,,,2024-06-21T00:00:00Z
 ICMB,"Investcorp Credit Management BDC, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1578348.0,BBG005YZ5XC2,BBG005YZ5XD1,2024-06-21T00:00:00Z
+ICON,Icon Energy Corp. Common stock,stocks,us,XNAS,CS,True,usd,0001995574,,,2024-07-15T00:00:00Z
 ICOP,iShares Copper and Metals Mining ETF,stocks,us,XNAS,ETF,True,usd,,BBG01H2QR9F6,BBG01H2QRB89,2024-06-26T00:00:00Z
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,stocks,us,BATS,ETF,True,usd,,BBG00GXXTKB7,BBG00GXXTL16,2024-06-26T00:00:00Z
 ICRpA,"InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001690012,,,2024-06-26T00:00:00Z
-ICSH,BlackRock Ultra Short-Term Bond ETF,stocks,us,BATS,ETF,True,usd,0001524513,BBG005PCDD01,BBG005PCDCZ5,2024-05-20T00:00:00Z
 ICSH,BlackRock Ultra Short-Term Bond ETF,stocks,us,BATS,ETF,True,usd,,BBG005PCDD01,BBG005PCDCZ5,2024-06-26T00:00:00Z
+ICSH,BlackRock Ultra Short-Term Bond ETF,stocks,us,BATS,ETF,True,usd,0001524513,BBG005PCDD01,BBG005PCDCZ5,2024-05-20T00:00:00Z
 ICU,SeaStar Medical Holding Corporation Common Stock,stocks,us,XNAS,CS,True,usd,1831868.0,BBG00YVJVRK3,BBG00YVJVRL2,2024-06-21T00:00:00Z
 ICUCW,SeaStar Medical Holding Corporation Warrant,stocks,us,XNAS,WARRANT,True,usd,,BBG00Z1JQQP6,,2024-06-26T00:00:00Z
 ICUI,ICU Medical Inc,stocks,us,XNAS,CS,True,usd,883984.0,BBG000CQV2N4,BBG001S712B3,2024-05-17T00:00:00Z
@@ -5198,8 +5241,8 @@ IDOG,ALPS International Sector Dividend Dogs ETF,stocks,us,ARCX,ETF,True,usd,,BB
 IDR,"Idaho Strategic Resources, Inc.",stocks,us,XASE,CS,True,usd,1030192.0,BBG000JLVQT9,BBG001SBCW53,2024-06-21T00:00:00Z
 IDRV,iShares Self-Driving EV and Tech ETF,stocks,us,ARCX,ETF,True,usd,,BBG00NWKVLW3,BBG00NWKVMR7,2024-06-26T00:00:00Z
 IDT,IDT Corporation Class B,stocks,us,XNYS,CS,True,usd,1005731.0,BBG000NRVQJ2,BBG001SHWDJ5,2024-06-21T00:00:00Z
-IDU,iShares U.S. Utilities ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BXVFQ8,BBG001SFGXG6,2024-06-26T00:00:00Z
 IDU,iShares U.S. Utilities ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000BXVFQ8,BBG001SFGXG6,2024-05-22T00:00:00Z
+IDU,iShares U.S. Utilities ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BXVFQ8,BBG001SFGXG6,2024-06-26T00:00:00Z
 IDUB,Aptus International Enhanced Yield ETF,stocks,us,BATS,ETF,True,usd,,BBG011XNZLP7,BBG011XNZMJ2,2024-06-26T00:00:00Z
 IDV,iShares International Select Dividend ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG000PQKHX8,BBG001S7Y5C9,2024-05-17T00:00:00Z
 IDV,iShares International Select Dividend ETF,stocks,us,BATS,ETF,True,usd,,BBG000PQKHX8,BBG001S7Y5C9,2024-06-26T00:00:00Z
@@ -5244,8 +5287,8 @@ IGA,VOYA GLOBAL ADVANTAGE AND PREMIUM OPPORTUNITY FUND,stocks,us,XNYS,FUND,True,
 IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG009NLX3P8,BBG009NLX3N0,2024-06-26T00:00:00Z
 IGC,"IGC Pharma, Inc.",stocks,us,XASE,CS,True,usd,1326205.0,BBG000NSSLY8,BBG001SQQKX0,2024-05-17T00:00:00Z
 IGD,VOYA GLOBAL EQUITY DIVIDEND AND PREMIUM OPPORTUNITY FUND,stocks,us,XNYS,FUND,True,usd,0001285890,BBG000QBZNN2,BBG001SMKRM2,2024-06-26T00:00:00Z
-IGE,iShares North American Natural Resources ETF,stocks,us,BATS,ETF,True,usd,,BBG000KBK0H1,BBG001SJKDG7,2024-06-26T00:00:00Z
 IGE,iShares North American Natural Resources ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG000KBK0H1,BBG001SJKDG7,2024-06-25T00:00:00Z
+IGE,iShares North American Natural Resources ETF,stocks,us,BATS,ETF,True,usd,,BBG000KBK0H1,BBG001SJKDG7,2024-06-26T00:00:00Z
 IGEB,iShares Investment Grade Systematic Bond ETF,stocks,us,BATS,ETF,True,usd,,BBG00H4BPLG2,BBG00H4BPM52,2024-06-26T00:00:00Z
 IGF,iShares Global Infrastructure ETF,stocks,us,XNAS,ETF,True,usd,,BBG000T1GGF6,BBG001SYVWT6,2024-06-26T00:00:00Z
 IGHG,ProShares Investment Grade-Interest Rate Hedged,stocks,us,BATS,ETF,True,usd,,BBG005JYLX61,BBG005JYLX52,2024-06-26T00:00:00Z
@@ -5254,8 +5297,8 @@ IGIB,iShares Trust iShares 5-10 Year Investment Grade Corporate Bond ETF,stocks,
 IGIC,International General Insurance Holdings Ltd. Ordinary Share,stocks,us,XNAS,CS,True,usd,1794338.0,,,2024-06-21T00:00:00Z
 IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000PGKK27,BBG001T5MKD1,2024-06-26T00:00:00Z
 IGLD,FT Vest Gold Strategy Target Income ETF,stocks,us,BATS,ETF,True,usd,,BBG00ZDRM9Q6,BBG00ZDRMBK7,2024-06-26T00:00:00Z
-IGM,iShares Expanded Tech Sector ETF,stocks,us,ARCX,ETF,True,usd,0000930667,BBG000H13601,BBG001SHHYT5,2024-06-03T00:00:00Z
 IGM,iShares Expanded Tech Sector ETF,stocks,us,ARCX,ETF,True,usd,,BBG000H13601,BBG001SHHYT5,2024-06-26T00:00:00Z
+IGM,iShares Expanded Tech Sector ETF,stocks,us,ARCX,ETF,True,usd,0000930667,BBG000H13601,BBG001SHHYT5,2024-06-03T00:00:00Z
 IGMS,"IGM Biosciences, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1496323.0,BBG00PNR1BT2,BBG00PNR1BV9,2024-06-21T00:00:00Z
 IGOV,iShares 1-3 Year International Treasury Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG000H03774,BBG001T33MN2,2024-06-26T00:00:00Z
 IGOV,iShares 1-3 Year International Treasury Bond ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000H03774,BBG001T33MN2,2024-03-19T00:00:00Z
@@ -5296,8 +5339,8 @@ IINNW,Inspira Technologies Oxy B.H.N. Ltd. Warrant,stocks,us,XNAS,WARRANT,True,u
 IIPR,"Innovative Industrial Properties, Inc. Common stock",stocks,us,XNYS,CS,True,usd,1677576.0,BBG00F0SW7N8,BBG00F0SW7P6,2024-06-21T00:00:00Z
 IIPRpA,"Innovative Industrial Properties, Inc.9.00 Percent Series A Cumulative Redeemable Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001677576,,,2024-06-26T00:00:00Z
 IJAN,Innovator International Developed Power Buffer ETF  January,stocks,us,ARCX,ETF,True,usd,,BBG00R877WW3,BBG00R877XM2,2024-06-26T00:00:00Z
-IJH,iShares Core S&P Mid-Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BWC7P0,BBG001SFC7V0,2024-06-26T00:00:00Z
 IJH,iShares Core S&P Mid-Cap ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000BWC7P0,BBG001SFC7V0,2024-05-16T00:00:00Z
+IJH,iShares Core S&P Mid-Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BWC7P0,BBG001SFC7V0,2024-06-26T00:00:00Z
 IJJ,iShares S&P Mid-Cap 400 Value ETF,stocks,us,ARCX,ETF,True,usd,,BBG000C14JK5,BBG001SFQJM9,2024-06-26T00:00:00Z
 IJJ,iShares S&P Mid-Cap 400 Value ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000C14JK5,BBG001SFQJM9,2024-05-17T00:00:00Z
 IJK,iShares S&P Mid-Cap 400 Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG000C15L83,BBG001SFQL08,2024-06-26T00:00:00Z
@@ -5310,8 +5353,8 @@ IJUN,Innovator International Developed Power Buffer ETF - June,stocks,us,ARCX,ET
 IKNA,"Ikena Oncology, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1835579.0,BBG00XZY4TG9,BBG00XZY4TH8,2024-06-21T00:00:00Z
 IKT,"Inhibikase Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1750149.0,BBG005TP2339,BBG005TP2348,2024-06-21T00:00:00Z
 ILAG,Intelligent Living Application Group Inc. Ordinary Shares,stocks,us,XNAS,ADRC,True,usd,0001814963,,,2024-06-26T00:00:00Z
-ILCB,iShares Morningstar U.S. Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BRJ943,BBG001SBR743,2024-06-26T00:00:00Z
 ILCB,iShares Morningstar U.S. Equity ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000BRJ943,BBG001SBR743,2024-06-25T00:00:00Z
+ILCB,iShares Morningstar U.S. Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BRJ943,BBG001SBR743,2024-06-26T00:00:00Z
 ILCG,iShares Morningstar Growth ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000BRL209,BBG001SBRHJ5,2024-05-17T00:00:00Z
 ILCG,iShares Morningstar Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BRL209,BBG001SBRHJ5,2024-06-26T00:00:00Z
 ILCV,iShares Morningstar Value ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000BRLDW0,BBG001SBRHX9,2024-05-17T00:00:00Z
@@ -5321,6 +5364,7 @@ ILF,iShares Latin America 40 ETF,stocks,us,ARCX,ETF,True,usd,,BBG000KWYDJ0,BBG00
 ILIT,iShares Lithium Miners and Producers ETF,stocks,us,XNAS,ETF,True,usd,,BBG01H2QST25,BBG01H2QSTZ9,2024-06-26T00:00:00Z
 ILMN,Illumina Inc,stocks,us,XNAS,CS,True,usd,1110803.0,BBG000DSMS70,BBG001SF4NY1,2024-06-21T00:00:00Z
 ILMNV,"Illumina, Inc. Common Stock Ex-distribution When-Issued",stocks,us,XNAS,CS,True,usd,1110803.0,BBG01N6CFTZ7,BBG01N6CFW08,2024-06-21T00:00:00Z
+ILOW,AB International Low Volatility Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NKVTSK2,BBG01NKVTTJ2,2024-07-15T00:00:00Z
 ILPT,Industrial Logistics Properties Trust Common Shares of Beneficial Interest,stocks,us,XNAS,FUND,True,usd,0001717307,BBG00JBBPRZ6,BBG00JBBPSP5,2024-06-26T00:00:00Z
 ILTB,iShares Core 10+ Year USD Bond ETFof iShares Trust,stocks,us,ARCX,ETF,True,usd,,BBG000PGL182,BBG001T5MKJ5,2024-06-26T00:00:00Z
 IMAB,I-MAB American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001778016,BBG00QQ8DFK6,BBG00QQ8DG97,2024-06-26T00:00:00Z
@@ -5337,8 +5381,8 @@ IMCC,IM Cannabis Corp. Common Shares,stocks,us,XNAS,CS,True,usd,1792030.0,BBG00T
 IMCG,iShares Morningstar Mid-Cap Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BRMGV3,BBG001SBRK44,2024-06-26T00:00:00Z
 IMCG,iShares Morningstar Mid-Cap Growth ETF,stocks,us,ARCX,ETF,True,usd,0000913414,BBG000BRMGV3,BBG001SBRK44,2024-05-23T00:00:00Z
 IMCR,Immunocore Holdings plc American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001671927,BBG00YYCXFB9,BBG00YYCXG54,2024-06-26T00:00:00Z
-IMCV,iShares Morningstar Mid-Cap Value ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000BRMTJ9,BBG001SBRK53,2024-06-24T00:00:00Z
 IMCV,iShares Morningstar Mid-Cap Value ETF,stocks,us,XNAS,ETF,True,usd,,BBG000BRMTJ9,BBG001SBRK53,2024-06-26T00:00:00Z
+IMCV,iShares Morningstar Mid-Cap Value ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000BRMTJ9,BBG001SBRK53,2024-06-24T00:00:00Z
 IMFL,Invesco International Developed Dynamic Multifactor ETF,stocks,us,BATS,ETF,True,usd,,BBG00ZDRP4M8,BBG00ZDRP5G2,2024-06-26T00:00:00Z
 IMKT.A,INGLES MARKETS INC CL-A,stocks,us,XNAS,,True,usd,,BBG000BLXDJ5,BBG001S5S7D5,2016-05-18T00:00:00Z
 IMKTA,Ingles Markets Inc,stocks,us,XNAS,CS,True,usd,50493.0,BBG000BLXDJ5,BBG001S5S7D5,2024-06-21T00:00:00Z
@@ -5492,8 +5536,8 @@ IQDE,FlexShares International Quality Dividend Defensive Index Fund,stocks,us,AR
 IQDF,FlexShares International Quality Dividend Index Fund,stocks,us,ARCX,ETF,True,usd,,BBG004FKVVS7,BBG004FKVX21,2024-06-26T00:00:00Z
 IQDF,FlexShares International Quality Dividend Index Fund,stocks,us,ARCX,ETF,True,usd,0001491978,BBG004FKVVS7,BBG004FKVX21,2024-05-17T00:00:00Z
 IQDG,WisdomTree International Quality Dividend Growth Fund,stocks,us,BATS,ETF,True,usd,,BBG00CMD6MT4,BBG00CMD6MV1,2024-06-26T00:00:00Z
-IQDY,FlexShares International Quality Dividend Dynamic Index Fund,stocks,us,ARCX,ETF,True,usd,0001491978,BBG004FKXS75,BBG004FKXSZ4,2024-05-17T00:00:00Z
 IQDY,FlexShares International Quality Dividend Dynamic Index Fund,stocks,us,ARCX,ETF,True,usd,,BBG004FKXS75,BBG004FKXSZ4,2024-06-26T00:00:00Z
+IQDY,FlexShares International Quality Dividend Dynamic Index Fund,stocks,us,ARCX,ETF,True,usd,0001491978,BBG004FKXS75,BBG004FKXSZ4,2024-05-17T00:00:00Z
 IQHI,IQ MacKay ESG High Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG01B5GGB83,BBG01B5GGC45,2024-06-26T00:00:00Z
 IQI,INVESCO QUALITY MUNICIPAL SECURITIES,stocks,us,XNYS,FUND,True,usd,0000885125,BBG000BDH0S9,BBG001S746Q5,2024-06-26T00:00:00Z
 IQIN,IQ 500 International ETF,stocks,us,ARCX,ETF,True,usd,,BBG00MS6Z222,BBG00MS6Z311,2024-06-26T00:00:00Z
@@ -5530,8 +5574,8 @@ IRTC,"iRhythm Technologies, Inc",stocks,us,XNAS,CS,True,usd,1388658.0,BBG001J19V
 IRTR,iShares LifePath Retirement ETF,stocks,us,ARCX,ETF,True,usd,,BBG01JS4CLP1,BBG01JS4CMJ6,2024-06-26T00:00:00Z
 IRVH,Global X Interest Rate Volatility & Inflation Hedge ETF,stocks,us,ARCX,ETF,True,usd,,BBG018CXW4P4,BBG018CXW5M4,2024-06-26T00:00:00Z
 IRWD,"Ironwood Pharmaceuticals, Inc. - Class A",stocks,us,XNAS,CS,True,usd,1446847.0,BBG000GBZ3J2,BBG001SNZLM7,2024-05-17T00:00:00Z
-ISCB,iShares Morningstar Small-Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BRN797,BBG001SBRKC5,2024-06-26T00:00:00Z
 ISCB,iShares Morningstar Small-Cap ETF,stocks,us,ARCX,ETF,True,usd,0000051548,BBG000BRN797,BBG001SBRKC5,2024-05-17T00:00:00Z
+ISCB,iShares Morningstar Small-Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BRN797,BBG001SBRKC5,2024-06-26T00:00:00Z
 ISCF,iShares International Small Cap Equity Factor ETF,stocks,us,ARCX,ETF,True,usd,,BBG008LP7B56,BBG008LP7B65,2024-06-26T00:00:00Z
 ISCF,iShares International Small Cap Equity Factor ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG008LP7B56,BBG008LP7B65,2024-06-25T00:00:00Z
 ISCG,iShares Morningstar Small-Cap Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BRNNW6,BBG001SBRKD4,2024-06-26T00:00:00Z
@@ -5542,8 +5586,8 @@ ISD,"PGIM High Yield Bond Fund, Inc.",stocks,us,XNYS,FUND,True,usd,0001534880,BB
 ISDB,Invesco Short Duration Bond ETF,stocks,us,BATS,ETF,True,usd,,BBG01BTSQZS5,BBG01BTSR0M7,2024-06-26T00:00:00Z
 ISDR,Issuer Direct Corporation,stocks,us,XASE,CS,True,usd,843006.0,BBG000C1CK87,BBG001S67C09,2024-06-21T00:00:00Z
 ISEP,Innovator International Developed Power Buffer ETF - September,stocks,us,ARCX,ETF,True,usd,,BBG01J43LC15,BBG01J43LCY9,2024-06-26T00:00:00Z
-ISHG,iShares International Treasury Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG000H0YZK3,BBG001T33X85,2024-06-26T00:00:00Z
 ISHG,iShares International Treasury Bond ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000H0YZK3,BBG001T33X85,2024-05-17T00:00:00Z
+ISHG,iShares International Treasury Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG000H0YZK3,BBG001T33X85,2024-06-26T00:00:00Z
 ISHP,First Trust Exchange-Traded Fund VI First Trust S-Network E-Commerce ETF,stocks,us,XNAS,ETF,True,usd,,BBG00DVWC5R2,BBG00DVWC5S1,2024-06-26T00:00:00Z
 ISMD,Inspire Small/Mid Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG00G3NVS86,BBG00G3NVSZ6,2024-06-26T00:00:00Z
 ISPC,iSpecimen Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1558569.0,BBG00734QDL2,BBG00734QDM1,2024-06-21T00:00:00Z
@@ -5686,8 +5730,8 @@ IXJ,iShares Global Healthcare ETF,stocks,us,ARCX,ETF,True,usd,,BBG000L77VV0,BBG0
 IXN,iShares Global Tech ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BBTL04,BBG001S60KQ0,2024-06-26T00:00:00Z
 IXN,iShares Global Tech ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000BBTL04,BBG001S60KQ0,2024-06-25T00:00:00Z
 IXP,iShares Global Comm Services ETF,stocks,us,ARCX,ETF,True,usd,,BBG000L7MB74,BBG001S6VVK8,2024-06-26T00:00:00Z
-IXUS,iShares Core MSCI Total International Stock ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG003H6TM38,BBG003H6TMV7,2024-05-14T00:00:00Z
 IXUS,iShares Core MSCI Total International Stock ETF,stocks,us,XNAS,ETF,True,usd,,BBG003H6TM38,BBG003H6TMV7,2024-06-26T00:00:00Z
+IXUS,iShares Core MSCI Total International Stock ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG003H6TM38,BBG003H6TMV7,2024-05-14T00:00:00Z
 IYC,iShares U.S. Consumer Discretionary ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BXY2M8,BBG001SFGXZ5,2024-06-26T00:00:00Z
 IYE,iShares U.S. Energy ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BXXRG1,BBG001SFGXW8,2024-06-26T00:00:00Z
 IYF,iShares U.S. Financials ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000CGFWK1,BBG001SFC802,2024-04-22T00:00:00Z
@@ -5698,8 +5742,8 @@ IYH,iShares U.S. Healthcare ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BXX310,BBG001
 IYJ,iShares U.S. Industrials ETF,stocks,us,BATS,ETF,True,usd,,BBG000BXWM82,BBG001SFGXQ5,2024-06-26T00:00:00Z
 IYK,iShares U.S. Consumer Staples ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BTYS13,BBG001SF7V89,2024-06-26T00:00:00Z
 IYLD,iShares Morningstar Multi-Asset Income ETF,stocks,us,BATS,ETF,True,usd,,BBG002VD61G6,BBG002VD62X5,2024-06-26T00:00:00Z
-IYM,iShares U.S. Basic Materials ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000BXYFZ5,BBG001SFGY10,2024-05-17T00:00:00Z
 IYM,iShares U.S. Basic Materials ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BXYFZ5,BBG001SFGY10,2024-06-26T00:00:00Z
+IYM,iShares U.S. Basic Materials ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000BXYFZ5,BBG001SFGY10,2024-05-17T00:00:00Z
 IYR,iShares U.S. Real Estate ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BXW687,BBG001SFGXJ3,2024-06-26T00:00:00Z
 IYT,iShares U.S. Transportation ETF,stocks,us,BATS,ETF,True,usd,,BBG000BPNZB6,BBG001SB7HJ7,2024-06-26T00:00:00Z
 IYW,iShares U.S. Technology ETF,stocks,us,ARCX,ETF,True,usd,0000930667,BBG000CF9GL4,BBG001SFB7Z7,2024-06-12T00:00:00Z
@@ -5714,6 +5758,7 @@ JAAA,Janus Henderson AAA CLO ETF,stocks,us,ARCX,ETF,True,usd,,BBG00XX897J8,BBG00
 JACK,Jack in the Box Inc.,stocks,us,XNAS,CS,True,usd,807882.0,BBG000GZYVY1,BBG001SDBB01,2024-05-17T00:00:00Z
 JADE,JPMorgan Active Developing Markets Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01MLMK407,BBG01MLMK5D0,2024-06-26T00:00:00Z
 JAGX,"Jaguar Health, Inc.",stocks,us,XNAS,CS,True,usd,1585608.0,BBG005Z20406,BBG005Z205T2,2024-06-21T00:00:00Z
+JAJL,Innovator Equity Defined Protection ETF - 6mo Jan/Jul,stocks,us,BATS,ETF,True,usd,,BBG01NHZZ8V2,BBG01NHZZ9S4,2024-07-15T00:00:00Z
 JAKK,Jakks Pacific Inc,stocks,us,XNAS,CS,True,usd,1009829.0,BBG000GPK708,BBG001S8ZPR6,2024-06-21T00:00:00Z
 JAMF,Jamf Holding Corp. Common Stock,stocks,us,XNAS,CS,True,usd,1721947.0,BBG00VSYYVB8,BBG00VSYYVC7,2024-06-21T00:00:00Z
 JAN,JanOne Inc. Common Stock (NV),stocks,us,XNAS,CS,True,usd,862861.0,BBG000CKLRH0,BBG001S6Y4N2,2024-06-21T00:00:00Z
@@ -5880,6 +5925,7 @@ JULJ,Innovator Premium Income 30 Barrier ETF - July,stocks,us,BATS,ETF,True,usd,
 JULP,PGIM US Large-Cap Buffer 12 ETF - July,stocks,us,BATS,ETF,True,usd,,BBG01MQT4BZ1,BBG01MQT4CW2,2024-06-26T00:00:00Z
 JULQ,Innovator Premium Income 40 Barrier ETF - July,stocks,us,BATS,ETF,True,usd,,BBG01H7C26R2,BBG01H7C27L6,2024-06-26T00:00:00Z
 JULT,AllianzIM U.S. Large Cap Buffer10 Jul ETF,stocks,us,ARCX,ETF,True,usd,,BBG00VSHDLY5,BBG00VSHDMS0,2024-06-26T00:00:00Z
+JULU,AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF,stocks,us,BATS,ETF,True,usd,,BBG01NGFTYX5,BBG01NGFTZS8,2024-07-15T00:00:00Z
 JULW,AllianzIM U.S. Large Cap Buffer20 Jul ETF,stocks,us,ARCX,ETF,True,usd,,BBG00VSHDJL4,BBG00VSHDKC1,2024-06-26T00:00:00Z
 JULZ,TrueShares Structured Outcome (July) ETF,stocks,us,BATS,ETF,True,usd,,BBG00VSHCPQ6,BBG00VSHCQH4,2024-06-26T00:00:00Z
 JUNE,Junee Limited Ordinary Shares,stocks,us,XNAS,CS,True,usd,1897087.0,,,2024-06-21T00:00:00Z
@@ -5940,8 +5986,8 @@ KBWR,Invesco KBW Regional Banking ETF,stocks,us,XNAS,ETF,True,usd,,BBG0027F1VF8,
 KBWY,Invesco KBW Premium Yield Equity REIT ETF,stocks,us,XNAS,ETF,True,usd,,BBG0019RG705,BBG001TG54F0,2024-06-26T00:00:00Z
 KC,Kingsoft Cloud Holdings Limited American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001795589,BBG00R6T4PQ2,BBG00R6T4QG1,2024-06-26T00:00:00Z
 KCCA,KraneShares California Carbon Allowance Strategy ETF,stocks,us,ARCX,ETF,True,usd,,BBG012TH9YQ3,BBG012TH9ZK6,2024-06-26T00:00:00Z
-KCE,SPDR S&P Capital Markets ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG000KMMBM5,BBG001SPTB41,2024-05-21T00:00:00Z
 KCE,SPDR S&P Capital Markets ETF,stocks,us,ARCX,ETF,True,usd,,BBG000KMMBM5,BBG001SPTB41,2024-06-26T00:00:00Z
+KCE,SPDR S&P Capital Markets ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG000KMMBM5,BBG001SPTB41,2024-05-21T00:00:00Z
 KCGI,Kensington Capital Acquisition Corp. V,stocks,us,XNYS,CS,True,usd,1865407.0,,,2024-06-21T00:00:00Z
 KCGI.U,"Kensington Capital Acquisition Corp. V Units, each consisting of one Class A ordinary share and three-fourths of one redeemable warrant",stocks,us,XNYS,UNIT,True,usd,0001865407,,,2024-06-26T00:00:00Z
 KCGI.WS,"Kensington Capital Acquisition Corp. V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",stocks,us,XNYS,WARRANT,True,usd,0001865407,,,2024-06-26T00:00:00Z
@@ -5984,8 +6030,8 @@ KGS,"Kodiak Gas Services, Inc.",stocks,us,XNYS,CS,True,usd,1767042.0,BBG01G4G6XV
 KHC,The Kraft Heinz Company Common Stock,stocks,us,XNAS,CS,True,usd,1637459.0,BBG005CPNTQ2,BBG005CPNTR1,2024-05-17T00:00:00Z
 KHYB,KraneShares Asia Pacific High Income Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00L9G47Q0,BBG00L9G48G9,2024-06-26T00:00:00Z
 KIDS,OrthoPediatrics Corp. Common Stock,stocks,us,XNAS,CS,True,usd,1425450.0,BBG00HFFRW39,BBG00HFFRW48,2024-06-21T00:00:00Z
-KIE,SPDR S&P Insurance ETF,stocks,us,ARCX,ETF,True,usd,,BBG000KMNWV8,BBG001SPTB50,2024-06-26T00:00:00Z
 KIE,SPDR S&P Insurance ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG000KMNWV8,BBG001SPTB50,2024-06-05T00:00:00Z
+KIE,SPDR S&P Insurance ETF,stocks,us,ARCX,ETF,True,usd,,BBG000KMNWV8,BBG001SPTB50,2024-06-26T00:00:00Z
 KIM,Kimco Realty Corp.,stocks,us,XNYS,CS,True,usd,879101.0,BBG000CN3S73,BBG001S70279,2024-05-17T00:00:00Z
 KIMpL,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",stocks,us,XNYS,PFD,True,usd,0000879101,,,2024-06-26T00:00:00Z
 KIMpM,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock",stocks,us,XNYS,PFD,True,usd,0000879101,,,2024-06-26T00:00:00Z
@@ -6159,6 +6205,7 @@ LAUR,"Laureate Education, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,912766.0
 LAW,"CS Disco, Inc.",stocks,us,XNYS,CS,True,usd,1625641.0,BBG0066FZJN1,BBG0066FZJP9,2024-06-21T00:00:00Z
 LAZ,"Lazard, Inc.",stocks,us,XNYS,CS,True,usd,1311370.0,BBG000BT4C39,BBG001S711C4,2024-06-21T00:00:00Z
 LAZR,"Luminar Technologies, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1758057.0,BBG00MS90LK2,BBG00MS90LM0,2024-06-21T00:00:00Z
+LB,LandBridge Company LLC,stocks,us,XNYS,CS,True,usd,0001995807,BBG01N59HNH6,BBG01N59HPY2,2024-07-15T00:00:00Z
 LBAY,Leatherback Long/Short Alternative Yield ETF,stocks,us,ARCX,ETF,True,usd,,BBG00Y6SLVX9,BBG00Y6SLWR4,2024-06-26T00:00:00Z
 LBO,WHITEWOLF Publicly Listed Private Equity ETF,stocks,us,BATS,ETF,True,usd,,BBG01JP8BGH6,BBG01JP8BHG5,2024-06-26T00:00:00Z
 LBPH,"Longboard Pharmaceuticals, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1832168.0,BBG00Y0BJ9N5,BBG00Y0BJ9Q2,2024-06-21T00:00:00Z
@@ -6210,8 +6257,8 @@ LEGR,First Trust Indxx Innovative Transaction & Process ETF,stocks,us,XNAS,ETF,T
 LEGT,Legato Merger Corp. III,stocks,us,XASE,CS,True,usd,2002038.0,,,2024-06-21T00:00:00Z
 LEGT.U,"Legato Merger Corp III Units, each consisting of one Ordinary Share and one-half of one warrant",stocks,us,XASE,UNIT,True,usd,0002002038,,,2024-06-26T00:00:00Z
 LEGT.WS,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",stocks,us,XASE,WARRANT,True,usd,0002002038,,,2024-06-26T00:00:00Z
-LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG0025X4HC2,BBG0025X4J38,2024-06-18T00:00:00Z
 LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG0025X4HC2,BBG0025X4J38,2024-06-26T00:00:00Z
+LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG0025X4HC2,BBG0025X4J38,2024-06-18T00:00:00Z
 LEN,Lennar Corporation Class A,stocks,us,XNYS,CS,True,usd,920760.0,BBG000BN5HF7,BBG001S5SRK3,2024-06-21T00:00:00Z
 LEN.B,Lennar Corporation Class B,stocks,us,XNYS,CS,True,usd,920760.0,BBG000KKVD81,BBG001SKR1T9,2024-05-17T00:00:00Z
 LENZ,"LENZ Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1815776.0,BBG00XDH4NZ2,BBG00XDH4P05,2024-06-21T00:00:00Z
@@ -6279,8 +6326,8 @@ LINK,"Interlink Electronics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,82814
 LION,Lionsgate Studios Corp. Common Shares,stocks,us,XNAS,CS,True,usd,2006191.0,BBG01MVGXTT9,BBG01MVGXTV6,2024-06-21T00:00:00Z
 LIPO,Lipella Pharmaceuticals Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1347242.0,BBG002GP9137,BBG002GP9146,2024-06-21T00:00:00Z
 LIQT,"LiqTech International, Inc.",stocks,us,XNAS,CS,True,usd,1307579.0,BBG000QKQ2T2,BBG001T7SB23,2024-06-21T00:00:00Z
-LIT,Global X Lithium & Battery Tech ETF,stocks,us,ARCX,ETF,True,usd,0001432353,BBG000BF74Y0,BBG001T9BM41,2024-06-20T00:00:00Z
 LIT,Global X Lithium & Battery Tech ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BF74Y0,BBG001T9BM41,2024-06-26T00:00:00Z
+LIT,Global X Lithium & Battery Tech ETF,stocks,us,ARCX,ETF,True,usd,0001432353,BBG000BF74Y0,BBG001T9BM41,2024-06-20T00:00:00Z
 LITB,"LIGHTINTHEBOX HOLDING CO., LTD.",stocks,us,XNYS,ADRC,True,usd,0001523836,BBG004FSXW88,BBG004FSXX04,2024-06-25T00:00:00Z
 LITE,Lumentum Holdings Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1633978.0,BBG0073F9RT7,BBG0073F9RS8,2024-05-17T00:00:00Z
 LITM,Snow Lake Resources Ltd. Common Shares,stocks,us,XNAS,CS,True,usd,1769697.0,BBG00YB8QPZ3,BBG00YB8QQ18,2024-06-21T00:00:00Z
@@ -6290,6 +6337,7 @@ LIVN,LivaNova PLC Ordinary Shares,stocks,us,XNAS,CS,True,usd,1639691.0,,,2024-05
 LIXT,"Lixte Biotechnology Holdings, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1335105.0,BBG000TC15T7,BBG001SZV9C2,2024-06-21T00:00:00Z
 LIXTW,"Lixte Biotechnology Holdings, Inc. Warrants",stocks,us,XNAS,WARRANT,True,usd,0001335105,BBG00Y7BNLF5,,2024-06-26T00:00:00Z
 LJAN,Innovator Premium Income 15 Buffer ETF - January,stocks,us,BATS,ETF,True,usd,,BBG01KTV64J9,BBG01KTV65F0,2024-06-26T00:00:00Z
+LJUL,Innovator Premium Income 15 Buffer ETF - July,stocks,us,BATS,ETF,True,usd,,BBG01NJ1X838,BBG01NJ1X909,2024-07-15T00:00:00Z
 LKCO,Luokung Technology Corp Ordinary Shares,stocks,us,XNAS,CS,True,usd,1487839.0,,,2024-06-21T00:00:00Z
 LKFN,Lakeland Financial Corp,stocks,us,XNAS,CS,True,usd,721994.0,BBG000BHR1R8,BBG001S7RTC5,2024-05-17T00:00:00Z
 LKOR,FlexShares Credit-Scored US Long Corporate Bond Index Fund,stocks,us,BATS,ETF,True,usd,0001491978,BBG00B2VYK11,BBG00B2VYK20,2024-05-17T00:00:00Z
@@ -6346,6 +6394,7 @@ LOW,Lowe's Companies Inc.,stocks,us,XNYS,CS,True,usd,60667.0,BBG000BNDN65,BBG001
 LOWC,SPDR INDEX SHS FDS SPDR MSCI  ACWI LOW CARBON TARGET ETF,stocks,us,ARCX,INDEX,True,usd,0001168164,BBG007LP6QN6,BBG007LP6Q83,2016-05-18T00:00:00Z
 LOWV,AB US Low Volatility Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01FSQ0LM6,BBG01FSQ0MZ0,2024-06-26T00:00:00Z
 LPA,Logistic Properties of the Americas,stocks,us,XASE,CS,True,usd,1997711.0,,,2024-06-21T00:00:00Z
+LPAAU,Launch One Acquisition Corp. Unit,stocks,us,XNAS,UNIT,True,usd,0002015502,,,2024-07-15T00:00:00Z
 LPCN,Lipocine Inc.,stocks,us,XNAS,CS,True,usd,1535955.0,BBG0029L1X69,BBG0029L1Y76,2024-06-21T00:00:00Z
 LPG,DORIAN LPG LTD,stocks,us,XNYS,CS,True,usd,1596993.0,,,2024-05-17T00:00:00Z
 LPL,LG Display Co. Ltd.,stocks,us,XNYS,ADRC,True,usd,0001290109,BBG000FJ0RK9,BBG001SLXTP3,2024-06-26T00:00:00Z
@@ -6372,8 +6421,8 @@ LRE,"Lead Real Estate Co., Ltd American Depositary Shares",stocks,us,XNAS,ADRC,T
 LRFC,Logan Ridge Finance Corporation Common Stock,stocks,us,XNAS,CS,True,usd,1571329.0,BBG004MYLHK9,BBG004MYLJ98,2024-06-21T00:00:00Z
 LRGC,AB US Large Cap Strategic Equities ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J2PN9J4,BBG01J2PNBC6,2024-06-26T00:00:00Z
 LRGE,ClearBridge Large Cap Growth ESG ETF,stocks,us,XNAS,ETF,True,usd,,BBG00GPY0T44,BBG00GPY0TV4,2024-06-26T00:00:00Z
-LRGF,iShares U.S. Equity Factor ETF,stocks,us,ARCX,ETF,True,usd,,BBG008LNYFC4,BBG008LNYFB5,2024-06-26T00:00:00Z
 LRGF,iShares U.S. Equity Factor ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG008LNYFC4,BBG008LNYFB5,2024-05-24T00:00:00Z
+LRGF,iShares U.S. Equity Factor ETF,stocks,us,ARCX,ETF,True,usd,,BBG008LNYFC4,BBG008LNYFB5,2024-06-26T00:00:00Z
 LRGG,Macquarie Focused Large Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG01MVD0V44,BBG01MVD0WF0,2024-06-26T00:00:00Z
 LRHC,La Rosa Holding Corp. Common Stock,stocks,us,XNAS,CS,True,usd,1879403.0,BBG016XCM9J8,BBG016XCMBC0,2024-06-21T00:00:00Z
 LRMR,"Larimar Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1374690.0,BBG001J2NVH0,BBG001V0GD97,2024-06-21T00:00:00Z
@@ -6393,6 +6442,7 @@ LSEAW,Landsea Homes Corporation Warrant,stocks,us,XNAS,WARRANT,True,usd,00017213
 LSEQ,Harbor Long-Short Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J04VGJ8,BBG01J04VHJ6,2024-06-26T00:00:00Z
 LSF,"Laird Superfood, Inc.",stocks,us,XASE,CS,True,usd,1650696.0,BBG00N22BF60,BBG00N22BF79,2024-06-21T00:00:00Z
 LSGR,Natixis Loomis Sayles Focused Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG01H312L97,BBG01H312M40,2024-06-26T00:00:00Z
+LSH,Lakeside Holding Limited Common Stock,stocks,us,XNAS,CS,True,usd,0001996192,BBG01M7VPQH1,BBG01M7VPRB5,2024-07-15T00:00:00Z
 LSPD,Lightspeed Commerce Inc.,stocks,us,XNYS,CS,True,usd,1823306.0,BBG00PZ78ZM0,BBG00B0JR9Q6,2024-06-21T00:00:00Z
 LSST,Natixis Loomis Sayles Short Duration Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG00JM7QVS1,BBG00JM7QWH1,2024-06-26T00:00:00Z
 LSTA,"Lisata Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,320017.0,BBG000BNVDR4,BBG001SBTRW6,2024-06-21T00:00:00Z
@@ -6453,6 +6503,7 @@ LYB,LyondellBasell Industries N.V. Class A,stocks,us,XNYS,CS,True,usd,1489393.0,
 LYEL,"Lyell Immunopharma, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1806952.0,BBG00RNXFN14,BBG00RNXFN23,2024-06-21T00:00:00Z
 LYFT,"Lyft, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1759509.0,BBG004M9ZHX5,BBG004M9ZHY4,2024-06-21T00:00:00Z
 LYG,Lloyds Banking Group PLC,stocks,us,XNYS,ADRC,True,usd,0001160106,BBG000C3VPQ1,BBG001SDX252,2024-06-26T00:00:00Z
+LYLD,Cambria Large Cap Shareholder Yield ETF,stocks,us,BATS,ETF,True,usd,,BBG01NMTLTY6,BBG01NMTLW51,2024-07-15T00:00:00Z
 LYRA,"Lyra Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1327273.0,BBG001J2N202,BBG001V0GBW5,2024-06-21T00:00:00Z
 LYT,Lytus Technologies Holdings PTV. Ltd. Common Shares,stocks,us,XNAS,CS,True,usd,1816319.0,,,2024-06-21T00:00:00Z
 LYTS,LSI Industries Inc,stocks,us,XNAS,CS,True,usd,763532.0,BBG000BNKN21,BBG001S5SXV8,2024-05-17T00:00:00Z
@@ -6514,6 +6565,7 @@ MATX,"Matsons, Inc.",stocks,us,XNYS,CS,True,usd,3453.0,BBG000BBK401,BBG001S5NL21
 MAV,"Pioneer Municipal High Income Advantage Fund, Inc.",stocks,us,XNYS,FUND,True,usd,0001258943,BBG000BTK484,BBG001SC4CM5,2024-06-26T00:00:00Z
 MAX,"MediaAlpha, Inc.",stocks,us,XNYS,CS,True,usd,1818383.0,BBG00XRTJ7K6,BBG00XRTJ8D2,2024-06-21T00:00:00Z
 MAXI,Simplify Bitcoin Strategy PLUS Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG019WKMY00,BBG019WKMYV6,2024-06-26T00:00:00Z
+MAXJ,iShares Large Cap Max Buffer Jun ETF,stocks,us,BATS,ETF,True,usd,,BBG01NKW0601,BBG01NKW06W6,2024-07-15T00:00:00Z
 MAXN,"Maxeon Solar Technologies, Ltd. Ordinary Shares",stocks,us,XNAS,CS,True,usd,1796898.0,,,2024-06-21T00:00:00Z
 MAYP,PGIM US Large-Cap Buffer 12 ETF - May,stocks,us,BATS,ETF,True,usd,,BBG01MLXZZV4,BBG01MLY00Q3,2024-06-26T00:00:00Z
 MAYS,Mays (J.W.) Inc,stocks,us,XNAS,CS,True,usd,54187.0,BBG000BNQ882,BBG001S5SZV3,2024-05-17T00:00:00Z
@@ -6541,8 +6593,8 @@ MBOT,"Microbot Medical, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,883975.0,B
 MBOX,Freedom Day Dividend ETF,stocks,us,ARCX,ETF,True,usd,,BBG010JBD1M2,BBG010JBD2J4,2024-06-26T00:00:00Z
 MBRX,"Moleculin Biotech, Inc.",stocks,us,XNAS,CS,True,usd,1659617.0,BBG00B9T47L9,BBG00B9T47N7,2024-06-21T00:00:00Z
 MBS,Angel Oak Mortgage-Backed Securities ETF,stocks,us,ARCX,ETF,True,usd,,BBG01LCCHMX9,BBG01LCCHNR4,2024-06-26T00:00:00Z
-MBSD,FlexShares Disciplined Duration MBS Index Fund,stocks,us,ARCX,ETF,True,usd,0001491978,BBG0072GFT15,BBG0072GFT24,2024-05-17T00:00:00Z
 MBSD,FlexShares Disciplined Duration MBS Index Fund,stocks,us,ARCX,ETF,True,usd,,BBG0072GFT15,BBG0072GFT24,2024-06-26T00:00:00Z
+MBSD,FlexShares Disciplined Duration MBS Index Fund,stocks,us,ARCX,ETF,True,usd,0001491978,BBG0072GFT15,BBG0072GFT24,2024-05-17T00:00:00Z
 MBSF,Regan Floating Rate MBS ETF,stocks,us,ARCX,ETF,True,usd,,BBG01LMYQSP6,BBG01LMYQTJ1,2024-06-26T00:00:00Z
 MBUU,"Malibu Boats, Inc. Class A",stocks,us,XNAS,CS,True,usd,1590976.0,BBG005PXTR70,BBG005PXTR61,2024-05-17T00:00:00Z
 MBWM,Mercantile Bank Corp,stocks,us,XNAS,CS,True,usd,1042729.0,BBG000BP2RV5,BBG001S971V3,2024-05-17T00:00:00Z
@@ -6850,13 +6902,13 @@ MOON,Direxion Moonshot Innovators ETF,stocks,us,ARCX,ETF,True,usd,,BBG00Y4QG568,
 MOR,MorphoSys AG American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001340243,BBG00KN74FQ8,BBG00KN74GF8,2024-06-26T00:00:00Z
 MORF,"Morphic Holding, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1679363.0,BBG00PBD6W06,BBG00PBD6WR7,2024-06-21T00:00:00Z
 MORN,"Morningstar, Inc.",stocks,us,XNAS,CS,True,usd,1289419.0,BBG000CGQ4F7,BBG001SC6FV6,2024-05-17T00:00:00Z
-MORT,VanEck Mortgage REIT Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG001ZSTN14,BBG001ZSTNT4,2024-06-26T00:00:00Z
 MORT,VanEck Mortgage REIT Income ETF,stocks,us,ARCX,ETF,True,usd,0001137360,BBG001ZSTN14,BBG001ZSTNT4,2024-05-20T00:00:00Z
+MORT,VanEck Mortgage REIT Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG001ZSTN14,BBG001ZSTNT4,2024-06-26T00:00:00Z
 MOS,The Mosaic Company,stocks,us,XNYS,CS,True,usd,1285785.0,BBG000BFXHL6,BBG001S7LJN1,2024-06-21T00:00:00Z
 MOTE,VanEck Morningstar ESG Moat ETF,stocks,us,BATS,ETF,True,usd,,BBG012STD746,BBG012STD808,2024-06-26T00:00:00Z
 MOTG,VanEck Morningstar Global Wide Moat ETF,stocks,us,BATS,ETF,True,usd,,BBG00MF4XK69,BBG00MF4XKY8,2024-06-26T00:00:00Z
-MOTI,VanEck Morningstar International Moat ETF,stocks,us,BATS,ETF,True,usd,,BBG009L72WT7,BBG009L72WV4,2024-06-26T00:00:00Z
 MOTI,VanEck Morningstar International Moat ETF,stocks,us,BATS,ETF,True,usd,0001137360,BBG009L72WT7,BBG009L72WV4,2024-06-25T00:00:00Z
+MOTI,VanEck Morningstar International Moat ETF,stocks,us,BATS,ETF,True,usd,,BBG009L72WT7,BBG009L72WV4,2024-06-26T00:00:00Z
 MOTO,SmartETFs Smart Transportation & Technology ETF,stocks,us,ARCX,ETF,True,usd,,BBG00QVCWPK8,BBG00QVCWQ99,2024-06-26T00:00:00Z
 MOV,"Movado Group, Inc.",stocks,us,XNYS,CS,True,usd,72573.0,BBG000BL30Y9,BBG001S8FWS2,2024-06-21T00:00:00Z
 MOVE,Movano Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1734750.0,BBG00X0V8H84,BBG00X0V8H93,2024-06-21T00:00:00Z
@@ -7502,6 +7554,7 @@ NYCBpA,"New York Community Bancorp, Inc.",stocks,us,XNYS,PFD,True,usd,0000910073
 NYCBpU,New York Community Capital Trust V (BONUSES),stocks,us,XNYS,PFD,True,usd,0000910073,,,2024-06-26T00:00:00Z
 NYF,iShares New York Muni Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000TGHF00,BBG001T03XV5,2024-06-26T00:00:00Z
 NYMT,"New York Mortgage Trust, Inc.",stocks,us,XNAS,CS,True,usd,1273685.0,BBG000GZ8014,BBG001SHHBR7,2024-06-21T00:00:00Z
+NYMTI,"New York Mortgage Trust, Inc. 9.125% Senior Notes Due 2029",stocks,us,XNAS,CS,True,usd,0001273685,,,2024-07-15T00:00:00Z
 NYMTL,"New York Mortgage Trust, Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",stocks,us,XNAS,CS,True,usd,1273685.0,,,2024-06-21T00:00:00Z
 NYMTM,"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",stocks,us,XNAS,PFD,True,usd,0001273685,,,2024-06-26T00:00:00Z
 NYMTN,"New York Mortgage Trust, Inc. 8.00 Percent Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",stocks,us,XNAS,PFD,True,usd,0001273685,,,2024-06-26T00:00:00Z
@@ -7754,6 +7807,7 @@ OXBR,Oxbridge Re Holdings Limited,stocks,us,XNAS,CS,True,usd,1584831.0,,,2024-05
 OXBR.W,OXBRIDGE RE HLDGS LTD WTS EXP 3/26/2019,stocks,us,XNAS,,True,usd,,,,2016-05-18T00:00:00Z
 OXBRW,Oxbridge Re Holdings Limited Warrant expiring 3/26/2029,stocks,us,XNAS,WARRANT,True,usd,0001584831,,,2024-06-26T00:00:00Z
 OXLC,Oxford Lane Capital Corp.,stocks,us,XNAS,CS,True,usd,1495222.0,BBG000R41XY0,BBG001T93HP8,2024-05-28T00:00:00Z
+OXLCI,Oxford Lane Capital Corp. 8.75% Notes due 2030,stocks,us,XNAS,CS,True,usd,0001495222,,,2024-07-15T00:00:00Z
 OXLCL,Oxford Lane Capital Corp. 6.75% Notes due 2031,stocks,us,XNAS,ETF,True,usd,0001495222,,,2024-06-26T00:00:00Z
 OXLCM,Oxford Lane Capital Corp. 6.75% Series 2024 Term Preferred Stock,stocks,us,XNAS,PFD,True,usd,0001495222,,,2024-06-26T00:00:00Z
 OXLCN,Oxford Lane Capital Corp. 7.125% Series 2029 Term Preferred Stock,stocks,us,XNAS,PFD,True,usd,0001495222,,,2024-06-26T00:00:00Z
@@ -7943,8 +7997,8 @@ PETS,"PetMed Express, Inc.",stocks,us,XNAS,CS,True,usd,1040130.0,BBG000BDYQR4,BB
 PETWW,Wag! Group Co Warrant,stocks,us,XNAS,WARRANT,True,usd,,BBG00ZXX3HL9,,2024-06-26T00:00:00Z
 PETZ,"TDH Holdings, Inc. Common Shares",stocks,us,XNAS,CS,True,usd,1684425.0,,,2024-06-21T00:00:00Z
 PEV,Phoenix Motor Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1879848.0,BBG013T7TYQ1,BBG013T7TZT5,2024-06-21T00:00:00Z
-PEX,ProShares Global Listed Private Equity ETF,stocks,us,BATS,ETF,True,usd,,BBG0045WY4G2,BBG0045WY560,2024-06-26T00:00:00Z
 PEX,ProShares Global Listed Private Equity ETF,stocks,us,BATS,ETF,True,usd,0001174610,BBG0045WY4G2,BBG0045WY560,2024-05-17T00:00:00Z
+PEX,ProShares Global Listed Private Equity ETF,stocks,us,BATS,ETF,True,usd,,BBG0045WY4G2,BBG0045WY560,2024-06-26T00:00:00Z
 PEXL,Pacer US Export Leaders ETF,stocks,us,ARCX,ETF,True,usd,,BBG00LGRG259,BBG00LGRG2X8,2024-06-26T00:00:00Z
 PEY,Invesco High Yield Equity Dividend Achievers ETF,stocks,us,XNAS,ETF,True,usd,,BBG000QLLTP0,BBG001SN3Z78,2024-06-26T00:00:00Z
 PEZ,Invesco Exchange-Traded Fund Trust Invesco Dorsey Wright Consumer Cyclicals Momentum ETF,stocks,us,XNAS,ETF,True,usd,,BBG000BG92W2,BBG001SB09S2,2024-06-26T00:00:00Z
@@ -7953,8 +8007,8 @@ PFC,Premier Financial Corp. Common Stock,stocks,us,XNAS,CS,True,usd,946647.0,BBG
 PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated,stocks,us,XNYS,FUND,True,usd,0000868578,BBG000BDMG71,BBG001S6PG82,2024-06-26T00:00:00Z
 PFE,Pfizer Inc.,stocks,us,XNYS,CS,True,usd,78003.0,BBG000BR2B91,BBG001S5V466,2024-06-21T00:00:00Z
 PFEB,Innovator U.S. Equity Power Buffer ETF - February,stocks,us,BATS,ETF,True,usd,,BBG00RHZ5C02,BBG00RHZ5CR3,2024-06-26T00:00:00Z
-PFF,iShares Trust iShares Preferred and Income Securities ETF,stocks,us,XNAS,ETF,True,usd,,BBG000G7K7Q0,BBG001SNVWC8,2024-06-26T00:00:00Z
 PFF,iShares Trust iShares Preferred and Income Securities ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000G7K7Q0,BBG001SNVWC8,2024-04-11T00:00:00Z
+PFF,iShares Trust iShares Preferred and Income Securities ETF,stocks,us,XNAS,ETF,True,usd,,BBG000G7K7Q0,BBG001SNVWC8,2024-06-26T00:00:00Z
 PFFA,Virtus InfraCap U.S. Preferred Stock ETF,stocks,us,ARCX,ETF,True,usd,,BBG00KXH36Q6,BBG00KXH37F6,2024-06-26T00:00:00Z
 PFFD,Global X U.S. Preferred ETF,stocks,us,ARCX,ETF,True,usd,,BBG00HPF2L66,BBG00HPF2LX6,2024-06-26T00:00:00Z
 PFFL,ETRACS Monthly Pay 2xLeveraged Preferred Stock ETN,stocks,us,ARCX,ETN,True,usd,0001114446,BBG00M37JQ40,BBG00M37JQW9,2024-06-26T00:00:00Z
@@ -8115,6 +8169,7 @@ PMCB,"PharmaCyte Biotech, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1157075.
 PMD,Psychemedics Corporation,stocks,us,XNAS,CS,True,usd,806517.0,BBG000DL6MG6,BBG001S88CR5,2024-05-17T00:00:00Z
 PMEC,Primech Holdings Ltd. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1891944.0,,,2024-06-21T00:00:00Z
 PMF,PIMCO MUNICIPAL INCOME FUND COMMON SHARES OF BENEFICIAL INTERST,stocks,us,XNYS,FUND,True,usd,0001140392,BBG000BJZRL4,BBG001SC8NG4,2024-05-17T00:00:00Z
+PMIO,PGIM Municipal Income Opportunities ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NJ9WGZ9,BBG01NJ9WHX9,2024-07-15T00:00:00Z
 PML,PIMCO MUNICIPAL INCOME FUND II COMMON SHARES OF BENEFICIAL INT.,stocks,us,XNYS,FUND,True,usd,0001170299,BBG000F37M82,BBG001SKRFP2,2024-06-26T00:00:00Z
 PMM,Putnam Managed Municipal Income,stocks,us,XNYS,FUND,True,usd,0000844790,BBG000C14561,BBG001S662R3,2024-06-26T00:00:00Z
 PMN,ProMIS Neurosciences Inc. Common Shares (ON),stocks,us,XNAS,CS,True,usd,1374339.0,BBG000R0MF47,BBG001SMDG62,2024-06-21T00:00:00Z
@@ -8341,8 +8396,8 @@ PTIN,Pacer Trendpilot International ETF,stocks,us,ARCX,ETF,True,usd,,BBG00P1MDGZ
 PTIX,Performance Technologies Inc,stocks,us,XNAS,CS,True,usd,1022899.0,BBG000HQJ4R5,BBG001S5T780,2024-06-21T00:00:00Z
 PTIXW,"Protagenic Therapeutics, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001022899,BBG010B6TKX0,,2024-06-26T00:00:00Z
 PTL,Inspire 500 ETF,stocks,us,ARCX,ETF,True,usd,,BBG01M3DK8Q0,BBG01M3DK9P9,2024-06-26T00:00:00Z
-PTLC,Pacer Trendpilot US Large Cap ETF,stocks,us,BATS,ETF,True,usd,,BBG009BJW8F7,BBG009BJW8D9,2024-06-26T00:00:00Z
 PTLC,Pacer Trendpilot US Large Cap ETF,stocks,us,BATS,ETF,True,usd,0001616668,BBG009BJW8F7,BBG009BJW8D9,2024-05-21T00:00:00Z
+PTLC,Pacer Trendpilot US Large Cap ETF,stocks,us,BATS,ETF,True,usd,,BBG009BJW8F7,BBG009BJW8D9,2024-06-26T00:00:00Z
 PTLO,Portillo's Inc. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1871509.0,BBG012YL5W13,BBG012YL5W59,2024-06-21T00:00:00Z
 PTMC,Pacer Trendpilot US Mid Cap ETF,stocks,us,BATS,ETF,True,usd,0001616668,BBG009BJVYT6,BBG009BJVYS7,2024-06-06T00:00:00Z
 PTMC,Pacer Trendpilot US Mid Cap ETF,stocks,us,BATS,ETF,True,usd,,BBG009BJVYT6,BBG009BJVYS7,2024-06-26T00:00:00Z
@@ -8365,6 +8420,7 @@ PULM,"Pulmatrix, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1574235.0,BBG003T
 PULS,PGIM Ultra Short Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00KJQ1Q26,BBG00KJQ1QS8,2024-06-26T00:00:00Z
 PULT,Putnam ESG Ultra Short ETF,stocks,us,ARCX,ETF,True,usd,,BBG01C50KCN2,BBG01C50KDK3,2024-06-26T00:00:00Z
 PUMP,ProPetro Holding Corp.,stocks,us,XNYS,CS,True,usd,1680247.0,BBG00FYCQ352,BBG00FYCQ3Y0,2024-06-21T00:00:00Z
+PUSH,PGIM Ultra Short Municipal Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NJC2D00,BBG01NJC2DY3,2024-07-15T00:00:00Z
 PUTD,Cboe Validus S&P 500 Dynamic PutWrite Index ETF,stocks,us,BATS,ETF,True,usd,,BBG01HTJG2D2,BBG01HTJG3C1,2024-06-26T00:00:00Z
 PUTW,WisdomTree PutWrite Strategy Fund,stocks,us,ARCX,ETF,True,usd,,BBG00C8397B1,BBG00C839794,2024-06-26T00:00:00Z
 PUTW,WisdomTree PutWrite Strategy Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG00C8397B1,BBG00C839794,2024-04-25T00:00:00Z
@@ -8422,11 +8478,14 @@ QAI,IQ Hedge Multi-Strategy Tracker ETF,stocks,us,ARCX,ETF,True,usd,0001415995,B
 QAI,IQ Hedge Multi-Strategy Tracker ETF,stocks,us,ARCX,ETF,True,usd,,BBG000HFDKL5,BBG001T382B4,2024-06-26T00:00:00Z
 QARP,Xtrackers Russell 1000 US Quality at a Reasonable Price ETF,stocks,us,ARCX,ETF,True,usd,,BBG00KHRB3K6,BBG00KHRB488,2024-06-26T00:00:00Z
 QAT,iShares Trust iShares MSCI Qatar ETF,stocks,us,XNAS,ETF,True,usd,,BBG006F3G5G7,BBG006F3G5H6,2024-06-26T00:00:00Z
+QBER,TrueShares Quarterly Bear Hedge ETF,stocks,us,BATS,ETF,True,usd,,BBG01NHZDY85,BBG01NHZDZB8,2024-07-15T00:00:00Z
 QBTS,D-Wave Quantum Inc.,stocks,us,XNYS,CS,True,usd,1907982.0,BBG0192379V9,BBG0192379X7,2024-06-21T00:00:00Z
 QBTS.WS,"D-Wave Quantum Inc. Warrants, each whole warrant exercisable for 1.4541326 shares of Common Stock at an exercise price of $11.50",stocks,us,XNYS,WARRANT,True,usd,0001907982,BBG0193D6PH7,,2024-06-26T00:00:00Z
+QBUF,Innovator Nasdaq-100 10 Buffer ETF Quarterly,stocks,us,XNAS,ETF,True,usd,,BBG01NJ1RHF2,BBG01NJ1RJ95,2024-07-15T00:00:00Z
+QBUL,TrueShares Quarterly Bull Hedge ETF,stocks,us,BATS,ETF,True,usd,,BBG01NJ4PK07,BBG01NJ4PKW2,2024-07-15T00:00:00Z
 QCAP,FT Vest Nasdaq-100 Conservative Buffer ETF - April,stocks,us,BATS,ETF,True,usd,,BBG01MFNYZF2,BBG01MFNZ0C1,2024-06-26T00:00:00Z
-QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,stocks,us,XNAS,ETF,True,usd,0001329377,BBG000QX2HH0,BBG001SSSWQ6,2024-05-20T00:00:00Z
 QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,stocks,us,XNAS,ETF,True,usd,,BBG000QX2HH0,BBG001SSSWQ6,2024-06-26T00:00:00Z
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,stocks,us,XNAS,ETF,True,usd,0001329377,BBG000QX2HH0,BBG001SSSWQ6,2024-05-20T00:00:00Z
 QCLR,Global X NASDAQ 100 Collar 95-110 ETF,stocks,us,XNAS,ETF,True,usd,,BBG01293CZL4,BBG01293D0F7,2024-06-26T00:00:00Z
 QCOM,Qualcomm Inc,stocks,us,XNAS,CS,True,usd,804328.0,BBG000CGC1X8,BBG001S6VS70,2024-06-21T00:00:00Z
 QCON,American Century Quality Convertible Securities ETF,stocks,us,BATS,ETF,True,usd,,BBG00Z8XMSY8,BBG00Z8XMTS3,2024-06-26T00:00:00Z
@@ -8452,7 +8511,9 @@ QGEN,QIAGEN N.V.,stocks,us,XNYS,CS,True,usd,1015820.0,,,2024-06-21T00:00:00Z
 QGRO,American Century U.S. Quality Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG00LY8L2C7,BBG00LY8L335,2024-06-26T00:00:00Z
 QGRW,WisdomTree U.S. Quality Growth Fund,stocks,us,ARCX,ETF,True,usd,,BBG01BY3ZNC8,BBG01BY3ZP60,2024-06-26T00:00:00Z
 QH,Quhuo Limited American Depository Shares,stocks,us,XNAS,ADRC,True,usd,0001781193,BBG00V95T6J5,BBG00V95T794,2024-06-26T00:00:00Z
+QHY,WisdomTree U.S. High Yield Corporate Bond Fund,stocks,us,BATS,ETF,True,usd,,BBG00CSKF0J1,BBG00CSKF0K9,2024-07-09T00:00:00Z
 QID,ProShares UltraShort QQQ,stocks,us,ARCX,ETF,True,usd,,BBG000PT7GJ5,BBG001SRDBM4,2024-06-26T00:00:00Z
+QIG,WisdomTree U.S. Corporate Bond Fund,stocks,us,BATS,ETF,True,usd,,BBG00CSKF2Y0,BBG00CSKF2Z9,2024-07-15T00:00:00Z
 QINT,American Century Quality Diversified International ETF,stocks,us,ARCX,ETF,True,usd,,BBG00LY8KX67,BBG00LY8KXY6,2024-06-26T00:00:00Z
 QIPT,Quipt Home Medical Corp. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1540013.0,BBG000HV7H25,BBG001SHK710,2024-06-21T00:00:00Z
 QIS,Simplify Multi-QIS Alternative ETF,stocks,us,ARCX,ETF,True,usd,,BBG01HDDPYM2,BBG01HDDPZG6,2024-06-26T00:00:00Z
@@ -8502,8 +8563,8 @@ QQQT,Defiance Nasdaq 100 Income Target ETF,stocks,us,XNAS,ETF,True,usd,,BBG01N8M
 QQQU,Direxion Daily Concentrated Qs Bull 2X Shares,stocks,us,ARCX,ETF,True,usd,,BBG01LV0BHH9,BBG01LV0BJB1,2024-06-26T00:00:00Z
 QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund - Shares of Beneficial Interest,stocks,us,XNAS,FUND,True,usd,0001608741,BBG007SRSSN7,BBG007SRSSP5,2024-06-26T00:00:00Z
 QQQY,Defiance Nasdaq 100 Enhanced Options Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG01J9SMKZ9,BBG01J9SMLY8,2024-06-26T00:00:00Z
-QQXT,First Trust NASDAQ - 100 Ex-Technology Sector Index Fund,stocks,us,XNAS,ETF,True,usd,0001125816,BBG000QX2SL1,BBG001SSSWR5,2024-06-25T00:00:00Z
 QQXT,First Trust NASDAQ - 100 Ex-Technology Sector Index Fund,stocks,us,XNAS,ETF,True,usd,,BBG000QX2SL1,BBG001SSSWR5,2024-06-26T00:00:00Z
+QQXT,First Trust NASDAQ - 100 Ex-Technology Sector Index Fund,stocks,us,XNAS,ETF,True,usd,0001125816,BBG000QX2SL1,BBG001SSSWR5,2024-06-25T00:00:00Z
 QRFT,Qraft AI-Enhanced US Large Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG00P5NR106,BBG00P5NR1S6,2024-06-26T00:00:00Z
 QRHC,Quest Resource Holding Corporation,stocks,us,XNAS,CS,True,usd,1442236.0,BBG000BBF461,BBG001S74P56,2024-06-21T00:00:00Z
 QRMI,Global X NASDAQ 100 Risk Managed Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG012937P14,BBG012937PW0,2024-06-26T00:00:00Z
@@ -8515,6 +8576,7 @@ QS,QuantumScape Corporation,stocks,us,XNYS,CS,True,usd,1811414.0,BBG00VJ17DS2,BB
 QSG,QuantaSing Group Limited American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001932770,BBG01C3JFXX2,BBG01C3JFYR7,2024-06-26T00:00:00Z
 QSI,Quantum-Si Incorporated Class A Common Stock,stocks,us,XNAS,CS,True,usd,1816431.0,BBG00X8RS963,BBG00X8RS972,2024-06-21T00:00:00Z
 QSIAW,Quantum-Si Incorporated Warrant,stocks,us,XNAS,WARRANT,True,usd,,BBG00XZQKX88,,2024-06-26T00:00:00Z
+QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,stocks,us,BATS,ETF,True,usd,,BBG00CSKDZ33,BBG00CSKDZ42,2024-07-10T00:00:00Z
 QSML,WisdomTree U.S. SmallCap Quality Growth Fund,stocks,us,XNAS,ETF,True,usd,,BBG01KJP4KR0,BBG01KJP4LR8,2024-06-26T00:00:00Z
 QSPT,FT Vest Nasdaq-100 Buffer ETF - September,stocks,us,BATS,ETF,True,usd,,BBG012G2S5S0,BBG012G2S6M4,2024-06-26T00:00:00Z
 QSR,Restaurant Brands International Inc.,stocks,us,XNYS,CS,True,usd,1618756.0,BBG0076WG2V1,BBG0076WG2T4,2024-05-17T00:00:00Z
@@ -8548,8 +8610,8 @@ QVML,Invesco S&P 500 QVM Multi-factor ETF,stocks,us,ARCX,ETF,True,usd,,BBG011FS7
 QVMM,Invesco S&P MidCap 400 QVM Multi-factor ETF,stocks,us,ARCX,ETF,True,usd,,BBG011FS9MQ2,BBG011FS9NK6,2024-06-26T00:00:00Z
 QVMS,Invesco S&P SmallCap 600 QVM Multi-factor ETF,stocks,us,ARCX,ETF,True,usd,,BBG011FSB4J7,BBG011FSB5D0,2024-06-26T00:00:00Z
 QVOY,Q3 All-Season Active Rotation ETF,stocks,us,BATS,ETF,True,usd,,BBG01BQ40R89,BBG01BQ40S32,2024-06-26T00:00:00Z
-QWLD,SPDR MSCI World StrategicFactors ETF,stocks,us,ARCX,ETF,True,usd,0001168164,BBG006LCS5H6,BBG006LCS5J4,2024-05-17T00:00:00Z
 QWLD,SPDR MSCI World StrategicFactors ETF,stocks,us,ARCX,ETF,True,usd,,BBG006LCS5H6,BBG006LCS5J4,2024-06-26T00:00:00Z
+QWLD,SPDR MSCI World StrategicFactors ETF,stocks,us,ARCX,ETF,True,usd,0001168164,BBG006LCS5H6,BBG006LCS5J4,2024-05-17T00:00:00Z
 QXO,"QXO, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1236275.0,BBG000BV5627,BBG001SCBW07,2024-06-21T00:00:00Z
 QXQ,SGI Enhanced Nasdaq-100 ETF,stocks,us,XNAS,ETF,True,usd,,BBG01NBKR6Q0,BBG01NBKR7N1,2024-06-26T00:00:00Z
 QYLD,Global X Funds Global X NASDAQ-100 Covered Call ETF,stocks,us,XNAS,ETF,True,usd,,BBG00MVW9587,BBG00MVW9603,2024-06-26T00:00:00Z
@@ -8580,8 +8642,8 @@ RAYS,Global X Solar ETF,stocks,us,XNAS,ETF,True,usd,,BBG012DVX111,BBG012DVX1X6,2
 RBA,"RB Global, Inc.",stocks,us,XNYS,CS,True,usd,1046102.0,BBG000C1DF05,BBG001SBQWW8,2024-06-21T00:00:00Z
 RBB,RBB Bancorp Common Stock,stocks,us,XNAS,CS,True,usd,1499422.0,BBG002537TC9,BBG002537TD8,2024-06-21T00:00:00Z
 RBBN,Ribbon Communications Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1708055.0,BBG00HW4CSG6,BBG00HW4CSH5,2024-06-21T00:00:00Z
-RBC,REGAL BELOIT CORPORATION,stocks,us,XNYS,CS,True,usd,,BBG000BRXTR8,BBG001S5VL68,2016-05-18T00:00:00Z
 RBC,RBC Bearings Incorporated,stocks,us,XNYS,CS,True,usd,1324948.0,BBG000GMGNB3,BBG001SNYTV1,2024-05-22T00:00:00Z
+RBC,REGAL BELOIT CORPORATION,stocks,us,XNYS,CS,True,usd,,BBG000BRXTR8,BBG001S5VL68,2016-05-18T00:00:00Z
 RBCA.A,REPUBLIC BANCORP INC CL A,stocks,us,XNAS,,True,usd,,BBG000BJMHG6,BBG001S7X4Z8,2016-05-18T00:00:00Z
 RBCAA,Republic Bancorp Inc/KY,stocks,us,XNAS,CS,True,usd,921557.0,BBG000BJMHG6,BBG001S7X4Z8,2024-06-21T00:00:00Z
 RBCP,RBC Bearings Incorporated 5.00% Series A Mandatory Convertible Preferred Stock,stocks,us,XNYS,PFD,True,usd,0001324948,,,2024-06-26T00:00:00Z
@@ -8591,6 +8653,7 @@ RBLX,Roblox Corporation,stocks,us,XNYS,CS,True,usd,1315098.0,BBG001R1GCT0,BBG001
 RBOT,Vicarious Surgical Inc.,stocks,us,XNYS,CS,True,usd,1812173.0,BBG00VSHDVP3,BBG00VSHDVQ2,2024-06-21T00:00:00Z
 RBOT.WS,"Vicarious Surgical Inc. Warrants, each whole warrant exercisable for 1/30th of a share of Class A Common Stock at an exercise price of $345.00",stocks,us,XNYS,WARRANT,True,usd,0001812173,BBG00X3HXBF9,,2024-06-26T00:00:00Z
 RBRK,"Rubrik, Inc.",stocks,us,XNYS,CS,True,usd,1943896.0,BBG008D32605,BBG008D32614,2024-06-21T00:00:00Z
+RBUF,Innovator U.S. Small Cap 10 Buffer ETF - Quarterly,stocks,us,BATS,ETF,True,usd,,BBG01NJ1D108,BBG01NJ1D1Y1,2024-07-15T00:00:00Z
 RC,Ready Capital Corporation,stocks,us,XNYS,CS,True,usd,1527590.0,BBG003TCRRN1,BBG003TCRSD0,2024-06-21T00:00:00Z
 RCAT,"Red Cat Holdings, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,748268.0,BBG000BQRDD7,BBG001SB7WF8,2024-06-21T00:00:00Z
 RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,stocks,us,XNYS,SP,True,usd,0001527590,,,2024-06-26T00:00:00Z
@@ -8686,14 +8749,16 @@ REXR,"REXFORD INDUSTRIAL REALTY, INC.",stocks,us,XNYS,CS,True,usd,1571283.0,BBG0
 REXRpB,"Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001571283,,,2024-06-26T00:00:00Z
 REXRpC,"Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share",stocks,us,XNYS,PFD,True,usd,0001571283,,,2024-06-26T00:00:00Z
 REYN,Reynolds Consumer Products Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1786431.0,BBG00QVJVYB5,BBG00QVJVZ22,2024-06-21T00:00:00Z
-REZ,iShares Residential and Multisector Real Estate ETF,stocks,us,ARCX,ETF,True,usd,,BBG000R72RT1,BBG001ST7G73,2024-06-26T00:00:00Z
 REZ,iShares Residential and Multisector Real Estate ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000R72RT1,BBG001ST7G73,2024-05-17T00:00:00Z
+REZ,iShares Residential and Multisector Real Estate ETF,stocks,us,ARCX,ETF,True,usd,,BBG000R72RT1,BBG001ST7G73,2024-06-26T00:00:00Z
 REZI,"Resideo Technologies, Inc. Common Stock",stocks,us,XNYS,CS,True,usd,1740332.0,BBG00HY28K89,BBG00HY28L05,2024-06-21T00:00:00Z
 RF,Regions Financial Corp.,stocks,us,XNYS,CS,True,usd,1281761.0,BBG000Q3JN03,BBG001SM4KY2,2024-06-21T00:00:00Z
 RFAC,RF Acquisition Corp. Class A Common Stock,stocks,us,XNAS,CS,True,usd,1847607.0,BBG0146Z8882,BBG0146Z8935,2024-06-21T00:00:00Z
 RFACR,RF Acquisition Corp. Rights,stocks,us,XNAS,RIGHT,True,usd,0001847607,BBG0146Z8K12,BBG0146Z8KY6,2024-06-26T00:00:00Z
 RFACU,RF Acquisition Corp. Unit,stocks,us,XNAS,UNIT,True,usd,0001847607,BBG0146Z5YF0,BBG0146Z5Z85,2024-06-26T00:00:00Z
 RFACW,RF Acquisition Corp. Warrants,stocks,us,XNAS,WARRANT,True,usd,0001847607,BBG016X0MZ79,,2024-06-26T00:00:00Z
+RFAI,RF Acquisition Corp II Ordinary Shares,stocks,us,XNAS,CS,True,usd,0002012807,,,2024-07-15T00:00:00Z
+RFAIR,RF Acquisition Corp II Right,stocks,us,XNAS,RIGHT,True,usd,0002012807,,,2024-07-15T00:00:00Z
 RFAIU,RF Acquisition Corp II Unit,stocks,us,XNAS,UNIT,True,usd,0002012807,,,2024-06-26T00:00:00Z
 RFCI,RiverFront Dynamic Core Income,stocks,us,ARCX,ETF,True,usd,,BBG00D2WZP68,BBG00D2WZP77,2024-06-26T00:00:00Z
 RFDA,RiverFront Dynamic US Dividend Advantage ETF,stocks,us,ARCX,ETF,True,usd,,BBG00D1TW4Q4,BBG00D1TW4P5,2024-06-26T00:00:00Z
@@ -8811,8 +8876,8 @@ RNGR,"Ranger Energy Services, Inc.",stocks,us,XNYS,CS,True,usd,1699039.0,BBG00GS
 RNLX,Renalytix plc American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001811115,BBG00VPNC562,BBG00VPNC5Z0,2024-06-26T00:00:00Z
 RNP,"Cohen & Steers REIT and Preferred and Income Fund, Inc.",stocks,us,XNYS,FUND,True,usd,0001224450,BBG000PNNWF9,BBG001SLK0B5,2024-06-26T00:00:00Z
 RNR,RenaissanceRe Holdings Ltd.,stocks,us,XNYS,CS,True,usd,913144.0,,,2024-06-21T00:00:00Z
-RNRG,Global X Funds Global X Renewable Energy Producers ETF,stocks,us,XNAS,ETF,True,usd,0001432353,BBG0099SCGR1,BBG0099SCGS0,2024-05-23T00:00:00Z
 RNRG,Global X Funds Global X Renewable Energy Producers ETF,stocks,us,XNAS,ETF,True,usd,,BBG0099SCGR1,BBG0099SCGS0,2024-06-26T00:00:00Z
+RNRG,Global X Funds Global X Renewable Energy Producers ETF,stocks,us,XNAS,ETF,True,usd,0001432353,BBG0099SCGR1,BBG0099SCGS0,2024-05-23T00:00:00Z
 RNRpF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share",stocks,us,XNYS,PFD,True,usd,0000913144,,,2024-06-26T00:00:00Z
 RNRpG,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1, 000th interest in a share of 4.20% Series G Preference Shares",stocks,us,XNYS,PFD,True,usd,0000913144,,,2024-06-26T00:00:00Z
 RNSC,First Trust Small Cap US Equity Select ETF,stocks,us,XNAS,ETF,True,usd,,BBG00GY1J1V7,BBG00GY1J2K7,2024-06-26T00:00:00Z
@@ -9080,10 +9145,10 @@ SCEpM,SCE Trust VII 7.50% Trust Preference Securities,stocks,us,XNYS,SP,True,usd
 SCEpN,SCE Trust VIII 6.95% Trust Preference Securities,stocks,us,XNYS,SP,True,usd,0000092103,,,2024-06-26T00:00:00Z
 SCHA,Schwab U.S Small- Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000PS0FX0,BBG001T5XQW5,2024-06-26T00:00:00Z
 SCHB,Schwab U.S. Broad Market ETF,stocks,us,ARCX,ETF,True,usd,,BBG000PRZSP5,BBG001T5XQT9,2024-06-26T00:00:00Z
-SCHC,Schwab International Small-Cap Equity ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG000Q5PVN8,BBG001T6L7C0,2024-05-17T00:00:00Z
 SCHC,Schwab International Small-Cap Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG000Q5PVN8,BBG001T6L7C0,2024-06-26T00:00:00Z
-SCHD,Schwab US Dividend Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG0025RWKW5,BBG0025RWLM4,2024-06-26T00:00:00Z
+SCHC,Schwab International Small-Cap Equity ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG000Q5PVN8,BBG001T6L7C0,2024-05-17T00:00:00Z
 SCHD,Schwab US Dividend Equity ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG0025RWKW5,BBG0025RWLM4,2024-05-03T00:00:00Z
+SCHD,Schwab US Dividend Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG0025RWKW5,BBG0025RWLM4,2024-06-26T00:00:00Z
 SCHE,Schwab Emerging Markets Equity ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG000Q5QG14,BBG001T6L7D9,2024-05-17T00:00:00Z
 SCHE,Schwab Emerging Markets Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG000Q5QG14,BBG001T6L7D9,2024-06-26T00:00:00Z
 SCHF,Schwab International Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG000PS0RP3,BBG001T5XQY3,2024-06-26T00:00:00Z
@@ -9094,8 +9159,8 @@ SCHJ,Schwab 1-5 Year Corporate Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00PZFDDJ
 SCHK,Schwab 1000 Index ETF,stocks,us,ARCX,ETF,True,usd,,BBG00HXSKXB7,BBG00HXSKY16,2024-06-26T00:00:00Z
 SCHL,Scholastic Corp,stocks,us,XNAS,CS,True,usd,866729.0,BBG000BSDM66,BBG001S5VTF1,2024-06-21T00:00:00Z
 SCHM,Schwab U.S. Mid-Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG001CSJ5M6,BBG001V036R6,2024-06-26T00:00:00Z
-SCHO,Schwab Short-Term U.S. Treasury ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BGNS77,BBG001T9F795,2024-06-26T00:00:00Z
 SCHO,Schwab Short-Term U.S. Treasury ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG000BGNS77,BBG001T9F795,2024-04-03T00:00:00Z
+SCHO,Schwab Short-Term U.S. Treasury ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BGNS77,BBG001T9F795,2024-06-26T00:00:00Z
 SCHP,Schwab U.S. TIPS ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BGN6P5,BBG001T9F777,2024-06-26T00:00:00Z
 SCHP,Schwab U.S. TIPS ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG000BGN6P5,BBG001T9F777,2024-03-22T00:00:00Z
 SCHQ,Schwab Long-Term U.S. Treasury ETF,stocks,us,ARCX,ETF,True,usd,,BBG00PZFJPC3,BBG00PZFJQM0,2024-06-26T00:00:00Z
@@ -9109,8 +9174,8 @@ SCHWpJ,"The Charles Schwab Corporation Depositary Shares, Each Representing a 1/
 SCHX,Schwab U.S. Large- Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000PS05G1,BBG001T5XQV6,2024-06-26T00:00:00Z
 SCHX,Schwab U.S. Large- Cap ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG000PS05G1,BBG001T5XQV6,2024-04-19T00:00:00Z
 SCHY,Schwab International Dividend Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG00Z60CGG9,BBG00Z60CHB2,2024-06-26T00:00:00Z
-SCHZ,Schwab US Aggregate Bond ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG001WBMKQ0,BBG001WBMLH8,2024-05-29T00:00:00Z
 SCHZ,Schwab US Aggregate Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG001WBMKQ0,BBG001WBMLH8,2024-06-26T00:00:00Z
+SCHZ,Schwab US Aggregate Bond ETF,stocks,us,ARCX,ETF,True,usd,0001454889,BBG001WBMKQ0,BBG001WBMLH8,2024-05-29T00:00:00Z
 SCI,Service Corporation International,stocks,us,XNYS,CS,True,usd,89089.0,BBG000BTHH16,BBG001S5WBJ5,2024-06-21T00:00:00Z
 SCIO,First Trust Structured Credit Income Opportunities ETF,stocks,us,ARCX,ETF,True,usd,,BBG01LPV1RX9,BBG01LPV1T47,2024-06-26T00:00:00Z
 SCJ,iShares MSCI Japan Small-Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG000V1PKZ2,BBG001T0YWN2,2024-06-26T00:00:00Z
@@ -9158,6 +9223,8 @@ SDPI,Superior Drilling Products Inc.,stocks,us,XASE,CS,True,usd,1600422.0,BBG006
 SDRL,Seadrill Limited,stocks,us,XNYS,CS,True,usd,1737706.0,,,2024-06-21T00:00:00Z
 SDS,ProShares UltraShort S&P500,stocks,us,ARCX,ETF,True,usd,,BBG000PTJG39,BBG001SRDTL6,2024-06-26T00:00:00Z
 SDSI,American Century Short Duration Strategic Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG019ZLZK92,BBG019ZLZL54,2024-06-26T00:00:00Z
+SDST,Stardust Power Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001831979,BBG00YVVB937,BBG00YVVBB32,2024-07-15T00:00:00Z
+SDSTW,Stardust Power Inc. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001831979,BBG00ZHYX271,,2024-07-15T00:00:00Z
 SDVD,FT Vest SMID Rising Dividend Achievers Target Income ETF,stocks,us,BATS,ETF,True,usd,,BBG01HPQGCD8,BBG01HPQGD73,2024-06-26T00:00:00Z
 SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,stocks,us,XNAS,ETF,True,usd,,BBG00J3TCRL5,BBG00J3TCS97,2024-06-26T00:00:00Z
 SDY,SPDR S&P Dividend ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG000KN18M3,BBG001SPTBP8,2024-04-01T00:00:00Z
@@ -9277,8 +9344,8 @@ SHIP,Seanergy Maritime Holdings Corp.,stocks,us,XNAS,CS,True,usd,1448397.0,,,202
 SHLD,Global X Defense Tech ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J6K2R13,BBG01J6K2RX8,2024-06-26T00:00:00Z
 SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1831651.0,BBG00YQ82275,BBG00YQ82328,2024-06-21T00:00:00Z
 SHLT,SHL Telemedicine Ltd American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001166834,BBG01G2G1BK7,BBG01G2G1CF1,2024-06-26T00:00:00Z
-SHM,SPDR Nuveen Bloomberg Short Term Municipal Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000TJQLR2,BBG001T083N5,2024-06-26T00:00:00Z
 SHM,SPDR Nuveen Bloomberg Short Term Municipal Bond ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG000TJQLR2,BBG001T083N5,2024-05-17T00:00:00Z
+SHM,SPDR Nuveen Bloomberg Short Term Municipal Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000TJQLR2,BBG001T083N5,2024-06-26T00:00:00Z
 SHMD,SCHMID Group N.V. Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,1987240.0,,,2024-06-21T00:00:00Z
 SHMDW,SCHMID Group N.V. Warrants,stocks,us,XNAS,WARRANT,True,usd,0001987240,,,2024-06-26T00:00:00Z
 SHNY,MicroSectors Gold 3x Leveraged ETN,stocks,us,ARCX,ETS,True,usd,0000927971,BBG01F782PM8,BBG01F782QG3,2024-06-26T00:00:00Z
@@ -9329,6 +9396,7 @@ SILK,"Silk Road Medical, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1397702.0
 SILO,"Silo Pharma, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1514183.0,BBG002D1DZ06,BBG002D1DZR7,2024-06-21T00:00:00Z
 SILV,SilverCrest Metals Inc. Common Shares,stocks,us,XASE,CS,True,usd,1659520.0,BBG00B9JN9J9,BBG009XQLJF5,2024-06-21T00:00:00Z
 SIM,"Groupo Simec, S.A.B de C.V.",stocks,us,XASE,ADRC,True,usd,0000887153,BBG000BG80W7,BBG001S72CW7,2024-06-26T00:00:00Z
+SIMAU,SIM Acquisition Corp. I Unit,stocks,us,XNAS,UNIT,True,usd,0002014982,,,2024-07-15T00:00:00Z
 SIMO,Silicon Motion Technology Corporation,stocks,us,XNAS,ADRC,True,usd,0001329394,BBG000GT7XY1,BBG001SP0YQ8,2024-05-17T00:00:00Z
 SIMS,SPDR S&P Kensho Intelligent Structures ETF,stocks,us,ARCX,ETF,True,usd,,BBG00JHNY9Z4,BBG00JHNYBP0,2024-06-26T00:00:00Z
 SING,SinglePoint Inc.,stocks,us,BATS,CS,True,usd,1443611.0,BBG000BKKYK3,BBG001SN9L37,2024-06-21T00:00:00Z
@@ -9452,14 +9520,14 @@ SMHI,SEACOR Marine Holdings Inc. Common Stock,stocks,us,XNYS,CS,True,usd,1690334
 SMI,VanEck HIP Sustainable Muni ETF,stocks,us,BATS,ETF,True,usd,,BBG012G3J7W9,BBG012G3J8Q4,2024-06-26T00:00:00Z
 SMID,Smith-Midland Corporation Common Stock,stocks,us,XNAS,CS,True,usd,924719.0,BBG000FYWS74,BBG001S8P984,2024-06-21T00:00:00Z
 SMIG,Bahl & Gaynor Small/Mid Cap Income Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG0129P6L24,BBG0129P6LY9,2024-06-26T00:00:00Z
-SMIN,iShares MSCI India Small-Cap ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG002DMN4P1,BBG002DMN5F9,2024-05-17T00:00:00Z
 SMIN,iShares MSCI India Small-Cap ETF,stocks,us,BATS,ETF,True,usd,,BBG002DMN4P1,BBG002DMN5F9,2024-06-26T00:00:00Z
+SMIN,iShares MSCI India Small-Cap ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG002DMN4P1,BBG002DMN5F9,2024-05-17T00:00:00Z
 SMIZ,Zacks Small/Mid Cap ETF,stocks,us,ARCX,ETF,True,usd,,BBG01JLG9QX5,BBG01JLG9RS9,2024-06-26T00:00:00Z
 SMLF,iShares U.S. Small Cap Equity Factor ETF,stocks,us,ARCX,ETF,True,usd,,BBG008LP6CJ0,BBG008LP6CK8,2024-06-26T00:00:00Z
 SMLP,"Summit Midstream Partners, LP",stocks,us,XNYS,CS,True,usd,1549922.0,BBG003B91XR8,BBG003B91YL2,2024-06-21T00:00:00Z
 SMLR,"Semler Scientific, Inc.",stocks,us,XNAS,CS,True,usd,1554859.0,BBG005LBVCB7,BBG005LBVC90,2024-05-17T00:00:00Z
-SMLV,SPDR SSGA US Small Cap Low Volatility Index ETF,stocks,us,ARCX,ETF,True,usd,,BBG0045LCCN4,BBG0045LCCP2,2024-06-26T00:00:00Z
 SMLV,SPDR SSGA US Small Cap Low Volatility Index ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG0045LCCN4,BBG0045LCCP2,2024-05-17T00:00:00Z
+SMLV,SPDR SSGA US Small Cap Low Volatility Index ETF,stocks,us,ARCX,ETF,True,usd,,BBG0045LCCN4,BBG0045LCCP2,2024-06-26T00:00:00Z
 SMMD,iShares Russell 2500 ETF,stocks,us,BATS,ETF,True,usd,,BBG00H31MHY7,BBG00H31MJN5,2024-06-26T00:00:00Z
 SMMT,Summit Therapeutics Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1599298.0,BBG00X3GQL76,BBG00X3GQL94,2024-06-21T00:00:00Z
 SMMU,PIMCO Short Term Municipal Bond Active Exchange-Traded Fund,stocks,us,ARCX,ETF,True,usd,0001450011,BBG000Q8VW08,BBG001T6Q6C7,2024-05-20T00:00:00Z
@@ -9532,8 +9600,8 @@ SOAR.WS,"Volato Group, Inc. Redeemable Warrants, each whole warrant exercisable 
 SOBR,"SOBR Safe, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1425627.0,BBG000P42ZM9,BBG001SQWNQ5,2024-06-21T00:00:00Z
 SOC,Sable Offshore Corp.,stocks,us,XNYS,CS,True,usd,1831481.0,BBG00Z6F4C10,BBG00Z6F4C29,2024-06-21T00:00:00Z
 SOC.WS,"Sable Offshore Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",stocks,us,XNYS,WARRANT,True,usd,0001831481,BBG00ZZLN920,,2024-06-26T00:00:00Z
-SOCL,Global X Funds Global X Social Media ETF,stocks,us,XNAS,ETF,True,usd,0001432353,BBG00283C2R3,BBG00283C3H2,2024-06-21T00:00:00Z
 SOCL,Global X Funds Global X Social Media ETF,stocks,us,XNAS,ETF,True,usd,,BBG00283C2R3,BBG00283C3H2,2024-06-26T00:00:00Z
+SOCL,Global X Funds Global X Social Media ETF,stocks,us,XNAS,ETF,True,usd,0001432353,BBG00283C2R3,BBG00283C3H2,2024-06-21T00:00:00Z
 SOF,Amplify Samsung SOFR ETF,stocks,us,ARCX,ETF,True,usd,,BBG01K4VMTS3,BBG01K4VMVM4,2024-06-26T00:00:00Z
 SOFI,"SoFi Technologies, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1818874.0,BBG00YB1ZD58,BBG00YB1ZF08,2024-06-21T00:00:00Z
 SOGP,Sound Group Inc. American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001783407,BBG00QQ0WF77,BBG00QQ0WFZ6,2024-06-26T00:00:00Z
@@ -9680,8 +9748,8 @@ SPXV,ProShares S&P 500 Ex-Health Care ETF,stocks,us,ARCX,ETF,True,usd,,BBG00B2VZ
 SPXX,NUVEEN S&P 500 DYNAMIC OVERWRITE FUND,stocks,us,XNYS,FUND,True,usd,0001338561,BBG000BMS6H6,BBG001SDQNX3,2024-06-26T00:00:00Z
 SPY,SPDR S&P 500 ETF Trust,stocks,us,ARCX,ETF,True,usd,0000884394,BBG000BDTBL9,BBG001S72SM3,2024-04-03T00:00:00Z
 SPYC,Simplify US Equity PLUS Convexity ETF,stocks,us,ARCX,ETF,True,usd,,BBG00X4STNM5,BBG00X4STPH6,2024-06-26T00:00:00Z
-SPYD,SPDR Portfolio S&P 500 High Dividend ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG00B6WD888,BBG00B6WD879,2024-05-02T00:00:00Z
 SPYD,SPDR Portfolio S&P 500 High Dividend ETF,stocks,us,ARCX,ETF,True,usd,,BBG00B6WD888,BBG00B6WD879,2024-06-26T00:00:00Z
+SPYD,SPDR Portfolio S&P 500 High Dividend ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG00B6WD888,BBG00B6WD879,2024-05-02T00:00:00Z
 SPYG,SPDR Portfolio S&P 500 Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG000BLH653,BBG001SD7RB9,2024-06-26T00:00:00Z
 SPYI,NEOS S&P 500 High Income ETF,stocks,us,BATS,ETF,True,usd,,BBG019C1XZZ1,BBG019C1Y0V1,2024-06-26T00:00:00Z
 SPYT,Defiance S&P 500 Income Target ETF,stocks,us,ARCX,ETF,True,usd,,BBG01LT235D7,BBG01LT23672,2024-06-26T00:00:00Z
@@ -9778,8 +9846,8 @@ STGW,Stagwell Inc. Class A Common Stock,stocks,us,XNAS,CS,True,usd,876883.0,BBG0
 STHO,Star Holdings Shares of Beneficial Interest,stocks,us,XNAS,CS,True,usd,1953366.0,BBG01C70G346,BBG01C70G355,2024-06-21T00:00:00Z
 STI,"Solidion Technology, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1881551.0,BBG013KL70L2,BBG013KL71K1,2024-06-21T00:00:00Z
 STIM,"Neuronetics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1227636.0,BBG000QX36J1,BBG001SSSWY7,2024-06-21T00:00:00Z
-STIP,iShares 0-5 Year TIPS Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG0019SRJP8,BBG001TG5H89,2024-05-17T00:00:00Z
 STIP,iShares 0-5 Year TIPS Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG0019SRJP8,BBG001TG5H89,2024-06-26T00:00:00Z
+STIP,iShares 0-5 Year TIPS Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG0019SRJP8,BBG001TG5H89,2024-05-17T00:00:00Z
 STK,"Columbia Seligman Premium Technology Growth Fund, Inc.",stocks,us,XNYS,FUND,True,usd,0001471420,BBG000PNVDY1,BBG001T5SVR6,2024-06-26T00:00:00Z
 STKH,Steakholder Foods Ltd. American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001828098,BBG00ZCNPCX8,BBG00ZCNPDT1,2024-06-26T00:00:00Z
 STKL,"SunOpta, Inc.",stocks,us,XNAS,CS,True,usd,351834.0,BBG000G6JF31,BBG001S6V9S9,2024-05-17T00:00:00Z
@@ -9792,8 +9860,8 @@ STNC,Hennessy Stance ESG ETF,stocks,us,ARCX,ETF,True,usd,,BBG01C4TFZ46,BBG01C4TF
 STNE,StoneCo Ltd. Class A Common Shares,stocks,us,XNAS,CS,True,usd,1745431.0,,,2024-06-21T00:00:00Z
 STNG,Scorpio Tankers Inc.,stocks,us,XNYS,CS,True,usd,1483934.0,,,2024-06-21T00:00:00Z
 STOK,"Stoke Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1623526.0,BBG00JPCBPG9,BBG00JPCBPH8,2024-06-21T00:00:00Z
-STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,stocks,us,BATS,ETF,True,usd,0001516212,BBG00CNVKF12,BBG00CNVKF21,2024-05-17T00:00:00Z
 STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,stocks,us,BATS,ETF,True,usd,,BBG00CNVKF12,BBG00CNVKF21,2024-06-26T00:00:00Z
+STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,stocks,us,BATS,ETF,True,usd,0001516212,BBG00CNVKF12,BBG00CNVKF21,2024-05-17T00:00:00Z
 STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,stocks,us,ARCX,ETF,True,usd,,BBG000P08VP7,BBG001T5DWK7,2024-06-26T00:00:00Z
 STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,stocks,us,ARCX,ETF,True,usd,0001450011,BBG000P08VP7,BBG001T5DWK7,2024-06-14T00:00:00Z
 STR,Sitio Royalties Corp.,stocks,us,XNYS,CS,True,usd,1949543.0,BBG01C36Y855,BBG01C36Y873,2024-06-21T00:00:00Z
@@ -9832,13 +9900,14 @@ SUGP,SU Group Holdings Limited Ordinary Shares,stocks,us,XNAS,CS,True,usd,196986
 SUI,"Sun Communities, Inc",stocks,us,XNYS,CS,True,usd,912593.0,BBG000BLJWF3,BBG001S7HRC0,2024-06-21T00:00:00Z
 SUM,"Summit Materials, Inc. Class A Common Stock",stocks,us,XNYS,CS,True,usd,1621563.0,BBG006K8P6D1,BBG006K8P6F9,2024-06-21T00:00:00Z
 SUN,SUNOCO L.P.,stocks,us,XNYS,CS,True,usd,1552275.0,BBG00358K8S0,BBG00358K8T9,2024-06-21T00:00:00Z
+SUNS,"Sunrise Realty Trust, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0002012706,BBG01MBTL4Y5,BBG01MBTL5S9,2024-07-15T00:00:00Z
 SUP,"Superior Industries International, Inc.",stocks,us,XNYS,CS,True,usd,95552.0,BBG000BTNS79,BBG001S5WGG7,2024-06-21T00:00:00Z
 SUPL,ProShares Supply Chain Logistics ETF,stocks,us,ARCX,ETF,True,usd,,BBG016LFPVF6,BBG016LFPWM6,2024-06-26T00:00:00Z
 SUPN,"Supernus Pharmaceuticals, Inc.",stocks,us,XNAS,CS,True,usd,1356576.0,BBG000BP0HX7,BBG001SFKFF1,2024-06-21T00:00:00Z
 SUPP,TCW Transform Supply Chain ETF,stocks,us,XNYS,ETF,True,usd,,BBG01F2YGX17,BBG01F2YGXW3,2024-06-26T00:00:00Z
 SUPV,Grupo Supervielle S.A.,stocks,us,XNYS,CS,True,usd,1517399.0,BBG00BTHHZ55,BBG00BTHJ014,2024-06-21T00:00:00Z
-SURE,AdvisorShares Insider Advantage ETF,stocks,us,ARCX,ETF,True,usd,,BBG0024WVZ26,BBG0024WVZT7,2024-06-26T00:00:00Z
 SURE,AdvisorShares Insider Advantage ETF,stocks,us,ARCX,ETF,True,usd,0001408970,BBG0024WVZ26,BBG0024WVZT7,2024-06-06T00:00:00Z
+SURE,AdvisorShares Insider Advantage ETF,stocks,us,ARCX,ETF,True,usd,,BBG0024WVZ26,BBG0024WVZT7,2024-06-26T00:00:00Z
 SURG,"SurgePays, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1392694.0,BBG000RCQLW3,BBG001STG611,2024-06-21T00:00:00Z
 SURGW,"SurgePays, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001392694,BBG013973WY6,,2024-06-26T00:00:00Z
 SURI,Simplify Propel Opportunities ETF,stocks,us,ARCX,ETF,True,usd,,BBG01F3Z7WY9,BBG01F3Z7YG5,2024-06-26T00:00:00Z
@@ -9867,6 +9936,7 @@ SVREW,SaverOne 2014 Ltd. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001894693,BBG0
 SVT,"Servotronics, Inc.",stocks,us,XASE,CS,True,usd,89140.0,BBG000BTPZ26,BBG001S5WH20,2024-05-17T00:00:00Z
 SVV,"Savers Value Village, Inc.",stocks,us,XNYS,CS,True,usd,1883313.0,BBG01F5T0KZ3,BBG01F5T0LT8,2024-06-21T00:00:00Z
 SVXY,ProShares Short VIX Short-Term Futures ETF,stocks,us,BATS,ETF,True,usd,0001415311,BBG0024TG624,BBG0024TG6W1,2024-06-26T00:00:00Z
+SW,Smurfit WestRock plc,stocks,us,XNYS,CS,True,usd,0002005951,,,2024-07-15T00:00:00Z
 SWAG,"Stran & Company, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1872525.0,BBG0019ZS5F2,BBG001TH9KP7,2024-06-21T00:00:00Z
 SWAGW,"Stran & Company, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001872525,BBG013F1M2T3,,2024-06-26T00:00:00Z
 SWAN,Amplify BlackSwan Growth & Treasure Core ETF,stocks,us,ARCX,ETF,True,usd,,BBG00MCBHF38,BBG00MCBHFV7,2024-06-26T00:00:00Z
@@ -9944,6 +10014,7 @@ TARO,Taro Pharmaceutical Industries Ltd.,stocks,us,XNYS,CS,True,usd,906338.0,,,2
 TARS,"Tarsus Pharmaceuticals, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1819790.0,BBG00RB9BNQ7,BBG00RB9BNR6,2024-06-21T00:00:00Z
 TASK,"TaskUs, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1829864.0,BBG009CL6VK3,BBG009CL6VL2,2024-06-21T00:00:00Z
 TATT,TAT Technologies Ltd,stocks,us,XNAS,CS,True,usd,808439.0,,,2024-05-23T00:00:00Z
+TAXE,Intermediate Municipal Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG01NKW9ZJ8,BBG01NKWB0H4,2024-07-15T00:00:00Z
 TAXF,American Century Diversified Municipal Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG00LY8JLB9,BBG00LY8JM27,2024-06-26T00:00:00Z
 TAXX,BondBloxx IR+M Tax Aware Short Duration ETF,stocks,us,ARCX,ETF,True,usd,,BBG01LY8Y063,BBG01LY8Y1K5,2024-06-26T00:00:00Z
 TAYD,Taylor Devices Inc,stocks,us,XNAS,CS,True,usd,96536.0,BBG000BTX2M8,BBG001S5WKF9,2024-06-21T00:00:00Z
@@ -9951,8 +10022,8 @@ TBB,AT&T Inc. 5.350 Percent Global Notes due 2066,stocks,us,XNYS,SP,True,usd,000
 TBBB,BBB Foods Inc.,stocks,us,XNYS,CS,True,usd,1978954.0,,,2024-06-21T00:00:00Z
 TBBK,The Bancorp Inc.,stocks,us,XNAS,CS,True,usd,1295401.0,BBG000Q50XK4,BBG001SM71W3,2024-06-21T00:00:00Z
 TBC,AT&T Inc. 5.625% Global Notes due 2067,stocks,us,XNYS,SP,True,usd,0000732717,,,2024-06-26T00:00:00Z
-TBF,ProShares Short 20+ Year Treasury ETF,stocks,us,ARCX,ETF,True,usd,0001174610,BBG000NZZW25,BBG001T5DR19,2024-05-20T00:00:00Z
 TBF,ProShares Short 20+ Year Treasury ETF,stocks,us,ARCX,ETF,True,usd,,BBG000NZZW25,BBG001T5DR19,2024-06-26T00:00:00Z
+TBF,ProShares Short 20+ Year Treasury ETF,stocks,us,ARCX,ETF,True,usd,0001174610,BBG000NZZW25,BBG001T5DR19,2024-05-20T00:00:00Z
 TBFC,The Brinsmere Fund  Conservative ETF,stocks,us,ARCX,ETF,True,usd,,BBG01KZLQFM3,BBG01KZLQGJ5,2024-06-26T00:00:00Z
 TBFG,The Brinsmere Fund  Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG01KZLQHH5,BBG01KZLQJD5,2024-06-26T00:00:00Z
 TBG,TBG Dividend Focus ETF,stocks,us,ARCX,ETF,True,usd,,BBG01K1ZF3K0,BBG01K1ZF4D6,2024-06-26T00:00:00Z
@@ -10047,11 +10118,14 @@ TELO,"Telomir Pharmaceuticals, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,197
 TELZ,Tellurian Inc. 8.25% Senior Notes due 2028,stocks,us,XASE,SP,True,usd,0000061398,,,2024-06-26T00:00:00Z
 TEM,"Tempus AI, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,1717115.0,BBG01MZQYJF9,BBG01MZQYK84,2024-06-21T00:00:00Z
 TEMP,JPMorgan Climate Change Solutions ETF,stocks,us,ARCX,ETF,True,usd,,BBG013QMK0X6,BBG013QMK1R1,2024-06-26T00:00:00Z
+TEN,Tsakos Energy Navigation Ltd.,stocks,us,XNYS,CS,True,usd,0001166663,,,2024-07-15T00:00:00Z
 TENB,"Tenable Holdings, Inc.",stocks,us,XNAS,CS,True,usd,1660280.0,BBG00LBLCD02,BBG00LBLCDR3,2024-06-21T00:00:00Z
 TENK,TenX Keane Acquisition Ordinary Share,stocks,us,XNAS,CS,True,usd,1851484.0,,,2024-06-21T00:00:00Z
 TENKR,TenX Keane Acquisition Right,stocks,us,XNAS,RIGHT,True,usd,0001851484,,,2024-06-26T00:00:00Z
 TENKU,TenX Keane Acquisition Unit,stocks,us,XNAS,UNIT,True,usd,0001851484,,,2024-06-26T00:00:00Z
 TENX,"Tenax Therapeutics, Inc.",stocks,us,XNAS,CS,True,usd,34956.0,BBG000BJ6R36,BBG001S78GM3,2024-06-21T00:00:00Z
+TENpE,"Tsakos Energy Navigation Limited Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",stocks,us,XNYS,PFD,True,usd,0001166663,,,2024-07-15T00:00:00Z
+TENpF,"Tsakos Energy Navigation Limited Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",stocks,us,XNYS,PFD,True,usd,0001166663,,,2024-07-15T00:00:00Z
 TEO,Telecom Argentina S.A.,stocks,us,XNYS,ADRC,True,usd,0000932470,BBG000BL1FQ7,BBG001S8DVV2,2024-06-26T00:00:00Z
 TEQI,T. Rowe Price Equity Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG00WGK9KP6,BBG00WGK9LG4,2024-06-26T00:00:00Z
 TER,"Teradyne, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,97210.0,BBG000BV4DR6,BBG001S5WMZ3,2024-05-17T00:00:00Z
@@ -10131,8 +10205,8 @@ TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares),sto
 TIME,Clockwise Core Equity & Innovation ETF,stocks,us,ARCX,ETF,True,usd,,BBG01NGFWC14,BBG01NGFWCX9,2024-06-26T00:00:00Z
 TINT,ProShares Smart Materials ETF,stocks,us,ARCX,ETF,True,usd,,BBG0136JPL00,BBG0136JPLW5,2024-06-26T00:00:00Z
 TINY,ProShares Nanotechnology ETF,stocks,us,ARCX,ETF,True,usd,,BBG0136JNMG3,BBG0136JNNC5,2024-06-26T00:00:00Z
-TIP,iShares TIPS Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000C01W49,BBG001SD9RM5,2024-04-19T00:00:00Z
 TIP,iShares TIPS Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000C01W49,BBG001SD9RM5,2024-06-26T00:00:00Z
+TIP,iShares TIPS Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000C01W49,BBG001SD9RM5,2024-04-19T00:00:00Z
 TIPT,Tiptree Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1393726.0,BBG000R2RWP8,BBG001ST0XR1,2024-06-21T00:00:00Z
 TIPX,SPDR Bloomberg 1-10 Year TIPS ETF,stocks,us,ARCX,ETF,True,usd,,BBG004MKB3B1,BBG004MKB438,2024-06-26T00:00:00Z
 TIPX,SPDR Bloomberg 1-10 Year TIPS ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG004MKB3B1,BBG004MKB438,2024-05-17T00:00:00Z
@@ -10159,14 +10233,15 @@ TLH,iShares 10-20 Year Treasury Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG000QN16
 TLH,iShares 10-20 Year Treasury Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000QN16D1,BBG001SSD830,2024-05-23T00:00:00Z
 TLIS,Talis Biomedical Corporation Common Stock,stocks,us,XNAS,CS,True,usd,1584751.0,BBG00Y9D99K6,BBG00Y9D99L5,2024-06-21T00:00:00Z
 TLK,PT Telekomunikasi Indonesia,stocks,us,XNYS,ADRC,True,usd,0001001807,BBG000FS2KR5,BBG001S8MMR7,2024-06-26T00:00:00Z
+TLN,Talen Energy Corporation Common Stock,stocks,us,XNAS,CS,True,usd,0001622536,BBG01GWQVVD3,BBG01GWQVW78,2024-07-15T00:00:00Z
 TLPH,"Talphera, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1427925.0,BBG0018YYFX7,BBG001TFZCK5,2024-06-21T00:00:00Z
 TLRY,"Tilray Brands, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1731348.0,BBG00L7XTP60,BBG00L7XTPY9,2024-06-21T00:00:00Z
 TLS,Telos Corporation Common Stock,stocks,us,XNAS,CS,True,usd,320121.0,BBG000BK34C7,BBG001S7W4K5,2024-06-21T00:00:00Z
 TLSA,Tiziana Life Sciences Ltd. Common Shares,stocks,us,XNAS,CS,True,usd,1723069.0,,,2024-06-21T00:00:00Z
 TLSI,"TriSalus Life Sciences, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1826667.0,BBG00Z1TKRG8,BBG00Z1TKRH7,2024-06-21T00:00:00Z
 TLSIW,"TriSalus Life Sciences, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001826667,BBG00Z1HTTT7,,2024-06-26T00:00:00Z
-TLT,iShares 20+ Year Treasury Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG000BJKYW3,BBG001S8MLN3,2024-06-26T00:00:00Z
 TLT,iShares 20+ Year Treasury Bond ETF,stocks,us,XNAS,ETF,True,usd,0001159508,BBG000BJKYW3,BBG001S8MLN3,2024-03-19T00:00:00Z
+TLT,iShares 20+ Year Treasury Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG000BJKYW3,BBG001S8MLN3,2024-06-26T00:00:00Z
 TLTD,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,stocks,us,ARCX,ETF,True,usd,,BBG003FMHL85,BBG003FMHM01,2024-06-26T00:00:00Z
 TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,stocks,us,ARCX,ETF,True,usd,,BBG003FMHK69,BBG003FMHKY8,2024-06-26T00:00:00Z
 TLTW,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,stocks,us,BATS,ETF,True,usd,,BBG01958XXM3,BBG01958XYG8,2024-06-26T00:00:00Z
@@ -10234,6 +10309,7 @@ TOUR,Tuniu Corporation,stocks,us,XNAS,ADRC,True,usd,0001597095,BBG0069FL9S0,BBG0
 TOUS,T. Rowe Price International Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01H03SRP7,BBG01H03SSK0,2024-06-26T00:00:00Z
 TOVX,"Theriva Biologics, Inc.",stocks,us,XASE,CS,True,usd,894158.0,BBG000BV6QX8,BBG001S77L07,2024-06-21T00:00:00Z
 TOWN,Towne Bank,stocks,us,XNAS,CS,True,usd,1170279.0,BBG000BBSC23,BBG001S5WTN1,2024-05-17T00:00:00Z
+TOYO,"TOYO Co., Ltd Ordinary Shares",stocks,us,XNAS,CS,True,usd,0001985273,,,2024-07-15T00:00:00Z
 TPB,"Turning Point Brands, Inc.",stocks,us,XNYS,CS,True,usd,1290677.0,BBG000V76MQ6,BBG001T99T94,2024-06-21T00:00:00Z
 TPC,Tutor Perini Corporation,stocks,us,XNYS,CS,True,usd,77543.0,BBG000BQXHV1,BBG001S5V297,2024-06-21T00:00:00Z
 TPCS,Techprecision Corporation,stocks,us,XNAS,CS,True,usd,1328792.0,BBG000BLWH98,BBG001SDFPL3,2024-06-21T00:00:00Z
@@ -10497,8 +10573,8 @@ UIS,Unisys Corporation,stocks,us,XNYS,CS,True,usd,746838.0,BBG000BW0R88,BBG001S5
 UITB,Victory Portfolios II VictoryShares Core Intermediate Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG00HZ6R992,BBG00HZ6RB06,2024-06-26T00:00:00Z
 UIVM,VictoryShares International Value Momentum ETF,stocks,us,XNAS,ETF,True,usd,,BBG00HZBYCK3,BBG00HZBYD85,2024-06-26T00:00:00Z
 UJAN,Innovator U.S. Equity Ultra Buffer ETF - January,stocks,us,BATS,ETF,True,usd,,BBG00MYXKLR3,BBG00MYXKMH2,2024-06-26T00:00:00Z
-UJB,ProShares Ultra High Yield,stocks,us,ARCX,ETF,True,usd,0001174610,BBG001MJ03G7,BBG001V11QQ3,2024-06-04T00:00:00Z
 UJB,ProShares Ultra High Yield,stocks,us,ARCX,ETF,True,usd,,BBG001MJ03G7,BBG001V11QQ3,2024-06-26T00:00:00Z
+UJB,ProShares Ultra High Yield,stocks,us,ARCX,ETF,True,usd,0001174610,BBG001MJ03G7,BBG001V11QQ3,2024-06-04T00:00:00Z
 UJUL,Innovator U.S. Equity Ultra Buffer ETF - July,stocks,us,BATS,ETF,True,usd,,BBG00LNDTKY6,BBG00LNDTLP4,2024-06-26T00:00:00Z
 UJUN,Innovator U.S. Equity Ultra Buffer ETF - June,stocks,us,BATS,ETF,True,usd,,BBG00PBD0RJ3,BBG00PBD0S83,2024-06-26T00:00:00Z
 UK,Ucommune International Ltd Ordinary Shares,stocks,us,XNAS,CS,True,usd,1821424.0,,,2024-06-21T00:00:00Z
@@ -10561,16 +10637,16 @@ URA,Global X Uranium ETF,stocks,us,ARCX,ETF,True,usd,,BBG0018JWV58,BBG001TF8NP6,
 URAA,Direxion Daily Uranium Industry Bull 2X Shares,stocks,us,ARCX,ETF,True,usd,,BBG01N9X9863,BBG01N9X9998,2024-06-26T00:00:00Z
 URAX,Defiance Daily Target 2x Long Uranium ETF,stocks,us,ARCX,ETS,True,usd,,BBG01MYQPS24,BBG01MYQPSX0,2024-06-26T00:00:00Z
 URBN,Urban Outfitters Inc,stocks,us,XNAS,CS,True,usd,912615.0,BBG000BL79J3,BBG001S7H9K1,2024-06-21T00:00:00Z
-URE,ProShares Ultra Real Estate,stocks,us,ARCX,ETF,True,usd,0001174610,BBG000QXLPJ9,BBG001SSTDC2,2024-05-17T00:00:00Z
 URE,ProShares Ultra Real Estate,stocks,us,ARCX,ETF,True,usd,,BBG000QXLPJ9,BBG001SSTDC2,2024-06-26T00:00:00Z
+URE,ProShares Ultra Real Estate,stocks,us,ARCX,ETF,True,usd,0001174610,BBG000QXLPJ9,BBG001SSTDC2,2024-05-17T00:00:00Z
 URG,Ur-Energy Inc.,stocks,us,XASE,CS,True,usd,1375205.0,BBG000M5BMH4,BBG001SKVFK2,2024-05-17T00:00:00Z
 URGN,UroGen Pharma Ltd. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1668243.0,,,2024-06-21T00:00:00Z
 URI,"United Rentals, Inc.",stocks,us,XNYS,CS,True,usd,1067701.0,BBG000BXMFC3,BBG001SBGZ25,2024-06-21T00:00:00Z
 URNJ,Sprott Junior Uranium Miners ETF,stocks,us,XNAS,ETF,True,usd,,BBG01DJ769T7,BBG01DJ76BT2,2024-06-26T00:00:00Z
 URNM,Sprott Uranium Miners ETF,stocks,us,ARCX,ETF,True,usd,,BBG016ZGFKV6,BBG016ZGFLP1,2024-06-26T00:00:00Z
 UROY,Uranium Royalty Corp. Common Stock,stocks,us,XNAS,CS,True,usd,1711570.0,BBG00RC86FX3,BBG00QPZFP14,2024-06-21T00:00:00Z
-URTH,iShares MSCI World ETF,stocks,us,ARCX,ETF,True,usd,0000930667,BBG002D9R2H9,BBG002D9R378,2024-06-13T00:00:00Z
 URTH,iShares MSCI World ETF,stocks,us,ARCX,ETF,True,usd,,BBG002D9R2H9,BBG002D9R378,2024-06-26T00:00:00Z
+URTH,iShares MSCI World ETF,stocks,us,ARCX,ETF,True,usd,0000930667,BBG002D9R2H9,BBG002D9R378,2024-06-13T00:00:00Z
 URTY,ProShares UltraPro Russell2000,stocks,us,ARCX,ETF,True,usd,,BBG000QBDZ04,BBG001T6S4N8,2024-06-26T00:00:00Z
 USA,Liberty All-Star Equity Fund,stocks,us,XNYS,FUND,True,usd,0000799195,BBG000BW4TB6,BBG001S5X3D8,2024-05-17T00:00:00Z
 USAC,USA COMPRESSION PARTNERS LP,stocks,us,XNYS,CS,True,usd,1522727.0,BBG001QYKF35,BBG001V1S8F6,2024-06-21T00:00:00Z
@@ -10628,8 +10704,8 @@ USRT,iShares Core U.S. REIT ETF,stocks,us,ARCX,ETF,True,usd,,BBG000R72F62,BBG001
 USSE,Segall Bryant & Hamill Select Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J2RH453,BBG01J2RH514,2024-06-26T00:00:00Z
 USSG,Xtrackers MSCI USA ESG Leaders Equity ETF,stocks,us,ARCX,ETF,True,usd,,BBG00NJ41SD3,BBG00NJ41T41,2024-06-26T00:00:00Z
 USSH,WisdomTree 1-3 Year Laddered Treasury Fund,stocks,us,XNAS,ETF,True,usd,,BBG01LW4N8R6,BBG01LW4N9Q5,2024-06-26T00:00:00Z
-UST,ProShares Ultra 7-10 Year Treasury,stocks,us,ARCX,ETF,True,usd,0000810972,BBG000BH4371,BBG001SK30C5,2024-06-25T00:00:00Z
 UST,ProShares Ultra 7-10 Year Treasury,stocks,us,ARCX,ETF,True,usd,,BBG000BH4371,BBG001SK30C5,2024-06-26T00:00:00Z
+UST,ProShares Ultra 7-10 Year Treasury,stocks,us,ARCX,ETF,True,usd,0000810972,BBG000BH4371,BBG001SK30C5,2024-06-25T00:00:00Z
 USTB,Victory Portfolios II VictoryShares Short-Term Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG00HZ6R8J3,BBG00HZ6R974,2024-06-26T00:00:00Z
 USVM,VictoryShares US Small Mid Cap Value Momentum ETF,stocks,us,XNAS,ETF,True,usd,,BBG00HZ6RBT5,BBG00HZ6RCJ4,2024-06-26T00:00:00Z
 USVN,US Treasury 7 Year Note ETF,stocks,us,XNAS,ETF,True,usd,,BBG01G265Z04,BBG01G265ZW9,2024-06-26T00:00:00Z
@@ -10718,8 +10794,8 @@ VCXB,10X Capital Venture Acquisition Corp. III,stocks,us,XASE,CS,True,usd,184894
 VCXB.U,"10X Capital Venture Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",stocks,us,XASE,UNIT,True,usd,0001848948,,,2024-06-26T00:00:00Z
 VCYT,"Veracyte, Inc.",stocks,us,XNAS,CS,True,usd,1384101.0,BBG001J2M542,BBG001TSQWW0,2024-05-17T00:00:00Z
 VDC,Vanguard Consumer Staples ETF,stocks,us,ARCX,ETF,True,usd,,BBG000HWRGK3,BBG001SHVR41,2024-06-26T00:00:00Z
-VDE,Vanguard Energy ETF,stocks,us,ARCX,ETF,True,usd,,BBG000HTG205,BBG001SHTV45,2024-06-26T00:00:00Z
 VDE,Vanguard Energy ETF,stocks,us,ARCX,ETF,True,usd,0000052848,BBG000HTG205,BBG001SHTV45,2024-04-29T00:00:00Z
+VDE,Vanguard Energy ETF,stocks,us,ARCX,ETF,True,usd,,BBG000HTG205,BBG001SHTV45,2024-06-26T00:00:00Z
 VEA,Vanguard FTSE Developed Markets ETF,stocks,us,ARCX,ETF,True,usd,,BBG000QVFB47,BBG001SSPWL4,2024-06-26T00:00:00Z
 VEC,VECTRUS INC COM STK (IN),stocks,us,XNYS,CS,True,usd,,BBG005PG80K4,BBG005PG80L3,2016-05-18T00:00:00Z
 VECO,Veeco Instruments Inc,stocks,us,XNAS,CS,True,usd,103145.0,BBG000BDCB28,BBG001S5X6T4,2024-06-21T00:00:00Z
@@ -10875,8 +10951,8 @@ VONV,Vanguard Russell 1000 Value ETF,stocks,us,XNAS,ETF,True,usd,,BBG0016LBYG0,B
 VOO,Vanguard S&P 500 ETF,stocks,us,ARCX,ETF,True,usd,,BBG0015VYNT4,BBG001TC6MC1,2024-06-26T00:00:00Z
 VOOG,Vanguard S&P 500 Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG0015VYPM6,BBG001TC6MF8,2024-06-26T00:00:00Z
 VOOG,Vanguard S&P 500 Growth ETF,stocks,us,ARCX,ETF,True,usd,0000891190,BBG0015VYPM6,BBG001TC6MF8,2024-05-20T00:00:00Z
-VOOV,Vanguard S&P 500 Value ETF,stocks,us,ARCX,ETF,True,usd,,BBG0015VYQF2,BBG001TC6MG7,2024-06-26T00:00:00Z
 VOOV,Vanguard S&P 500 Value ETF,stocks,us,ARCX,ETF,True,usd,0000891190,BBG0015VYQF2,BBG001TC6MG7,2024-06-06T00:00:00Z
+VOOV,Vanguard S&P 500 Value ETF,stocks,us,ARCX,ETF,True,usd,,BBG0015VYQF2,BBG001TC6MG7,2024-06-26T00:00:00Z
 VOR,Vor Biopharma Inc. Common Stock,stocks,us,XNAS,CS,True,usd,1817229.0,BBG00NBJRDT6,BBG00NBJRDV3,2024-06-21T00:00:00Z
 VOT,Vanguard Mid-Cap Growth ETF,stocks,us,ARCX,ETF,True,usd,0000036405,BBG000Q1ZB87,BBG001SRN7S6,2024-05-06T00:00:00Z
 VOT,Vanguard Mid-Cap Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG000Q1ZB87,BBG001SRN7S6,2024-06-26T00:00:00Z
@@ -10891,8 +10967,8 @@ VPC,Virtus Private Credit Strategy ETF,stocks,us,ARCX,ETF,True,usd,,BBG00N875F15
 VPG,"Vishay Precision Group, Inc.",stocks,us,XNYS,CS,True,usd,1487952.0,BBG000PRQ0V9,BBG001T5X9F2,2024-06-21T00:00:00Z
 VPL,Vanguard FTSE Pacific ETF,stocks,us,ARCX,ETF,True,usd,,BBG000HTCFY3,BBG001SHTV36,2024-06-26T00:00:00Z
 VPLS,Vanguard Core Plus Bond ETF,stocks,us,XNAS,ETF,True,usd,,BBG01KG1P3G3,BBG01KG1P4G1,2024-06-26T00:00:00Z
-VPU,Vanguard Utilities ETF,stocks,us,ARCX,ETF,True,usd,,BBG000HX1FV9,BBG001SHVTP4,2024-06-26T00:00:00Z
 VPU,Vanguard Utilities ETF,stocks,us,ARCX,ETF,True,usd,0000052848,BBG000HX1FV9,BBG001SHVTP4,2024-05-31T00:00:00Z
+VPU,Vanguard Utilities ETF,stocks,us,ARCX,ETF,True,usd,,BBG000HX1FV9,BBG001SHVTP4,2024-06-26T00:00:00Z
 VPV,Invesco  Pennsylvania Value Municipal Income Trust,stocks,us,XNYS,FUND,True,usd,0000895528,BBG000BGHY71,BBG001S75GP3,2024-06-26T00:00:00Z
 VRA,"Vera Bradley, Inc.",stocks,us,XNAS,CS,True,usd,1495320.0,BBG000R50SY9,BBG001T94V30,2024-05-17T00:00:00Z
 VRAI,Virtus Real Asset Income ETF,stocks,us,ARCX,ETF,True,usd,,BBG00N875LS3,BBG00N875MJ1,2024-06-26T00:00:00Z
@@ -11037,6 +11113,7 @@ WBND,Western Asset Total Return ETF,stocks,us,XNAS,ETF,True,usd,,BBG00M55XWH9,BB
 WBS,Webster Financial Corporation Waterbury,stocks,us,XNYS,CS,True,usd,801337.0,BBG000BWMX63,BBG001S5XCP5,2024-06-21T00:00:00Z
 WBSpF,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",stocks,us,XNYS,PFD,True,usd,0000801337,,,2024-06-26T00:00:00Z
 WBSpG,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G noncumulative perpetual preferred stock",stocks,us,XNYS,PFD,True,usd,0000801337,,,2024-06-26T00:00:00Z
+WBTN,WEBTOON Entertainment Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001997859,BBG00V3Z6Y54,BBG00V3Z6Y63,2024-07-15T00:00:00Z
 WBUY,WEBUY GLOBAL LTD. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1946703.0,,,2024-06-21T00:00:00Z
 WBX,Wallbox N.V.,stocks,us,XNYS,CS,True,usd,1866501.0,,,2024-06-21T00:00:00Z
 WBX.WS,"Wallbox N.V. Warrants, each warrant to purchase one Class A Ordinary Share",stocks,us,XNYS,WARRANT,True,usd,0001866501,,,2024-06-26T00:00:00Z
@@ -11326,8 +11403,8 @@ XLI,Industrial Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,,BBG000BJ2RF7
 XLK,Technology Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,0001064641,BBG000BJ7007,BBG001S7TCZ5,2024-05-24T00:00:00Z
 XLK,Technology Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,,BBG000BJ7007,BBG001S7TCZ5,2024-06-26T00:00:00Z
 XLO,"Xilio Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1840233.0,BBG00M4D4X92,BBG00M4D4XC8,2024-06-21T00:00:00Z
-XLP,Consumers Staples Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,0000019481,BBG000BJ10N8,BBG001S7T107,2024-06-17T00:00:00Z
 XLP,Consumers Staples Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,,BBG000BJ10N8,BBG001S7T107,2024-06-26T00:00:00Z
+XLP,Consumers Staples Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,0000019481,BBG000BJ10N8,BBG001S7T107,2024-06-17T00:00:00Z
 XLRE,Real Estate Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,0001064641,BBG00B597128,BBG00B597137,2024-05-31T00:00:00Z
 XLRE,Real Estate Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,,BBG00B597128,BBG00B597137,2024-06-26T00:00:00Z
 XLSR,SPDR SSGA US Sector Rotation ETF,stocks,us,ARCX,ETF,True,usd,,BBG00NS9VT92,BBG00NS9VV15,2024-06-26T00:00:00Z
@@ -11337,8 +11414,8 @@ XLV,Health Care Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,,BBG000BHVSG
 XLY,Consumer Discretionary Select Sector SPDR Fund,stocks,us,ARCX,ETF,True,usd,,BBG000BJ1MF9,BBG001S7T1Q9,2024-06-26T00:00:00Z
 XMAR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March,stocks,us,BATS,ETF,True,usd,,BBG01FTS8GG1,BBG01FTS8H97,2024-06-26T00:00:00Z
 XMAY,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - May,stocks,us,BATS,ETF,True,usd,,BBG01MW66Q34,BBG01MW66QY0,2024-06-26T00:00:00Z
-XME,SPDR S&P Metals & Mining ETF,stocks,us,ARCX,ETF,True,usd,,BBG000D83WR4,BBG001SMH2W0,2024-06-26T00:00:00Z
 XME,SPDR S&P Metals & Mining ETF,stocks,us,ARCX,ETF,True,usd,0001064642,BBG000D83WR4,BBG001SMH2W0,2024-06-04T00:00:00Z
+XME,SPDR S&P Metals & Mining ETF,stocks,us,ARCX,ETF,True,usd,,BBG000D83WR4,BBG001SMH2W0,2024-06-26T00:00:00Z
 XMHQ,Invesco S&P MidCap Quality ETF,stocks,us,ARCX,ETF,True,usd,,BBG000QDT2T5,BBG001SS30K9,2024-06-26T00:00:00Z
 XMLV,Invesco S&P MidCap Low Volatility ETF,stocks,us,ARCX,ETF,True,usd,,BBG00449DWC9,BBG00449DWF6,2024-06-26T00:00:00Z
 XMMO,Invesco S&P MidCap Momentum ETF,stocks,us,ARCX,ETF,True,usd,,BBG000L5TZW0,BBG001SJW5S8,2024-06-26T00:00:00Z
@@ -11387,8 +11464,8 @@ XSHD,Invesco S&P SmallCap High Dividend Low Volatility ETF,stocks,us,BATS,ETF,Tr
 XSHQ,Invesco S&P SmallCap Quality ETF,stocks,us,BATS,ETF,True,usd,,BBG00GBGV9L9,BBG00GBGVB98,2024-06-26T00:00:00Z
 XSLV,Invesco S&P SmallCap Low Volatility ETF,stocks,us,ARCX,ETF,True,usd,,BBG00449DVG7,BBG00449DVH6,2024-06-26T00:00:00Z
 XSMO,Invesco S&P SmallCap Momentum ETF,stocks,us,ARCX,ETF,True,usd,,BBG000L69QX9,BBG001SJWX52,2024-06-26T00:00:00Z
-XSOE,WisdomTree Emerging Markets ex-State-Owned Enterprises Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG007PB9N11,BBG007PB9N20,2024-05-17T00:00:00Z
 XSOE,WisdomTree Emerging Markets ex-State-Owned Enterprises Fund,stocks,us,ARCX,ETF,True,usd,,BBG007PB9N11,BBG007PB9N20,2024-06-26T00:00:00Z
+XSOE,WisdomTree Emerging Markets ex-State-Owned Enterprises Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG007PB9N11,BBG007PB9N20,2024-05-17T00:00:00Z
 XSVM,Invesco S&P SmallCap Value with Momentum ETF,stocks,us,ARCX,ETF,True,usd,,BBG000L5Y4D4,BBG001SJW5Z0,2024-06-26T00:00:00Z
 XSVN,BondBloxx Bloomberg Seven Year Target Duration US Treasury ETF,stocks,us,ARCX,ETF,True,usd,,BBG019MD3DQ6,BBG019MD3FL6,2024-06-26T00:00:00Z
 XSW,SPDR S&P Software & Services ETF,stocks,us,ARCX,ETF,True,usd,,BBG0024LG4M4,BBG0024LG5C2,2024-06-26T00:00:00Z
@@ -11442,8 +11519,8 @@ YIBO,Planet Image International Limited Class A Ordinary Shares,stocks,us,XNAS,C
 YINN,Direxion Daily FTSE  China Bull 3X Shares,stocks,us,ARCX,ETF,True,usd,,BBG000PY4FX3,BBG001T64052,2024-06-26T00:00:00Z
 YJ,Yunji Inc. American Depository Shares,stocks,us,XNAS,ADRC,True,usd,0001759614,BBG00NPL7MC6,BBG00NPL7N34,2024-06-26T00:00:00Z
 YJUN,FT Vest International Equity Moderate Buffer ETF - June,stocks,us,BATS,ETF,True,usd,,BBG011FRZHL1,BBG011FRZJF4,2024-06-26T00:00:00Z
-YLD,Principal Active High Yield ETF,stocks,us,ARCX,ETF,True,usd,0001572661,BBG009KJNFQ9,BBG009KJNFR8,2024-05-22T00:00:00Z
 YLD,Principal Active High Yield ETF,stocks,us,ARCX,ETF,True,usd,,BBG009KJNFQ9,BBG009KJNFR8,2024-06-26T00:00:00Z
+YLD,Principal Active High Yield ETF,stocks,us,ARCX,ETF,True,usd,0001572661,BBG009KJNFQ9,BBG009KJNFR8,2024-05-22T00:00:00Z
 YLDE,ClearBridge Dividend Strategy ESG ETF,stocks,us,XNAS,ETF,True,usd,,BBG00GPXR8H9,BBG00GPXR969,2024-06-26T00:00:00Z
 YMAB,"Y-mAbs Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,1722964.0,BBG00J2DBMZ8,BBG00J2DBN04,2024-06-21T00:00:00Z
 YMAG,YieldMax Magnificent 7 Fund of Option Income ETFs,stocks,us,ARCX,ETF,True,usd,,BBG01L7YNZB5,BBG01L7YP057,2024-06-26T00:00:00Z
@@ -11505,6 +11582,7 @@ ZIONO,"Zions Bancorporation, N.A. Depositary Shares, Each Representing 1/40th In
 ZIONP,"Zions Bancorporation, N.A. Depositary Shares (Each Representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)",stocks,us,XNAS,PFD,True,usd,0000109380,,,2024-06-26T00:00:00Z
 ZIP,"ZipRecruiter, Inc.",stocks,us,XNYS,CS,True,usd,1617553.0,BBG010JBYV98,BBG010JBYW41,2024-06-21T00:00:00Z
 ZIVB,-1x Short VIX Mid-Term Futures Strategy ETF,stocks,us,BATS,ETF,True,usd,,BBG01G6K5K57,BBG01G6K5L19,2024-06-26T00:00:00Z
+ZJUL,Innovtor Equity Defined Protection ETF - 1 Yr July,stocks,us,BATS,ETF,True,usd,,BBG01NJ1YH91,BBG01NJ1YJ42,2024-07-15T00:00:00Z
 ZJYL,JIN MEDICAL INTERNATIONAL LTD. Ordinary Shares,stocks,us,XNAS,CS,True,usd,1837821.0,,,2024-06-21T00:00:00Z
 ZK,ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares),stocks,us,XNYS,ADRC,True,usd,0001954042,BBG010J22GT4,BBG010J22GV1,2024-06-26T00:00:00Z
 ZKH,"ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",stocks,us,XNYS,ADRC,True,usd,0001862044,BBG01FRPM871,BBG01FRPM899,2024-06-26T00:00:00Z
@@ -11552,3 +11630,4 @@ ZZZ,Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy ETF,stocks,us,XNAS,ETF,True,
 ,Nano Labs Ltd Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001872302,2024-06-25T00:00:00Z,,
 ,Nano Labs Ltd Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001872302,,,2024-06-26T00:00:00Z
 ,Nano Labs Ltd Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001872302,2024-06-26T00:00:00Z,,
+,Nano Labs Ltd Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001872302,,,2024-07-15T00:00:00Z

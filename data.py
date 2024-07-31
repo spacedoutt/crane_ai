@@ -7,7 +7,7 @@ import time
 def get_data():
     get_news_data()
     get_tickers()
-    time.sleep(60)
+    time.sleep(1)
     thread_stocks()
     sort_polygon_data()
 

@@ -1,12 +1,13 @@
 import argparse
 # important for chatbot to work
 import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline, DistilBertTokenizer, DistilBertForSequenceClassification
 # important for training
 import json
 import re
 from pprint import pprint
 import os
+import numpy as np
 
 import pandas as pd
 from datasets import Dataset, load_dataset
@@ -16,10 +17,10 @@ from trl import SFTTrainer
 import matplotlib.pyplot as plt
 
 parser = argparse.ArgumentParser(description="Chat with the Phi-3-mini-4k-instruct model.")
-parser.add_argument("--type", type=str, default="use", help="Type of interaction with the model. Options: use, train")
-parser.add_argument("--model_name", type=str, default="mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis", help="Name of the model to use. Default: microsoft/Phi-3-mini-4k-instruct")
+parser.add_argument("--type", type=str, default="train", help="Type of interaction with the model. Options: use, train")
+parser.add_argument("--model_name", type=str, default="microsoft/Phi-3-mini-4k-instruct", help="Name of the model to use. Default: microsoft/Phi-3-mini-4k-instruct")
 parser.add_argument("--compare-trained-model", type=bool, default=False, help="Compare the trained model with the original model. Default: False")
-parser.add_argument("--ai-type", type=str, default="sentiment", help="Type of AI to use. Options: chat, sentiment")
+parser.add_argument("--ai-type", type=str, default="chat", help="Type of AI to use. Options: chat, sentiment")
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
@@ -34,7 +35,7 @@ def summarize(model, text: str, tokenizer):
         outputs = model.generate(**inputs, max_new_tokens=256, temperature=0.0001)
     return tokenizer.decode(outputs[0][inputs_length:], skip_special_tokens=True)
 
-def create_mtl(model_name: str):
+def create_mtl(model_name: str, ai_type: str):
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
@@ -47,9 +48,9 @@ def create_mtl(model_name: str):
         quantization_config=bnb_config,
         trust_remote_code=True, 
         use_safetensors=True,
-    )
+    ) if (ai_type == "chat") else DistilBertForSequenceClassification.from_pretrained(model_name)
     
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    tokenizer = AutoTokenizer.from_pretrained(model_name) if (ai_type == "chat") else DistilBertTokenizer.from_pretrained(model_name)
     tokenizer.pad_token = tokenizer.eos_token
     tokenizer.padding_side = "right"    
     
@@ -74,14 +75,13 @@ def create_mtl(model_name: str):
 
 def use_model(model_name: str, test_train: bool, ai_type: str = "chat"):
     torch.random.manual_seed(0)
-    model, tokenizer, _ = create_mtl(model_name)
+    model, tokenizer, _ = create_mtl(model_name, ai_type)
     trained_model = PeftModel.from_pretrained(model, "outputs") if test_train else None
     
     if ai_type == "sentiment":
         sentiment_pipe = pipeline("sentiment-analysis", model=model_name, tokenizer=tokenizer)
-        
         # Read the CSV file
-        df = pd.read_csv(os.path.join('polygon_data', 'polygon_news.csv'))
+        df = pd.read_csv(os.path.join("polygon_data", "polygon_news.csv"))
         
         results = []
         
@@ -91,21 +91,40 @@ def use_model(model_name: str, test_train: bool, ai_type: str = "chat"):
             title = row['Title']
             link = row['Link']
             
-            result = sentiment_pipe(content)
-            sentiment = result[0]['label']
+            # Initialize variables for sentiment averaging
+            sentiments = []
+            
+            # Split content into chunks
+            tokens = tokenizer.tokenize(content)
+            max_length = 512
+            chunks = [tokens[i:i + max_length] for i in range(0, len(tokens), max_length)]
+            
+            for chunk in chunks:
+                chunk_text = tokenizer.convert_tokens_to_string(chunk)
+                result = sentiment_pipe(chunk_text)
+                sentiment = result[0]['label']
+                # Convert sentiment to numerical value for averaging
+                if sentiment == 'POSITIVE':
+                    sentiments.append(1)
+                else:
+                    sentiments.append(0)
+            
+            # Calculate average sentiment
+            average_sentiment_score = np.mean(sentiments)
+            average_sentiment = 'positive' if average_sentiment_score >= 0.5 else 'negative'
             
             results.append({
-                "Title": title,
-                "Link": link,
-                "Sentiment": sentiment,
-                "Tickers": []
+                "title": title,
+                "link": link,
+                "sentiment": average_sentiment,
+                "tickers": ""
             })
         
         # Create a new DataFrame
         result_df = pd.DataFrame(results)
         
         # Save the result to a new CSV file
-        result_df.to_csv(os.path.join("polygon_data", "news_sentiment.csv"), index=False)
+        result_df.to_csv("/mnt/data/polygon_news_sentiment.csv", index=False)
         print("Sentiment analysis completed and saved to polygon_news_sentiment.csv")
 
     if ai_type == "chat":
@@ -151,7 +170,7 @@ def train(model_name: str):
     dataset = load_dataset("Salesforce/wikitext", "wikitext-2-v1", split=["train[:10%]", "validation[:10%]", "test[:10%]"])
     print(dataset)
     
-    model, tokenizer, peft_config = create_mtl(model_name)
+    model, tokenizer, peft_config = create_mtl(model_name, "chat")
     model.config.use_cache = False
 
     output_dir = "model_3"
