@@ -30,14 +30,14 @@ def merge_csv_files(file_list, output_file):
     merged_df.to_csv(output_file, index=False)
 
 # Replace these with your actual directories
-root_dirs = ['Media Sets']
+root_dirs = ['Article Sets']
 
 all_csv_files = []
 for root_dir in root_dirs:
     all_csv_files.extend(collect_csv_files(root_dir))
 
 # Specify the output file
-output_csv = 'media_set.csv'
+output_csv = 'article_set.csv'
 
 merge_csv_files(all_csv_files, output_csv)
 
